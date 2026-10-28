@@ -12,7 +12,7 @@ Please report problems with this port here.
 
 **Made with AI:** this port is made entirely with AI (Claude), from the code changes to the in-game testing.
 
-**Work in progress:** not playable yet.
+**Beta:** playable, but young. Back up your worlds before adding it.
 
 ## Requirements
 
@@ -21,9 +21,10 @@ Please report problems with this port here.
 - [Cucumber Library: Back to Life](https://github.com/Xponer2/cucumber-back-to-life).
 - Can't be used together with the original Mystical Agriculture or Cucumber for 1.12.2, or the mods that need them.
 
-Content that Minecraft 1.12.2 doesn't have (copper, netherite, sculk, turtles, bees, ...) has no recipes; recipes
-that give such content give something similar where 1.12.2 has it (tuff gives andesite, warped stems give spruce
-logs).
+The crops of materials Minecraft 1.12.2 doesn't have are turned off: deepslate, honey, amethyst, netherite, sculk,
+turtle, armadillo, phantom and breeze. Copper comes from the Translator (or from another mod that adds copper).
+Recipes that use or give other content 1.12.2 doesn't have get something similar where 1.12.2 has it (tuff gives
+andesite, warped stems give spruce logs) and are left out otherwise.
 
 ## Building
 
