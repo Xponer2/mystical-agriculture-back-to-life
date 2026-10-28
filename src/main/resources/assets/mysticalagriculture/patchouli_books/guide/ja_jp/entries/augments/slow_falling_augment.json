@@ -1,0 +1,12 @@
+{
+  "name": "落下速度低下のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slow_falling_augment",
+  "sortnum": 324,
+  "pages": [
+    {
+      "type": "text",
+      "text": "落下速度低下のオーグメントは、着用者に落下速度低下を付与するブーツ用のオーグメントです。$(br2)この効果はShiftキーを押している間は無効化されます。"
+    }
+  ]
+}

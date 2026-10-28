@@ -1,0 +1,12 @@
+{
+  "name": "Geschwindigkeits-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:speed_iii_augment",
+  "sortnum": 306,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Geschwindigkeits-Augment ist ein Beinrüstungs-Augment, das die Bewegungsgeschwindigkeit des Trägers erhöht, während die Rüstung getragen wird. Dieser Effekt wird auch auf die Fluggeschwindigkeit angewendet."
+    }
+  ]
+}

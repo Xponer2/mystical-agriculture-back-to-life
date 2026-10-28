@@ -1,0 +1,12 @@
+{
+  "name": "コグニザントダスト",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:cognizant_dust",
+  "sortnum": 151,
+  "pages": [
+    {
+      "type": "text",
+      "text": "コグニザントダストは$(bold)通常$()、神秘の啓示のエンチャントが付与された$(l:tinkering/essence_tools)エッセンスの武器$()で、ウィザーやエンダードラゴンを倒したときにドロップします。$(br2)神秘の啓示のレベルが高いほど、倒したときにドロップするダストの量が増加します。"
+    }
+  ]
+}

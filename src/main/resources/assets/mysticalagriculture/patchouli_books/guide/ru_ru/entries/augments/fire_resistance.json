@@ -1,0 +1,12 @@
+{
+  "name": "Огнестойкость (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:fire_resistance_augment",
+  "sortnum": 309,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Огнестойкость (Расширение) - расширение для брони, дающее владельцу иммунитет к огню, пока надета броня."
+    }
+  ]
+}

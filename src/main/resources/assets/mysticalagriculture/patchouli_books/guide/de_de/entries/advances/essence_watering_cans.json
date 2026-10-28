@@ -1,0 +1,17 @@
+{
+  "name": "Essenz-Gießkannen",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_watering_can",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Aufrüsten der normalen $(l:basics/watering_can)Gießkanne$() mit Essenzen und $(l:advances/mystical_fertilizer)Mystischem Dünger$() verbessert das Pflanzenwachstum erheblich. $(br2)Aufgerüstete Gießkannen haben eine verbesserte Reichweite und Wachstumsbeschleunigung. Automatisches Gießen kann durch Shift + Rechtsklick mit der Gießkanne aktiviert werden, während kein Block anvisiert wird."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:gear/inferium_watering_can"
+    }
+  ]
+}

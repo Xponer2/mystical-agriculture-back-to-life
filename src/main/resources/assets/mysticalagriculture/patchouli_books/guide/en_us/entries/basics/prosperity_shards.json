@@ -1,0 +1,12 @@
+{
+  "name": "Prosperity Shards",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_shard",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Prosperity Shards are the other of the two base materials in Mystical Agriculture. They are used to create magical variations of basic materials. You can $(bold)usually$() obtain Prosperity Shards by mining them from the ground."
+    }
+  ]
+}

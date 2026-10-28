@@ -1,0 +1,17 @@
+{
+  "name": "Sementes de Inferium",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "As Sementes de Inferium são uma das principais maneiras de coletar Essência de Inferium. Elas podem ser cultivadas em qualquer terra arada, mas são mais eficientes em $(l:basics/essence_farmland)Terra Arada de Essência$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

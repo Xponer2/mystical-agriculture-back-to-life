@@ -1,0 +1,12 @@
+{
+  "name": "觉醒精华",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakened_supremium_essence",
+  "sortnum": 154,
+  "pages": [
+    {
+      "type": "text",
+      "text": "觉醒精华是一种用于升级终极物品的高级合成材料。$(br2)$(bold)通常$() 觉醒精华的合成方式是使用$(l:elemental/awakening_altar)觉醒祭坛$()将$(l:elemental/cognizant_dust)觉醒粉()灌注到终极精华块中。"
+    }
+  ]
+}

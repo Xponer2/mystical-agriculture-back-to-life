@@ -1,0 +1,18 @@
+{
+  "name": "成長加速器",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_growth_accelerator",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "成長加速器は、植物の成長速度を促進するために使用します。範囲内の植物にランダムな成長ティックを適用します。$(br2)植物が範囲内にある限り、任意のランクの成長加速器の効果を積み重ねることができます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:inferium_growth_accelerator",
+      "text": "成長加速器の範囲は、耕地の下に設置されることを前提としています。$(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/speeding-up-crop-growth)成長加速器のより詳しい使い方はここをクリック。$()"
+    }
+  ]
+}

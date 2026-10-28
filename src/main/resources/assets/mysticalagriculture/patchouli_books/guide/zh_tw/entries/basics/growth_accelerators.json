@@ -1,0 +1,18 @@
+{
+  "name": "生長加速器",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_growth_accelerator",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "生長加速器被用來提高植物的生長速度. 在特定範圍內，它們會增加被放置在它們上面的第一個植物的生長隨機刻. 你可以放置多個任意層級的生長加速器，只要植物在其範圍內."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:inferium_growth_accelerator",
+      "text": "The range of the Growth Accelerator is based on it being placed underneath the farmland. $(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/speeding-up-crop-growth)Click here for a detailed guide on using Growth Accelerators.$()"
+    }
+  ]
+}

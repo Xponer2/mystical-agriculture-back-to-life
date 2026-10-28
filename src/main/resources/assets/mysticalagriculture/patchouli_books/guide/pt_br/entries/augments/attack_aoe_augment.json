@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Área de Ataque",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:attack_aoe_iii_augment",
+  "sortnum": 312,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Área de Ataque é um aprimoramento de espada que aumenta o raio de ataque da espada em até 6 blocos."
+    }
+  ]
+}

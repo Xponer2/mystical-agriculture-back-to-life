@@ -1,0 +1,12 @@
+{
+  "name": "Hız Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:speed_iii_augment",
+  "sortnum": 306,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Hız Güçlendirmesi, zırh takılı olduğu sürece kullanıcının hareket hızını artıran bir tozluk güçlendirmesidir. Bu etki uçuş hızına da uygulanır."
+    }
+  ]
+}

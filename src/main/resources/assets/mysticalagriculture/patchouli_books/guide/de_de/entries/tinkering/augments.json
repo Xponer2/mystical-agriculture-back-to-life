@@ -1,0 +1,18 @@
+{
+  "name": "Augmentierungen",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:unattuned_augment",
+  "sortnum": 253,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Augmentierungen sind Upgrades für $(l:tinkering/essence_tools)Essenzwerkzeuge$() und $(l:tinkering/essence_armor)Essenzrüstungen$(). Augmentierungen werden mit einem $(l:tinkering/tinkering_table)Basteltisch$() zu den Ausrüstungsgegenständen hinzugefügt. $(br2)Jedes Augment hat eine Stufe, die die Mindeststufe des Ausrüstungsgegenstands angibt, die erforderlich ist, um es auszurüsten."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "text": "Die Funktion jeder Augmentierung sind im Abschnitt 'Augmentierungen' dieses Leitfadens aufgeführt.",
+      "recipe": "mysticalagriculture:unattuned_augment"
+    }
+  ]
+}

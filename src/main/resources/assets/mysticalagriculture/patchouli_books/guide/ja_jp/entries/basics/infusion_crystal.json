@@ -1,0 +1,18 @@
+{
+  "name": "注入のクリスタル",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_crystal",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "注入のクリスタルは、高ランクのエッセンスの作成に使用します。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:infusion_crystal",
+      "recipe2": "mysticalagriculture:prudentium_essence"
+    }
+  ]
+}

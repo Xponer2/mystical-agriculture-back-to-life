@@ -1,0 +1,12 @@
+{
+  "name": "Night Vision Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:night_vision_augment",
+  "sortnum": 302,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Night Vision Augment is a helmet augment that grants the wearer Night Vision while they have the armor equipped."
+    }
+  ]
+}

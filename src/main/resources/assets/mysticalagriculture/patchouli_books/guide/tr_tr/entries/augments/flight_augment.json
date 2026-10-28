@@ -1,0 +1,12 @@
+{
+  "name": "Uçuş Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:flight_augment",
+  "sortnum": 316,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Uçuş Güçlendirmesi, zırh takılıyken kullanıcıya yaratıcı mod uçuş sağlayan bir göğüslük güçlendirmesidir."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de caída lenta",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slow_falling_augment",
+  "sortnum": 324,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de caída lenta es un aumento de pantalones que evita que el usuario obtenga el efecto de lentitud mientras tiene la armadura equipada. $(br2)Este efecto se puede anular manteniendo presionada la tecla shift."
+    }
+  ]
+}

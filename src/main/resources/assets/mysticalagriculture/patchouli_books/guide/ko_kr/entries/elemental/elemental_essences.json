@@ -1,0 +1,12 @@
+{
+  "name": "원소 에센스",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:air_essence",
+  "sortnum": 150,
+  "pages": [
+    {
+      "type": "text",
+      "text": "개발 중"
+    }
+  ]
+}

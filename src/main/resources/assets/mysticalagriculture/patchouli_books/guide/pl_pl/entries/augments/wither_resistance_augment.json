@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie odporności na obumarcie",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:wither_resistance_augment",
+  "sortnum": 315,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie odporności na obumarcie to ulepszenie do zbroi, które daje użytkownikowi całkowitą odporność na efekt obumarcia."
+    }
+  ]
+}

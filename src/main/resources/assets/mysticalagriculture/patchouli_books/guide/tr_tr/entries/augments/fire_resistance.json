@@ -1,0 +1,12 @@
+{
+  "name": "Ateş Direnci Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:fire_resistance_augment",
+  "sortnum": 309,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ateş Direnci Güçlendirmesi, zırh takılıyken kullanıcıya Ateş Direnci veren bir zırh güçlendirmesidir."
+    }
+  ]
+}

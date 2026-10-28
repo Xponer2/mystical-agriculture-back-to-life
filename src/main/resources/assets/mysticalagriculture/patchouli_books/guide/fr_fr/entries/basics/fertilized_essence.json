@@ -1,0 +1,12 @@
+{
+  "name": "Fertilized Essence",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Fertilized Essence $(bold)usually$() drops from all $(l:basics/resource_crops)Resource Crops$() $(bold)except Inferium$(). It works identically to Bonemeal, but also works on $(l:basics/resource_crops)Resource Crops$()! $(br2)Fertilized Essence can also be used to more efficiently craft $(l:advances/mystical_fertilizer)Mystical Fertilizer$()."
+    }
+  ]
+}

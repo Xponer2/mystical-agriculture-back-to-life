@@ -1,0 +1,17 @@
+{
+  "name": "Horno",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:furnace",
+  "sortnum": 201,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El horno básico se puede mejorar para aprovechar las $(l:machines/machine_upgrades)mejoras de máquinas$() y aumentar la velocidad de cocción. Funcionan con combustibles sólidos y tienen un búfer de almacenamiento de energía interno."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:furnace"
+    }
+  ]
+}

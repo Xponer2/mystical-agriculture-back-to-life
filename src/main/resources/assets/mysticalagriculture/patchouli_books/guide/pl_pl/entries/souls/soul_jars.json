@@ -1,0 +1,17 @@
+{
+  "name": "Słoiki dusz",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soul_jar",
+  "sortnum": 104,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Słoiki dusz używane są wraz z $(l:souls/soulium_dagger)sztyletem dusz$() do pozyskiwania dusz mobów. Pełne słoiki dusz mogą być użyte do wytworzenia $(l:basics/resource_crops)uprawy materiału$() odpowiadającemu rodzajowi duszy. $(br2)Słoiki dusz$() mogą być również napełnione z użyciem przedmiotów upuszczanych przez moby, z pomocą $(l:machines/soul_extractor)wysysacza dusz$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:soul_jar"
+    }
+  ]
+}

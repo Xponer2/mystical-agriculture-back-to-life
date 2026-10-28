@@ -1,0 +1,12 @@
+{
+  "name": "Eile-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:haste_iii_augment",
+  "sortnum": 323,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Eile-Augment ist ein Brustpanzer-Augment, das die Abbaugeschwindigkeit des Trägers erhöht, solange er die Rüstung trägt."
+    }
+  ]
+}

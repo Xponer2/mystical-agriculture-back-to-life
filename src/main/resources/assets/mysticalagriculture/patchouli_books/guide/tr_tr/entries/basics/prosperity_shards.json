@@ -1,0 +1,12 @@
+{
+  "name": "Prosperity Parçaları",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_shard",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Prosperity Parçaları, Mystical Agriculture'daki iki temel malzemeden diğeridir. Temel malzemelerin büyülü varyasyonlarını oluşturmak için kullanılırlar. Prosperity Parçaları $(bold)genellikle$() yerden kazarak elde edebilirsiniz."
+    }
+  ]
+}

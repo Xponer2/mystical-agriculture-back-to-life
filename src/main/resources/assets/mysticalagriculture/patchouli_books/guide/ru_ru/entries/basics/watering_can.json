@@ -1,0 +1,17 @@
+{
+  "name": "Лейка",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Лейки используются для ускорения роста культур с помощью ручного труда. Чтобы наполнить её, просто щёлкните ПКМ по блоку-источнику воды."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Zayıflık Direnci Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:weakness_resistance_augment",
+  "sortnum": 321,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Zayıflık Direnci Güçlendirmesi, zırh takılıyken kullanıcının Zayıflık etkisi almasını engelleyen bir göğüslük güçlendirmesidir."
+    }
+  ]
+}

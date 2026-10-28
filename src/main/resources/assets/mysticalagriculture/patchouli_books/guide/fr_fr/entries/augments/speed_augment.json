@@ -1,0 +1,12 @@
+{
+  "name": "Speed Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:speed_iii_augment",
+  "sortnum": 306,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Speed Augment is a leggings augment that increases the wearers movement speed while they have the armor equipped. This effect is also applied to flight speed."
+    }
+  ]
+}

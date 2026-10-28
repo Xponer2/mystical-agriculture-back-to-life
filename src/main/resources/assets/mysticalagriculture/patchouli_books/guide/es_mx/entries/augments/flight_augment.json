@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de vuelo",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:flight_augment",
+  "sortnum": 316,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de vuelo es un aumento de pechera que otorga al usuario vuelo creativo mientras tiene la armadura equipada."
+    }
+  ]
+}

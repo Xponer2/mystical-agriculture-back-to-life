@@ -1,0 +1,12 @@
+{
+  "name": "弱体化耐性のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:weakness_resistance_augment",
+  "sortnum": 321,
+  "pages": [
+    {
+      "type": "text",
+      "text": "弱体化耐性のオーグメントは、着用者の弱体化の効果を防ぐチェストプレート用のオーグメントです。"
+    }
+  ]
+}

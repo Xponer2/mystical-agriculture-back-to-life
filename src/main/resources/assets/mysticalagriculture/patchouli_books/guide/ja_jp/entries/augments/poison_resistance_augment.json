@@ -1,0 +1,12 @@
+{
+  "name": "毒耐性のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:poison_resistance_augment",
+  "sortnum": 313,
+  "pages": [
+    {
+      "type": "text",
+      "text": "毒耐性のオーグメントは、着用者の毒の効果を防ぐ防具用のオーグメントです。"
+    }
+  ]
+}

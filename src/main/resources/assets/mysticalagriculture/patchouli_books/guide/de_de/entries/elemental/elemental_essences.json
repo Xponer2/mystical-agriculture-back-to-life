@@ -1,0 +1,12 @@
+{
+  "name": "Elementare Essenzen",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:air_essence",
+  "sortnum": 150,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Luft-, Erd-, Wasser- und Feueressenzen können in $(l:elemental/awakening_altar)Erweckungsaltar$()-Rezepten unter Verwendung von $(l:elemental/essence_vessel)Essenzurnen$() verwendet werden. $(br2)Elementarsamen können auf $(l:basics/essence_farmland)Stufe 1 Essenz-Ackerland$() für zusätzliche Erträge gepflanzt werden."
+    }
+  ]
+}

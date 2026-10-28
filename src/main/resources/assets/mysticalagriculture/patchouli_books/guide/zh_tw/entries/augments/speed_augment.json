@@ -1,0 +1,12 @@
+{
+  "name": "速度升級",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:speed_iii_augment",
+  "sortnum": 306,
+  "pages": [
+    {
+      "type": "text",
+      "text": "速度升級是一種護腿升級，裝備有這種升級的護腿，會提高穿戴者的移動速度.這個效果對飛行速度也有效."
+    }
+  ]
+}

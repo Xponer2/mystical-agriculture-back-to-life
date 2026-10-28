@@ -1,0 +1,41 @@
+{
+  "type": "mysticalagriculture:awakening",
+  "essences": [
+    {
+      "id": "mysticalagriculture:air_essence",
+      "count": 20
+    },
+    {
+      "id": "mysticalagriculture:earth_essence",
+      "count": 20
+    },
+    {
+      "id": "mysticalagriculture:water_essence",
+      "count": 20
+    },
+    {
+      "id": "mysticalagriculture:fire_essence",
+      "count": 20
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:supremium_upgrade"
+  },
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:awakened_supremium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:awakened_supremium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:awakened_supremium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:awakened_supremium_ingot"
+    }
+  ],
+  "result": {
+    "id": "mysticalagriculture:awakened_supremium_upgrade"
+  }
+}

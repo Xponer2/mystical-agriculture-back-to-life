@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Resistência a Veneno",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:poison_resistance_augment",
+  "sortnum": 313,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Resistência a Veneno é um aprimoramento de armadura que impede o usuário de receber o efeito de veneno enquanto estiver com a armadura equipada."
+    }
+  ]
+}

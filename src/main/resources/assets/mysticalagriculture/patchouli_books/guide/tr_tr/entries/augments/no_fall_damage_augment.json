@@ -1,0 +1,12 @@
+{
+  "name": "Düşme Hasarı Yok Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:no_fall_damage_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Düşme Hasarı Yok Güçlendirmesi, zırh takılıyken kullanıcının tüm düşme hasarını yok eden bir çizme güçlendirmesidir."
+    }
+  ]
+}

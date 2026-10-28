@@ -1,0 +1,24 @@
+{
+  "name": "觉醒祭坛",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakening_altar",
+  "sortnum": 153,
+  "pages": [
+    {
+      "type": "text",
+      "text": "觉醒祭坛是一种$(bold)通常$()用于合成$(l:elemental/awakened_supremium)觉醒精华$()的功能结构。此结构包含一个觉醒祭坛，四个觉醒基座和四个$(l:elemental/essence_vessel)精华储罐$()。 $(br2)当材料都被放置好之后，你需要用红石信号激活觉醒祭坛"
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:awakening_altar",
+      "recipe2": "mysticalagriculture:awakening_pedestal"
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:essence_vessel",
+      "text": "在世界中放置注魔祭坛会向你展示如何放置基座和储罐。"
+    }
+  ]
+}

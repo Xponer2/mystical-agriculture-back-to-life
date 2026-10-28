@@ -1,0 +1,16 @@
+{
+  "type": "mysticalagriculture:soul_extraction",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "thermal"
+    }
+  ],
+  "input": {
+    "item": "thermal:basalz_rod"
+  },
+  "result": {
+    "type": "mysticalagriculture:basalz",
+    "souls": 0.5
+  }
+}

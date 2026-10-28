@@ -1,0 +1,12 @@
+{
+  "name": "Осколки процветания",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_shard",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Осколки процветания - это второй из двух базовых материалов в Mystical Agriculture. Они используются для создания магических разновидностей базовых материалов. Осколки процветания обычно можно получить во время копания."
+    }
+  ]
+}

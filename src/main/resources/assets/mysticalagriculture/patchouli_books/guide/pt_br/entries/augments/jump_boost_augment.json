@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Superpulo",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:jump_boost_iii_augment",
+  "sortnum": 305,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Superpulo é um aprimoramento de botas que aumenta a altura do pulo do usuário enquanto ele estiver com a armadura equipada."
+    }
+  ]
+}

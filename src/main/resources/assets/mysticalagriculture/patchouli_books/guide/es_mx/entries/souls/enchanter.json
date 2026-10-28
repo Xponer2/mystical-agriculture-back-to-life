@@ -1,0 +1,17 @@
+{
+  "name": "Encantador",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:enchanter",
+  "sortnum": 110,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El encantador es un bloque que te permite encantar tus herramientas y armaduras utilizando diferentes materiales de fabricación y esencia de experiencia. $(br2)El encantador puede aplicar encantamientos tanto a libros como a herramientas/armaduras, de manera similar a un yunque."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:enchanter"
+    }
+  ]
+}

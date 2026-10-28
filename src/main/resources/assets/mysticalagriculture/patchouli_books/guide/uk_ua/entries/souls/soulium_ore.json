@@ -1,0 +1,13 @@
+{
+  "name": "Соулієва руда",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_ore",
+  "sortnum": 101,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:soulium_ore",
+      "text": "Соулієва руда $(bold)зазвичай$() спаунится всередині жил із $(l:souls/soulstone)Каменя Душ$() в Незері."
+    }
+  ]
+}

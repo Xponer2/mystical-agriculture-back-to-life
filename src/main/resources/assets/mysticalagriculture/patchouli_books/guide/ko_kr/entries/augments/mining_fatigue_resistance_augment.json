@@ -1,0 +1,12 @@
+{
+  "name": "채굴 피로 저항 부적",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_fatigue_resistance_augment",
+  "sortnum": 314,
+  "pages": [
+    {
+      "type": "text",
+      "text": "채굴 피로 저항 부적은 착용자가 갑옷을 착용하는 동안 채굴 피로 효과를 얻을 수 없도록 하는 갑옷 부적입니다."
+    }
+  ]
+}

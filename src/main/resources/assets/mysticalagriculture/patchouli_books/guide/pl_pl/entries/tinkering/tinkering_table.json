@@ -1,0 +1,17 @@
+{
+  "name": "Stół do majsterkowania",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:tinkering_table",
+  "sortnum": 252,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Stół do majsterkowania jest używany do nakładania $(l:tinkering/augments)ulepszeń$() na $(l:tinkering/essence_tools)narzędzia z esencji$() i $(l:tinkering/essence_armor)zbroje z esencji$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:tinkering_table"
+    }
+  ]
+}

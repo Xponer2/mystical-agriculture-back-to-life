@@ -1,0 +1,17 @@
+{
+  "name": "Konewki z esencji",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_watering_can",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie zwyczajnej $(l:basics/watering_can)konewki$() esencjami i $(l:advances/mystical_fertilizer)mistycznym nawozem$() drastycznie polepsza jej efektywność. $(br2)Ulepszone konewki mają większy zasięg i bardziej przyspieszają wzrost. Możesz też aktywować automatyczne podlewanie klikając Shift + PPM trzymając konewkę i nie patrząc się na żaden blok."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:gear/inferium_watering_can"
+    }
+  ]
+}

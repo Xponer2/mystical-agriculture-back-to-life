@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de salud",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:health_boost_v_augment",
+  "sortnum": 301,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de salud es un aumento de armadura que otorga al usuario 2-10 corazones de salud mientras tiene la armadura equipada."
+    }
+  ]
+}

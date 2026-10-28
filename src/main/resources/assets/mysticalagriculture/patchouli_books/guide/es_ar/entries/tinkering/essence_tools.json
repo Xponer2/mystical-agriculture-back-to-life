@@ -1,0 +1,17 @@
+{
+  "name": "Herramientas de esencia",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Mejorar tus herramientas de diamante* con esencia mejora su durabilidad y velocidad de minería. Esto también les permite equiparse con $(l:tinkering/augments)aumentos$(). $(br2)Las herramientas de esencia se pueden reparar en un yunque con su lingote de esencia correspondiente. Estas herramientas tienen 1 ranura de aumento."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

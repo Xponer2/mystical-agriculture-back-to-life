@@ -1,0 +1,17 @@
+{
+  "name": "靈魂瓶",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soul_jar",
+  "sortnum": 104,
+  "pages": [
+    {
+      "type": "text",
+      "text": "靈魂瓶與$(l:souls/soulium_dagger)離魂匕首$()一起使用來收集生物的靈魂. 裝滿的靈魂瓶可以用來合成對應生物的$(l:basics/resource_crops)資源作物$()."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:soul_jar"
+    }
+  ]
+}

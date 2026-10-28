@@ -1,0 +1,27 @@
+{
+  "name": "Daga de soulium",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 103,
+  "pages": [
+    {
+      "type": "text",
+      "text": "La daga de soulium se utiliza para recolectar almas de mobs. Estas almas se recolectan utilizando $(l:souls/soul_jars)frascos de alma$(). Las almas se recolectan matando mobs con la daga de soulium. $(br2)La daga de soulium se puede mejorar utilizando un $(l:basics/infusion_altar)altar de infusión$(), mejorando la eficiencia de recolección de almas."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:passive_soulium_dagger",
+      "text": "La daga de soulium de sintonización pasiva proporciona un +50 por ciento adicional de almas recolectadas de los mobs pasivos."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:hostile_soulium_dagger",
+      "text": "La daga de soulium de sintonización hostil proporciona un +50 por ciento adicional de almas recolectadas de los mobs hostiles."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Büyüme Hızlandırıcıları",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_growth_accelerator",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Büyüme Hızlandırıcıları bitki büyüme hızını artırmak için kullanılır. Belirtilen aralıkta üzerlerine yerleştirilen ilk bitkiye rastgele büyüme tikleri uygularlar. $(br2)Bitki menzil içinde olduğu sürece herhangi bir kademeden birden fazla Büyüme Hızlandırıcılarını istifleyebilirsiniz."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:inferium_growth_accelerator",
+      "text": "Büyüme Hızlandırıcısı'nın menzili, tarım arazilerinin altında yer almasına dayanmaktadır. $(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/speeding-up-crop-growth)Büyüme Hızlandırıcılarının kullanımına ilişkin ayrıntılı bir rehber için buraya tıklayın.$()"
+    }
+  ]
+}

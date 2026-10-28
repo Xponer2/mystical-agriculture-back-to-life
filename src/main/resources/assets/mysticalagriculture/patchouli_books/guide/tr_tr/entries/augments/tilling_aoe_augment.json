@@ -1,0 +1,12 @@
+{
+  "name": "Toprak İşleme EA Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:tilling_aoe_iv_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Toprak İşleme EA Güçlendirmesi, çapanın Tarım Arazisi blokları oluşturduğu alanı 9x9'a kadar artıran bir çapa güçlendirmesidir. EA, çapa kullanılırken eğilerek etkinleştirilir. $(br2)Bu etki Shift tuşu basılı tutularak iptal edilebilir."
+    }
+  ]
+}

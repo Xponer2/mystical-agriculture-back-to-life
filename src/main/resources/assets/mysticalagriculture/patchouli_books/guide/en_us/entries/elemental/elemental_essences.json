@@ -1,0 +1,12 @@
+{
+  "name": "Elemental Essences",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:air_essence",
+  "sortnum": 150,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Air, Earth, Water and Fire essences can be used in $(l:elemental/awakening_altar)Awakening Altar$() recipes using $(l:elemental/essence_vessel)Essence Vessels$(). $(br2)Elemental seeds can be planted on $(l:basics/essence_farmland)Tier 1 Essence Farmland$() for additional drops."
+    }
+  ]
+}

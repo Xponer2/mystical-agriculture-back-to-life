@@ -1,0 +1,12 @@
+{
+  "name": "Pathing AOE Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:pathing_aoe_iv_augment",
+  "sortnum": 304,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Pathing AOE Augment is a Shovel augment that increases the area that the Shovel creates Path blocks, up to 9x9. $(br2)The AOE is activated by sneaking while using the Shovel. $(br2)The center of the AOE can be changed by pressing CTRL + Arrow Keys."
+    }
+  ]
+}

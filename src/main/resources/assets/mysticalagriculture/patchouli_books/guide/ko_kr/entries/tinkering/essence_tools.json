@@ -1,0 +1,17 @@
+{
+  "name": "에센스 도구",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "다이아몬드* 도구를 에센스로 업그레이드하면 내구성과 채굴 속도가 향상됩니다. 이것은 또한 그들에게 $(l:tinkering/augments)부적$()을 장착할 수 있게 해줍니다. $(br2)에센스 도구는 모루에서 해당 에센스 주괴와 함께 수리할 수 있습니다. 이러한 도구에는 각각 1개의 증가 슬롯이 있습니다."
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

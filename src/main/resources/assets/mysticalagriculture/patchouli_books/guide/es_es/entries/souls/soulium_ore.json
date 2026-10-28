@@ -1,0 +1,13 @@
+{
+  "name": "Mineral de soulium",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_ore",
+  "sortnum": 101,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:soulium_ore",
+      "text": "Los minerales de soulium $(bold)usualmente$() aparecen dentro de las vetas de $(l:souls/soulstone)piedra de alma$() en el Nether."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Esencje żywiołów",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:air_essence",
+  "sortnum": 150,
+  "pages": [
+    {
+      "type": "text",
+      "text": "WIP"
+    }
+  ]
+}

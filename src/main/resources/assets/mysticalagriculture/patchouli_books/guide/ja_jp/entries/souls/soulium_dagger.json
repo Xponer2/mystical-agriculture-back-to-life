@@ -1,0 +1,27 @@
+{
+  "name": "ソウリウムの短剣",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 103,
+  "pages": [
+    {
+      "type": "text",
+      "text": "ソウリウムの短剣は、Mobの魂を収集するために使用します。魂は$(l:souls/soul_jars)魂の瓶$()を使用して収集します。魂はソウリウムの短剣でMobを倒すことで収集できます。$(br2)ソウリウムの短剣は、$(l:basics/infusion_altar)注入の祭壇$()で強化でき、魂の収集効率を上げることができます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:passive_soulium_dagger",
+      "text": "友好的同調のソウリウムの短剣は、友好的なMobの魂の収集量を50パーセント増加させます。"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:hostile_soulium_dagger",
+      "text": "敵対的同調のソウリウムの短剣は、敵対的なMobの魂の収集量を50パーセント増加させます。"
+    }
+  ]
+}

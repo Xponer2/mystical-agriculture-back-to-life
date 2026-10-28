@@ -1,0 +1,17 @@
+{
+  "name": "Receptáculo de Essência",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:essence_vessel",
+  "sortnum": 152,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Receptáculos de Essência são usados na estrutura do $(l:elemental/awakening_altar)Altar do Despertar$() para conter as essências elementais necessárias para criar itens. Cada receptáculo pode conter até 40 de uma única essência elemental."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:essence_vessel"
+    }
+  ]
+}

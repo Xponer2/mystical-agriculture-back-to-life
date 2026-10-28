@@ -1,0 +1,22 @@
+{
+  "name": "エッセンスの耕地",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_farmland",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "エッセンスの耕地は、Mystical Agricultureの作物の収穫量を複数の方法で増加させます。その方法は次のページにリストされています。$(br2)エッセンスの耕地は、ワールド内で耕地にエッセンスを右クリックするか、クラフトによって手に入れることができます。"
+    },
+    {
+      "type": "text",
+      "text": "$(li)作物は$(bold)通常$()、エッセンスの耕地に植えたとき、10パーセントの確率で複数の種をドロップします。$$(li)作物は対応するランクのエッセンスの耕地に植えたとき、複数の種をドロップする確率が10パーセント増加します。$(li)インフェリウムの種は高ランクのエッセンスの耕地に植えたとき、より多くのエッセンスをドロップします。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:inferium_farmland",
+      "recipe2": "mysticalagriculture:inferium_farmland_till"
+    }
+  ]
+}

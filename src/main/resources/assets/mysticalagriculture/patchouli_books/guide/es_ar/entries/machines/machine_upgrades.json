@@ -1,0 +1,18 @@
+{
+  "name": "Mejoras de máquinas",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:upgrade_base",
+  "sortnum": 200,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Las mejoras de máquinas se pueden colocar en máquinas aplicables para aumentar su eficacia. $(br2)Las máquinas de mayor nivel tanto usarán como generarán energía más rápido."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:upgrade_base",
+      "recipe2": "mysticalagriculture:inferium_upgrade"
+    }
+  ]
+}

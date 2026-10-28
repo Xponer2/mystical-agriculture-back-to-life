@@ -1,0 +1,17 @@
+{
+  "name": "経験値のカプセル",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:experience_capsule",
+  "sortnum": 106,
+  "pages": [
+    {
+      "type": "text",
+      "text": "経験値のカプセルは、経験値の種を作成するための経験値を収集するために使用します。$(br2)インベントリに経験値のカプセルを入れ、経験値オーブを拾うだけで経験値を収集できます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:experience_capsule"
+    }
+  ]
+}

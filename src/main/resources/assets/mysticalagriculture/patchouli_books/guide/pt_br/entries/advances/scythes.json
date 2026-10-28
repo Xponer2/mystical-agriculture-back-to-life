@@ -1,0 +1,18 @@
+{
+  "name": "Foices",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_scythe",
+  "sortnum": 54,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Foices são usadas para colher grandes áreas de cultivos clicando com o botão direito. Quaisquer cultivos totalmente crescidos dentro da área de efeito serão colhidos sem serem arrancados. $(br2)Foices também são uma arma eficaz com uma Área de ataque aumentada. $(br2)Foices de nível superior têm uma área de efeito maior."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:diamond_scythe",
+      "recipe2": "mysticalagriculture:gear/inferium_scythe"
+    }
+  ]
+}

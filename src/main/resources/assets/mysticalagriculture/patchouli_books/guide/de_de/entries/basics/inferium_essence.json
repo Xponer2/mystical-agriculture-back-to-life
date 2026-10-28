@@ -1,0 +1,12 @@
+{
+  "name": "Inferiumessenz",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_essence",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Inferiumessenz ist eine der beiden Basismaterialien in Mystical Agriculture. Es wird zur Herstellung von fast allem im Mod verwendet. Inferiumessenz kann $(bold)normalerweise$() durch das Töten von feindlichen oder friedlichen Mobs, das Abbauen aus dem Boden oder das Anbauen gewonnen werden."
+    }
+  ]
+}

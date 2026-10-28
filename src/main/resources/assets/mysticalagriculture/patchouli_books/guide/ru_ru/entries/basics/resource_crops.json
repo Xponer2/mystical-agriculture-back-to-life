@@ -1,0 +1,18 @@
+{
+  "name": "Ресурсовые культуры",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_seed_base",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ресурсовые культуры - это сердце и душа того, что делает Mystical Agriculture столь великим. Однако есть некоторые особенности ресурсовых культур, которые следует отметить. $(br2)$(li)Ресурсовые культуры нельзя выращивать с использованием костной муки. $(li)С ресурсовых культур нельзя получить второе семечко, если они не посажены на $(l:basics/essence_farmland)пашню из эссенции$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "text": "Ресурсовые культуры $(bold)обычно$() создаются с помощью $(l:basics/infusion_altar)Алтаря Наполнения$().",
+      "recipe": "mysticalagriculture:prosperity_seed_base"
+    }
+  ]
+}

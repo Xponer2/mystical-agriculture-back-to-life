@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de asistencia de paso",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:step_assist_augment",
+  "sortnum": 310,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de asistencia de paso es un aumento de pantalones o botas que permite al usuario caminar por alturas de 1 bloque sin saltar mientras tiene la armadura equipada. $(br2)Este efecto se puede anular manteniendo presionada la tecla shift."
+    }
+  ]
+}

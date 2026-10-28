@@ -1,0 +1,34 @@
+{
+  "type": "crafting_shaped",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "astralsorcery"
+    },
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:marble"
+    },
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:aquamarine"
+    }
+  ],
+  "pattern": [
+    "EEE",
+    "EFE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "mysticalagriculture:marble_essence"
+    },
+    "F": {
+      "item": "mysticalagriculture:aquamarine_essence"
+    }
+  },
+  "result": {
+    "id": "astralsorcery:marble_raw",
+    "count": 16
+  }
+}

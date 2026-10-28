@@ -1,0 +1,18 @@
+{
+  "name": "Blocos à Prova de Wither",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:witherproof_block",
+  "sortnum": 102,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Blocos à Prova de Wither são inquebráveis pelo Wither. Muito útil para quem gosta de 'trapacear' com chefes. $(br2)Eles também são imunes a danos do Dragão do Ender, no entanto, ele ainda pode voar através deles."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:witherproof_block",
+      "recipe2": "mysticalagriculture:witherproof_glass"
+    }
+  ]
+}

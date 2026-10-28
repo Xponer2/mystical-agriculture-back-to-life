@@ -1,0 +1,17 @@
+{
+  "name": "Інструменти з есенції",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Поліпшення діамантових інструментів за допомогою есенції підвищує їхню міцність та швидкість видобутку. Це також дозволить надягати на них $(l:tinkering/augments)Розширення$(). $(br2)Інструменти з есенції можна полагодити на ковадлі за допомогою відповідного злитка есенції. Кожен із цих інструментів має 1 слот для розширень."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

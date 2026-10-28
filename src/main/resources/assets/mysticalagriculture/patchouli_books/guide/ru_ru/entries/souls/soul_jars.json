@@ -1,0 +1,17 @@
+{
+  "name": "Банки для душ",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soul_jar",
+  "sortnum": 104,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Банки для душ используются вместе с $(l:souls/soulium_dagger)Душиевым Кинжалом$() для сбора душ с мобов. Заполненные банки можно использовать для создания $(l:basics/resource_crops)Ресурсовых Культур$() соответствующего существа. $(br2)Банки для душ можно наполнить с помощью дропа с мобов используя $(l:machines/soul_extractor)Извлекатель Душ$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:soul_jar"
+    }
+  ]
+}

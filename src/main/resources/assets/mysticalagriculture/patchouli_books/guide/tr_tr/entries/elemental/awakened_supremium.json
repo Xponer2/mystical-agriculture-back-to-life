@@ -1,0 +1,12 @@
+{
+  "name": "Uyandırılmış Supremium",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakened_supremium_essence",
+  "sortnum": 154,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Uyandırılmış Supremium, Supremium eşyalarınızın birçoğunun yükseltilmiş versiyonlarını oluşturmak için kullanılan yüksek seviyeli bir üretim malzemesidir. $(br2)Awakened Supremium $(bold)genellikle$() $(l:elemental/cognizant_dust)Bilişsel Tozun$() $(l:elemental/awakening_altar)Uyanış Sunağı$() kullanılarak Supremium Bloğu ile infüze edilmesiyle oluşturulur."
+    }
+  ]
+}

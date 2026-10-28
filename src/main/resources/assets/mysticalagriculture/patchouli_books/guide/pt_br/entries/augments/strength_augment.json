@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Força",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:strength_iii_augment",
+  "sortnum": 311,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Força é um aprimoramento de espada que aumenta a quantidade de dano que a espada causa em 5-20."
+    }
+  ]
+}

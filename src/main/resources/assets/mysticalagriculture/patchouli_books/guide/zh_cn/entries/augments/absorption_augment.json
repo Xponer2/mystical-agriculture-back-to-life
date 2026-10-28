@@ -1,0 +1,12 @@
+{
+  "name": "伤害吸收升级",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:absorption_v_augment",
+  "sortnum": 300,
+  "pages": [
+    {
+      "type": "text",
+      "text": "伤害吸收升级是一种盔甲升级，装备有这种升级的盔甲，会每8分钟为玩家提供2-10颗心的伤害吸收."
+    }
+  ]
+}

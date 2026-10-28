@@ -1,0 +1,12 @@
+{
+  "name": "採掘速度上昇のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:haste_iii_augment",
+  "sortnum": 323,
+  "pages": [
+    {
+      "type": "text",
+      "text": "採掘速度上昇のオーグメントは、着用者の採掘速度を増加させるチェストプレート用のオーグメントです。"
+    }
+  ]
+}

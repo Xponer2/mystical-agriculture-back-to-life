@@ -1,0 +1,17 @@
+{
+  "name": "Öz Zırhları",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_chestplate",
+  "sortnum": 251,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Elmas* zırhınızı öz ile yükseltmek dayanıklılığını ve korumasını artırır. Bu aynı zamanda $(l:tinkering/augments)Güçlendirmeler$() ile donatılmalarını sağlar. $(br2)Öz Zırhlar, kendilerine karşılık gelen Öz Külçesi ile bir Örs'te onarılabilir. Bu zırh parçalarının her biri 1 güçlendirme yuvasına sahiptir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:gear/inferium_chestplate"
+    }
+  ]
+}

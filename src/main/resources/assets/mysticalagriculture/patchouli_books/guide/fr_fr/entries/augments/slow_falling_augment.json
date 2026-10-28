@@ -1,0 +1,12 @@
+{
+  "name": "Slow Falling Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slow_falling_augment",
+  "sortnum": 324,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Slow Falling Augment is a leggings augment that prevents the wearer from getting the Slowness effect while they have the armor equipped. $(br2)This effect can be negated by holding down the Shift key."
+    }
+  ]
+}

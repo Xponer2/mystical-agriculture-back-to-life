@@ -1,0 +1,12 @@
+{
+  "name": "落下ダメージ無効のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:no_fall_damage_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "落下ダメージ無効のオーグメントは、着用者の落下ダメージを無効化するブーツ用のオーグメントです。"
+    }
+  ]
+}

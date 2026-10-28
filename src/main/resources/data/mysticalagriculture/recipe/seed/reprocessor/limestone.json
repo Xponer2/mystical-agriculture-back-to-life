@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:limestone"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:limestone_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:limestone_essence"
+  }
+}

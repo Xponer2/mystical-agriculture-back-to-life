@@ -1,0 +1,12 @@
+{
+  "name": "Yol Açma EA Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:pathing_aoe_iv_augment",
+  "sortnum": 304,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Yol Açma EA Güçlendirmesi, küreğin Yol blokları oluşturduğu alanı 9x9'a kadar artıran bir kürek güçlendirmesidir. EA, kürek kullanılırken eğilerek etkinleştirilir. $(br2)Bu etki Shift tuşu basılı tutularak iptal edilebilir."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Vida Extra",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:health_boost_v_augment",
+  "sortnum": 301,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Vida Extra é um aprimoramento de armadura que adiciona de 2 a 10 corações ao usuário enquanto ele estiver com a armadura equipada."
+    }
+  ]
+}

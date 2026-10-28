@@ -1,0 +1,27 @@
+{
+  "name": "Соулієвий кинжал",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 103,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Соулієвий кинжал використовується для збирання душів з мобів. Ці душі збираються за допомогою $(l:souls/soul_jars)банок для душ$(). Душі збираються при вбивстві мобів за допомогою Соулієвого Кинжала $(br2)Соулієвий кинжал можна покращити за допомогою $(l:basics/infusion_altar)Вівтаря Наповнення$(), підвищивши швидкість збирання душ."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:passive_soulium_dagger",
+      "text": "Пасивно-налаштований соулієвий кинжал дає додаткові +50% душ з пасивних мобів."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:hostile_soulium_dagger",
+      "text": "Ворожо-налаштований соулієвий кинжал дає додаткові +50% душ з ворожих мобів."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Prosperiumsplitter",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_shard",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Prosperiumsplitter sind das andere der beiden Basismaterialien in Mystical Agriculture. Sie werden verwendet, um magische Varianten von Grundmaterialien zu erstellen. Prosperiumsplitter können $(bold)normalerweise$() durch das Abbauen aus dem Boden gewonnen werden."
+    }
+  ]
+}

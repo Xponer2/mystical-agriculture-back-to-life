@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalagriculture:inferium_helmet",
+    "mysticalagriculture:prudentium_helmet",
+    "mysticalagriculture:tertium_helmet",
+    "mysticalagriculture:imperium_helmet",
+    "mysticalagriculture:supremium_helmet",
+    "mysticalagriculture:awakened_supremium_helmet",
+    "mysticalagriculture:inferium_chestplate",
+    "mysticalagriculture:prudentium_chestplate",
+    "mysticalagriculture:tertium_chestplate",
+    "mysticalagriculture:imperium_chestplate",
+    "mysticalagriculture:supremium_chestplate",
+    "mysticalagriculture:awakened_supremium_chestplate",
+    "mysticalagriculture:inferium_leggings",
+    "mysticalagriculture:prudentium_leggings",
+    "mysticalagriculture:tertium_leggings",
+    "mysticalagriculture:imperium_leggings",
+    "mysticalagriculture:supremium_leggings",
+    "mysticalagriculture:awakened_supremium_leggings",
+    "mysticalagriculture:inferium_boots",
+    "mysticalagriculture:prudentium_boots",
+    "mysticalagriculture:tertium_boots",
+    "mysticalagriculture:imperium_boots",
+    "mysticalagriculture:supremium_boots",
+    "mysticalagriculture:awakened_supremium_boots"
+  ]
+}

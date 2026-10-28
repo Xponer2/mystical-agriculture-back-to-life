@@ -1,0 +1,22 @@
+{
+  "name": "Tierra de cultivo de esencia",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_farmland",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "La tierra de cultivo de esencia aumenta la eficiencia de producción de los cultivos del Mystical Agriculture de varias maneras. Se enumeran en la página siguiente. $(br2)Puedes crear tierra de cultivo de esencia haciendo clic derecho en la tierra de cultivo en el mundo con una esencia o fabricándola."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Los cultivos $(bold)usualmente$() tendrán un 10 por ciento de probabilidad de soltar una segunda semilla cuando se planten en cualquier tierra de cultivo de esencia de cualquier nivel. $(li)Los cultivos tendrán una probabilidad adicional del 10 por ciento de soltar una segunda semilla cuando se planten en la tierra de cultivo de esencia del nivel correspondiente. $(li)Las semillas de inferium soltarán más esencias cuando se planten en tierra de cultivo de esencia de nivel superior."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:inferium_farmland",
+      "recipe2": "mysticalagriculture:inferium_farmland_till"
+    }
+  ]
+}

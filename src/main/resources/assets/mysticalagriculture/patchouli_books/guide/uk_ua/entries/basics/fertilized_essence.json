@@ -1,0 +1,12 @@
+{
+  "name": "Удобрююча есенція",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Удобрююча есенція $(bold)зазвичай$() випадає з усіх $(l:basics/resource_crops)Ресурсових культур$(), $(bold)крім Інферієвих$(). Працює ідентично кістковій муці, також можна застосовувати на $(l:basics/resource_crops)Ресурсові культури$()! $(br2)Удобрюючу есенцію можна використовувати для створення $(l:advances/mystical_fertilizer)Містичного Добрива$()."
+    }
+  ]
+}

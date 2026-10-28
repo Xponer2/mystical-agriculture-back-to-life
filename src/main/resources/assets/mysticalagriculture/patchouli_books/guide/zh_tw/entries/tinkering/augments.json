@@ -1,0 +1,18 @@
+{
+  "name": "升級",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:unattuned_augment",
+  "sortnum": 253,
+  "pages": [
+    {
+      "type": "text",
+      "text": "升級是用來改良$(l:tinkering/essence_tools)精華工具$()和$(l:tinkering/essence_armor)精華盔甲$()的. 你可以通過$(l:tinkering/tinkering_table)工具裝配台$()把升級加到你的裝備上. $(br2)每種升級都有一個對應的層級, 指定裝備加裝它需要的的最低層級. "
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "text": "你會在這本指南的'升級'部分看到每個升級的作用.",
+      "recipe": "mysticalagriculture:unattuned_augment"
+    }
+  ]
+}

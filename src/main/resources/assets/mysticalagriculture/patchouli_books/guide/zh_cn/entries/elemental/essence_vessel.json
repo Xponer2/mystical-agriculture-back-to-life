@@ -1,0 +1,17 @@
+{
+  "name": "精华储罐",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:essence_vessel",
+  "sortnum": 152,
+  "pages": [
+    {
+      "type": "text",
+      "text": "精华储罐被用于$(l:elemental/awakening_altar)觉醒祭坛$()结构中，以存储合成物品时所需要的精华。每个精华储罐至多可以储存40个同类的元素精华。"
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:essence_vessel"
+    }
+  ]
+}

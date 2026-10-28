@@ -1,0 +1,12 @@
+{
+  "name": "Verdorrungsresistenz-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:wither_resistance_augment",
+  "sortnum": 315,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Verdorrungsresistenz-Augment ist ein Rüstungs-Augment, das verhindert, dass der Träger den Verdorrungseffekt erhält, solange er die Rüstung trägt."
+    }
+  ]
+}

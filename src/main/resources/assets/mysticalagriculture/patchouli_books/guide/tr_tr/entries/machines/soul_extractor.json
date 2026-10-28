@@ -1,0 +1,17 @@
+{
+  "name": "Ruh Çıkarıcı",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soul_extractor",
+  "sortnum": 203,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ruh Çıkarıcıları, varlıklardan düşenleri varlık ruhlarına dönüştürmek için kullanılır. Katı yakıtlarla çalışırlar ve dahili bir güç deposu arabelleğine sahiptirler. $(br2)Ruh Çıkarıcı, sahip olabileceğiniz ekstra mob dropları için bir kullanım sağlar, ancak genellikle bir $(l:souls/soulium_dagger)Soulium Hançer$() kullanmak kadar verimli olmayacaktır."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:soul_extractor"
+    }
+  ]
+}

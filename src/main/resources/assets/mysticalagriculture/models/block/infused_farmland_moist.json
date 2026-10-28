@@ -1,0 +1,8 @@
+{
+  "parent": "mysticalagriculture:block/infused_farmland",
+  "textures": {
+    "particle": "minecraft:blocks/dirt",
+    "dirt": "minecraft:blocks/dirt",
+    "top": "minecraft:blocks/farmland_wet"
+  }
+}

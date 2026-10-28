@@ -1,0 +1,6 @@
+{
+  "name": "Almas",
+  "description": "Esta seção aborda o conteúdo do Nether, bem como o conteúdo de almas de criaturas necessário para criar e usar cultivos baseados em drops de mobs. $(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/collecting-mob-souls)Clique aqui para um guia detalhado sobre como coletar Almas de Criaturas.$()",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 2
+}

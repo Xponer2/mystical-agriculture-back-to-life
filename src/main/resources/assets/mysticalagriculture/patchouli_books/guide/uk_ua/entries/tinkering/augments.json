@@ -1,0 +1,18 @@
+{
+  "name": "Розширення",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:unattuned_augment",
+  "sortnum": 253,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Розширення – це покращення $(l:tinkering/essence_tools)Інструментів із есенції$() і $(l:tinkering/essence_armor)Броні з есенції$(). Ви можете додати розширення на своє спорядження за допомогою $(l:tinkering/tinkering_table)Складального столу$(). $(br2)Кожному розширенню надано рівень, що позначає мінімальний рівень спорядження, необхідного для його використання. "
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "text": "В розділі «Розширення» цього посібника ви можете дізнатися, що робить кожне розширення.",
+      "recipe": "mysticalagriculture:unattuned_augment"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "抗火升級",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:fire_resistance_augment",
+  "sortnum": 309,
+  "pages": [
+    {
+      "type": "text",
+      "text": "抗火升級是一種盔甲升級，裝備有這種升級的盔甲，會提高穿戴者的抗火能力."
+    }
+  ]
+}

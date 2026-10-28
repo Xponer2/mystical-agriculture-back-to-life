@@ -1,0 +1,17 @@
+{
+  "name": "Essence Armor",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_chestplate",
+  "sortnum": 251,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Upgrading your Diamond* armor with essence improves its durability and protection. This also allows them to be equipped with $(l:tinkering/augments)Augments$(). $(br2)Essence Armor can be repaired in an Anvil with their corresponding Essence Ingot. These armor pieces each have 1 augment slot."
+    },
+    {
+      "type": "crafting",
+      "title": "Crafting",
+      "recipe": "mysticalagriculture:gear/inferium_chestplate"
+    }
+  ]
+}

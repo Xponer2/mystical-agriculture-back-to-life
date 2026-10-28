@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de fuerza",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:strength_iii_augment",
+  "sortnum": 311,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de fuerza es un aumento de espada que aumenta la cantidad de daño que inflige la espada en 5-20."
+    }
+  ]
+}

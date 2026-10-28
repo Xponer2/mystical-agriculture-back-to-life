@@ -1,0 +1,17 @@
+{
+  "name": "エッセンスの防具",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_chestplate",
+  "sortnum": 251,
+  "pages": [
+    {
+      "type": "text",
+      "text": "ダイヤモンドの防具をエッセンスで強化すると、耐久値と防御力が上昇します。また、$(l:tinkering/augments)オーグメント$()を装着できるようになります。$(br2)エッセンスの防具は、対応するエッセンスのインゴットを使用して金床で修理することができます。また、これらの防具にはそれぞれ1つのオーグメントスロットがあります。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:gear/inferium_chestplate"
+    }
+  ]
+}

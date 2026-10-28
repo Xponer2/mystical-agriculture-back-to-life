@@ -1,0 +1,18 @@
+{
+  "name": "Melhorias de Máquina",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:upgrade_base",
+  "sortnum": 200,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Melhorias de Máquina podem ser colocadas em máquinas aplicáveis para aumentar sua eficácia. $(br2)Máquinas de nível superior usarão e gerarão energia mais rapidamente."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:upgrade_base",
+      "recipe2": "mysticalagriculture:inferium_upgrade"
+    }
+  ]
+}

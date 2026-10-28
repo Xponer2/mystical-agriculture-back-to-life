@@ -1,0 +1,12 @@
+{
+  "name": "Сопротивление отравлению (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:poison_resistance_augment",
+  "sortnum": 313,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сопротивление отравлению (Расширение) - это расширение для брони, которое не позволяет владельцу получить отравление, пока надета броня."
+    }
+  ]
+}

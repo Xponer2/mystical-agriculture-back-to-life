@@ -1,0 +1,27 @@
+{
+  "name": "Душиевый кинжал",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 103,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Душиевый кинжал используется для сбора душ с мобов. Эти души собираются с помощью $(l:souls/soul_jars)банок для душ$(). Души собираются при убийстве мобов с помощью Душиевого Кинжала $(br2)Душиевый кинжал можно улучшить с помощью $(l:basics/infusion_altar)Алтаря Наполнения$(), повысив скорость сбора душ."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:passive_soulium_dagger",
+      "text": "Пассивно-настроенный душиевый кинжал даёт дополнительные +50%% душ с пассивных мобов."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:hostile_soulium_dagger",
+      "text": "Врадебно-настроенный душиевый кинжал даёт дополнительные +50%% душ с враждебных мобов."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "装着台",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:tinkering_table",
+  "sortnum": 252,
+  "pages": [
+    {
+      "type": "text",
+      "text": "装着台は、$(l:tinkering/essence_tools)エッセンスの道具$()や$(l:tinkering/essence_armor)エッセンスの防具$()に$(l:tinkering/augments)オーグメント$()を装着するために使用します。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:tinkering_table"
+    }
+  ]
+}

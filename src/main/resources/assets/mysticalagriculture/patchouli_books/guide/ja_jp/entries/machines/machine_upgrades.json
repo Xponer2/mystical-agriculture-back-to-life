@@ -1,0 +1,18 @@
+{
+  "name": "マシンアップグレード",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:upgrade_base",
+  "sortnum": 200,
+  "pages": [
+    {
+      "type": "text",
+      "text": "マシンアップグレードは、適用可能な機械に使用すると、機械の効率を向上させることができます。$(br2)高ランクの機械は、電力の消費量と生成量の両方が高速化します。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:upgrade_base",
+      "recipe2": "mysticalagriculture:inferium_upgrade"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Seelendolch",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 103,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Der Seelendolch wird verwendet, um Seelen von Mobs zu sammeln. Diese Seelen werden mit $(l:souls/soul_jars)Seelengefäßen$() gesammelt. Seelen werden gesammelt, indem Mobs mit dem Seelendolch getötet werden. $(br2)Der Seelendolch kann mit einem $(l:basics/infusion_altar)Infusionsaltar$() aufgerüstet werden, um die Effizienz der Seelensammlung zu verbessern."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:passive_soulium_dagger",
+      "text": "Der Passiv abgestimmte Seelendolch bietet zusätzliche +50 Prozent gesammelte Seelen von friedlichen Mobs."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:hostile_soulium_dagger",
+      "text": "Der Feindlich abgestimmte Seelendolch bietet zusätzliche +50 Prozent gesammelte Seelen von feindlichen Mobs."
+    }
+  ]
+}

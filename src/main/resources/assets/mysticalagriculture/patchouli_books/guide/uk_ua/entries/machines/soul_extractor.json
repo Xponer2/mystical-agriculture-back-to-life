@@ -1,0 +1,17 @@
+{
+  "name": "Витягувач душ",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soul_extractor",
+  "sortnum": 203,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Видобувачі душ використовуються для перетворення дропа мобів у душі мобів. Вони працюють на твердому паливі та мають внутрішній буфер для зберігання енергії. $(br2)Витягувач душ дозволяє використовувати додатковий дроп з мобів, який у вас може бути, але зазвичай не такий ефективний, у порівнянні з $(l:souls/soulium_dagger)Соулієвим Кинжалом$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:soul_extractor"
+    }
+  ]
+}

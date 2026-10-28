@@ -1,0 +1,17 @@
+{
+  "name": "Tecrübe Kapsülü",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:experience_capsule",
+  "sortnum": 106,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Tecrübe Kapsülleri, Tecrübe Tohumu oluşturmak için tecrübe toplamak amacıyla kullanılır. $(br2)Tecrübe toplamak için envanterinizde Tecrübe Kapsülleri bulundurmanız ve Tecrübe Küreleri toplamanız yeterlidir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:experience_capsule"
+    }
+  ]
+}

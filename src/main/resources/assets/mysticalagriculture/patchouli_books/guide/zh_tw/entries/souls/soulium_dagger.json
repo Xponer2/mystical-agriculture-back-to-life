@@ -1,0 +1,27 @@
+{
+  "name": "離魂匕首",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 103,
+  "pages": [
+    {
+      "type": "text",
+      "text": "離魂匕首用來從生物身上收集靈魂. 這些靈魂用$(l:souls/soul_jars)靈魂瓶$()來收集.靈魂是通過用離魂匕首殺死怪物來收集的. $(br2)離魂匕首殺死和平的動物會額外增加50%%的靈魂."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:passive_soulium_dagger",
+      "text": "The Passive Attuned Soulium Dagger provides an additional +50 percent souls gathered from passive mobs."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:hostile_soulium_dagger",
+      "text": "The Hostile Attuned Soulium Dagger provides an additional +50 percent souls gathered from hostile mobs."
+    }
+  ]
+}

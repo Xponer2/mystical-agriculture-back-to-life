@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie noktowizji",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:night_vision_augment",
+  "sortnum": 302,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie noktowizji to ulepszenie do hełmu, które daje użytkownikowi efekt noktowizji."
+    }
+  ]
+}

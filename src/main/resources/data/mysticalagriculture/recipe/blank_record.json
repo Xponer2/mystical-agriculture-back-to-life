@@ -1,0 +1,32 @@
+{
+  "type": "crafting_shaped",
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:creeper"
+    },
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:skeleton"
+    }
+  ],
+  "pattern": [
+    "CSC",
+    "SIS",
+    "CSC"
+  ],
+  "key": {
+    "C": {
+      "item": "mysticalagriculture:creeper_essence"
+    },
+    "S": {
+      "item": "mysticalagriculture:skeleton_essence"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:blank_record"
+  }
+}

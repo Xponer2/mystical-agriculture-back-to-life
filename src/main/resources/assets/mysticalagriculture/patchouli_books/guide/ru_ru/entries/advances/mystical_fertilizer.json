@@ -1,0 +1,18 @@
+{
+  "name": "Мистическое удобрение",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:mystical_fertilizer",
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Мистическое удобрение используется для мгновенного выращивания посевов или саженца. Также эффективно на $(l:basics/resource_crops)Ресурсовых Культурах$()!"
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:mystical_fertilizer",
+      "recipe2": "mysticalagriculture:mystical_fertilizer_better"
+    }
+  ]
+}

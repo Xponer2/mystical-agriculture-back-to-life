@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de resistencia al Wither",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:wither_resistance_augment",
+  "sortnum": 315,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de resistencia al Wither es un aumento de armadura que evita que el usuario obtenga el efecto de Wither mientras tiene la armadura equipada."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Алтарь пробуждения",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakening_altar",
+  "sortnum": 153,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Алтарь пробуждения - это структура, которая $(bold)обычно$() используется для создания $(l:elemental/awakened_supremium)Пробуждённого Супремия$(). Структура состоит из 1-го алтаря пробуждения, 4-ёх пьедесталов пробуждения и 4-ёх $(l:elemental/essence_vessel)сосудов для эссенции$(). $(br2)Как только Вы разложите рецепт, нужно будет просто активировать алтарь сигналом Редстоуна."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:awakening_altar",
+      "recipe2": "mysticalagriculture:awakening_pedestal"
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:essence_vessel",
+      "text": "Поставив Алтарь пробуждения в мире, Вам будет указано куда ставить пьедесталы и сосуды."
+    }
+  ]
+}

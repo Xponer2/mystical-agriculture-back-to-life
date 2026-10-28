@@ -1,0 +1,17 @@
+{
+  "name": "精華灑水壺",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_watering_can",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "text",
+      "text": "用精華和$(l:advances/mystical_fertilizer)魔法肥料$()升級普通的$(l:basics/watering_can)灑水壺$()大大提高你的農業經驗. $(br2)升級灑水壺可以提高加速生長的範圍和速度. 當不指向方塊時，你也可以通過手持灑水壺Shift + 右鍵切換自動澆水功能."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:gear/inferium_watering_can"
+    }
+  ]
+}

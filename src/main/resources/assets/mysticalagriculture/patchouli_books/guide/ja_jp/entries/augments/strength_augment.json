@@ -1,0 +1,12 @@
+{
+  "name": "攻撃力上昇のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:strength_iii_augment",
+  "sortnum": 311,
+  "pages": [
+    {
+      "type": "text",
+      "text": "攻撃力上昇のオーグメントは、剣の攻撃力を5-20増加させる剣用のオーグメントです。"
+    }
+  ]
+}

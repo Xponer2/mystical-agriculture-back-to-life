@@ -1,0 +1,18 @@
+{
+  "name": "离魂石",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulstone",
+  "sortnum": 100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "离魂石是一种生成在下界的特殊的石头. 它会在任意Y值生成大型矿脉. $(br2)离魂石是一种有多个变种的装饰方块. 它也被用来合成 $(l:souls/witherproof_blocks)防凋零方块$()."
+    },
+    {
+      "type": "smelting",
+      "text": "它也可以被熔炼成有很多作用的离魂之尘.",
+      "recipe": "mysticalagriculture:soulstone_cobble",
+      "recipe2": "mysticalagriculture:soulstone_smooth"
+    }
+  ]
+}

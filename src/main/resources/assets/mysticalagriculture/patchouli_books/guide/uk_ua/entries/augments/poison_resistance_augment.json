@@ -1,0 +1,12 @@
+{
+  "name": "Стійкісь від отруєння (Розширення)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:poison_resistance_augment",
+  "sortnum": 313,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Стійкісь від отруєння (Розширення) - це розширення для броні, яке дозволяє власнику отримати отруєння, доки одягнена броня."
+    }
+  ]
+}

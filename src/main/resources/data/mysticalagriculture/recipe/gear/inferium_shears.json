@@ -1,0 +1,23 @@
+{
+  "type": "cucumber:shaped_transfer_damage",
+  "transfer_components": true,
+  "pattern": [
+    " G ",
+    "ISI",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "mysticalagriculture:inferium_gemstone"
+    },
+    "I": {
+      "item": "mysticalagriculture:inferium_ingot"
+    },
+    "S": {
+      "item": "minecraft:shears"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:inferium_shears"
+  }
+}

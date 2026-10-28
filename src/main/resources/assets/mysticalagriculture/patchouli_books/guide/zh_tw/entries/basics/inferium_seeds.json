@@ -1,0 +1,17 @@
+{
+  "name": "下級精華種子",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "下級精華種子是一種獲得下級精華的主要方式. 它們能被種在各種耕地上, 但是種在$(l:basics/essence_farmland)精華耕地$()上最高效."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

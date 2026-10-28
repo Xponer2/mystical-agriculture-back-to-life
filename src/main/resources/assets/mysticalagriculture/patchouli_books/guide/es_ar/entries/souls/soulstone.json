@@ -1,0 +1,18 @@
+{
+  "name": "Piedra de alma",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulstone",
+  "sortnum": 100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "La piedra de alma es un tipo especial de piedra que aparece en el Nether. Se genera en grandes vetas en todos los niveles Y. $(br2)La piedra de alma es un bloque decorativo con muchas variantes. También se requiere para crear $(l:souls/witherproof_blocks)bloques a prueba de Wither$()."
+    },
+    {
+      "type": "smelting",
+      "text": "También se puede fundir en polvo de alma, que también tiene muchos usos.",
+      "recipe": "mysticalagriculture:soulstone_cobble",
+      "recipe2": "mysticalagriculture:soulstone_smooth"
+    }
+  ]
+}

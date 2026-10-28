@@ -1,0 +1,12 @@
+{
+  "name": "Стихійні есенції",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:air_essence",
+  "sortnum": 150,
+  "pages": [
+    {
+      "type": "text",
+      "text": "В розробці $(br2)Есенції повітря, землі, води та вогню можна використовувати в рецептах $(l:elemental/awakening_altar)Вівтаря пробудження$(), використовуючи $(l:elemental/essence_vessel)Посудини для есенції$()."
+    }
+  ]
+}

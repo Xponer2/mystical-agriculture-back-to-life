@@ -1,0 +1,17 @@
+{
+  "name": "Sulama Kabı",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Sulama Kapları, el emeği* kullanarak mahsulün büyümesini hızlandırmak için kullanılır. Bir tanesini doldurmak için Su kaynağı bloğuna sağ tıklamanız yeterlidir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

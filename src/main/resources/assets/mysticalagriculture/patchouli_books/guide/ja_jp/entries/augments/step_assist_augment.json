@@ -1,0 +1,12 @@
+{
+  "name": "歩行補助のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:step_assist_augment",
+  "sortnum": 310,
+  "pages": [
+    {
+      "type": "text",
+      "text": "歩行補助のオーグメントは、着用者が1ブロックの段差をジャンプせずに越えられるようにするレギンスまたはブーツ用のオーグメントです。$(br2)この効果はShiftキーを押している間は無効化されます。"
+    }
+  ]
+}

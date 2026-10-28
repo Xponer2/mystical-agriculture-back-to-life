@@ -1,0 +1,12 @@
+{
+  "name": "Water Breathing Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:water_breathing_augment",
+  "sortnum": 303,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Water Breathing Augment is a helmet augment that grants the wearer Water Breathing while they have the armor equipped."
+    }
+  ]
+}

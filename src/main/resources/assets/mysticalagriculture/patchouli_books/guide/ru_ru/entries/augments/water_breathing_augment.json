@@ -1,0 +1,12 @@
+{
+  "name": "Дыхание под водой (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:water_breathing_augment",
+  "sortnum": 303,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Дыхание под водой (Расширение) - это расширение для шлема, которое даёт носящему дыхание под водой, пока надета броня."
+    }
+  ]
+}

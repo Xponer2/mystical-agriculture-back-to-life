@@ -1,0 +1,17 @@
+{
+  "name": "Master Infusion Crystal",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:master_infusion_crystal",
+  "sortnum": 51,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Master Infusion Crystal has infinite durability. You want this, I know you do."
+    },
+    {
+      "type": "crafting",
+      "title": "Crafting",
+      "recipe": "mysticalagriculture:master_infusion_crystal"
+    }
+  ]
+}

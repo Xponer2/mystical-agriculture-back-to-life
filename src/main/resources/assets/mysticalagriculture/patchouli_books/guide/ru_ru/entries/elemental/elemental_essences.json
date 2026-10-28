@@ -1,0 +1,12 @@
+{
+  "name": "Эссенции природы",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:air_essence",
+  "sortnum": 150,
+  "pages": [
+    {
+      "type": "text",
+      "text": "В разработке $(br2)Эссенции воздуха, земли, воды и огня можно использовать в рецептах $(l:elemental/awakening_altar)Алтаря пробуждения$(), используя $(l:elemental/essence_vessel)Сосуды для эссенции$()."
+    }
+  ]
+}

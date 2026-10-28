@@ -1,0 +1,12 @@
+{
+  "name": "Attack AOE Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:attack_aoe_iii_augment",
+  "sortnum": 312,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Attack AOE Augment is a sword augment that increases the attack radius of the sword by up to 6 blocks."
+    }
+  ]
+}

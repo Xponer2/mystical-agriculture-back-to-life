@@ -1,0 +1,18 @@
+{
+  "name": "オーグメント",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:unattuned_augment",
+  "sortnum": 253,
+  "pages": [
+    {
+      "type": "text",
+      "text": "オーグメントは、$(l:tinkering/essence_tools)エッセンスの道具$()や$(l:tinkering/essence_armor)エッセンスの防具$()を強化するために使用します。$(l:tinkering/tinkering_table)装着台$()を使用して、装備品にオーグメントを装着することができます。$(br2)各オーグメントにはランクが割り当てられており、装着するために必要な装備品の最低ランクが指定されています。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "text": "各オーグメントの効果は、このガイドの「オーグメント」セクションで確認できます。",
+      "recipe": "mysticalagriculture:unattuned_augment"
+    }
+  ]
+}

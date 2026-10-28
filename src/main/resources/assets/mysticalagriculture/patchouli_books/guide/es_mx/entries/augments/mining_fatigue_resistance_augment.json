@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de resistencia a la fatiga de minería",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_fatigue_resistance_augment",
+  "sortnum": 314,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de resistencia a la fatiga de minería es un aumento de armadura que evita que el usuario obtenga el efecto de fatiga de minería mientras tiene la armadura equipada."
+    }
+  ]
+}

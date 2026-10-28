@@ -1,0 +1,18 @@
+{
+  "name": "大鎌",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_scythe",
+  "sortnum": 54,
+  "pages": [
+    {
+      "type": "text",
+      "text": "大鎌は、右クリックで広範囲の作物を収穫することができます。範囲内の完全に成長した作物を破壊することなく収穫できます。$(br2)大鎌は、広い攻撃範囲を持つ武器としても使用できます。$(br2)高ランクの大鎌は、より広い効果範囲を持ちます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:diamond_scythe",
+      "recipe2": "mysticalagriculture:gear/inferium_scythe"
+    }
+  ]
+}

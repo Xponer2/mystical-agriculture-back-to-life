@@ -1,0 +1,12 @@
+{
+  "name": "Supremium despertado",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakened_supremium_essence",
+  "sortnum": 154,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El supremium despertado es un material de fabricación de alto nivel utilizado para crear versiones mejoradas de muchos de tus objetos supremium. $(br2)El supremium despertado se crea $(bold)usualmente$() infundiendo $(l:elemental/cognizant_dust)polvo cognizante$() con un bloque de supremium utilizando un $(l:elemental/awakening_altar)altar del despertar$()."
+    }
+  ]
+}

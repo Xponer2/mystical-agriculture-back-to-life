@@ -1,0 +1,17 @@
+{
+  "name": "Броня из эссенции",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_chestplate",
+  "sortnum": 251,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Улучшение алмазной брони с помощью эссенции повышает её прочность и скорость добычи. Это также позволит надевать на неё $(l:tinkering/augments)Расширения$(). $(br2)Броню из эссенции можно починить на наковальне с помощью соответствующего слитка эссенции. Каждая часть брони имеет 1 слот для расширений."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:gear/inferium_chestplate"
+    }
+  ]
+}

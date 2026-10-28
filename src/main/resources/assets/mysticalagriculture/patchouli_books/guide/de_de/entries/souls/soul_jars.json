@@ -1,0 +1,17 @@
+{
+  "name": "Seelengefäße",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soul_jar",
+  "sortnum": 104,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Seelengefäße werden in Kombination mit einem $(l:souls/soulium_dagger)Seelendolch$() verwendet, um Mob-Seelen zu sammeln. Gefüllte Seelengefäße können verwendet werden, um $(l:basics/resource_crops)Ressourcenpflanzen$() für die entsprechende Entität zu erstellen. $(br2)Seelengefäße können auch mit Mob-Drops mit einem $(l:machines/soul_extractor)Seelenextraktor$() gefüllt werden."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:soul_jar"
+    }
+  ]
+}

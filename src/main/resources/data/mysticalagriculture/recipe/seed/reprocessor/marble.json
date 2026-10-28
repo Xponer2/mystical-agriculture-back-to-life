@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:marble"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:marble_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:marble_essence"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ołtarz infuzji",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_altar",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ołtarz infuzji jest strukturą, które jest $(bold)zazwyczaj$() używana do tworzenia nasion z Mystical Agriculture. Struktura składa się z 1 ołtarza infuzji i 8 piedestałów infuzji. $(br2)Jak ustawisz wszystkie potrzebne przedmiot, zasil ołtarz sygnałem redstone."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:infusion_altar",
+      "recipe2": "mysticalagriculture:infusion_pedestal"
+    },
+    {
+      "type": "text",
+      "text": "Po postawieniu ołtarza dowiesz się, gdzie trzeba postawić piedestały. $(br2)$(l:https://blakesmods.com/guides/mysticalagriculture/gameplay/creating-seeds)Kliknij tutaj po dokładniejsze instrukcje.$()"
+    }
+  ]
+}

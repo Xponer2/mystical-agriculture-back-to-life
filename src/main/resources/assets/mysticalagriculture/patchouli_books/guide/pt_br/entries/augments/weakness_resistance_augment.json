@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Resistência a Fraqueza",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:weakness_resistance_augment",
+  "sortnum": 321,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Resistência a Fraqueza é um aprimoramento de peitoral que impede o usuário de receber o efeito de Fraqueza enquanto estiver com a armadura equipada."
+    }
+  ]
+}

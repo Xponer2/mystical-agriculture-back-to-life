@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de visión nocturna",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:night_vision_augment",
+  "sortnum": 302,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de visión nocturna es un aumento de casco que otorga al usuario visión nocturna mientras tiene la armadura equipada."
+    }
+  ]
+}

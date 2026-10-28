@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Pressa",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:haste_iii_augment",
+  "sortnum": 323,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Pressa é um aprimoramento de peitoral que aumenta a velocidade de mineração do usuário enquanto ele estiver com a armadura equipada."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "盲目耐性のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:blindness_resistance_augment",
+  "sortnum": 317,
+  "pages": [
+    {
+      "type": "text",
+      "text": "盲目耐性のオーグメントは、着用者の盲目の効果を防ぐヘルメット用のオーグメントです。"
+    }
+  ]
+}

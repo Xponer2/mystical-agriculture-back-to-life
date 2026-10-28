@@ -1,0 +1,18 @@
+{
+  "name": "Augments",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:unattuned_augment",
+  "sortnum": 253,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Augments are upgrades for $(l:tinkering/essence_tools)Essence Tools$() and $(l:tinkering/essence_armor)Essence Armor$(). You add Augments to your gear using a $(l:tinkering/tinkering_table)Tinkering Table$(). $(br2)Each Augment has a tier assigned to it, designating the minimum tier of gear piece required to equip it. "
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "text": "You can see what each Augment does in the 'Augments' section of this guide.",
+      "recipe": "mysticalagriculture:unattuned_augment"
+    }
+  ]
+}

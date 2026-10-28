@@ -1,0 +1,18 @@
+{
+  "name": "Bloques a prueba de Wither",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:witherproof_block",
+  "sortnum": 102,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Los bloques a prueba de Wither son irrompibles por el Wither. Muy útil para aquellos a los que les gusta hacer trampa con los jefes. $(br2)También son inmunes al daño del Dragón del End, sin embargo, todavía puede volar a través de ellos."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:witherproof_block",
+      "recipe2": "mysticalagriculture:witherproof_glass"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Frascos de Almas",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soul_jar",
+  "sortnum": 104,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Frascos de Almas são usados em combinação com uma $(l:souls/soulium_dagger)Adaga de Soulium$() para coletar almas de criaturas. Frascos de Almas cheios podem ser usados para criar $(l:basics/resource_crops)Cultivos de Recurso$() para a entidade correspondente. $(br2)Frascos de Almas também podem ser preenchidos usando drops de criaturas com um $(l:machines/soul_extractor)Extrator de Almas$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:soul_jar"
+    }
+  ]
+}

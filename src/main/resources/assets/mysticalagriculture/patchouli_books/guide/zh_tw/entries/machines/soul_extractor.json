@@ -1,0 +1,17 @@
+{
+  "name": "Soul Extractor",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soul_extractor",
+  "sortnum": 203,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Soul Extractors are used to convert mob drops into mob souls. They run off of solid fuels and have an internal power storage buffer. $(br2)The Soul Extractor provides a use for extra mob drops you may have, but generally won't be as efficient as using a $(l:souls/soulium_dagger)Soulium Dagger$()."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:soul_extractor"
+    }
+  ]
+}

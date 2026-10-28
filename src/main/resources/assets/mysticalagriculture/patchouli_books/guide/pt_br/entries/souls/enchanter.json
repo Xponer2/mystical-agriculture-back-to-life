@@ -1,0 +1,17 @@
+{
+  "name": "Mesa de Encantamentos",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:enchanter",
+  "sortnum": 110,
+  "pages": [
+    {
+      "type": "text",
+      "text": "A Mesa de Encantamentos é um bloco que permite encantar suas ferramentas e armaduras usando diferentes materiais de criação e Essência de Experiência. $(br2)A Mesa de Encantamentos pode aplicar encantamentos tanto em Livros quanto em ferramentas/armaduras, de forma semelhante a uma Bigorna."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:enchanter"
+    }
+  ]
+}

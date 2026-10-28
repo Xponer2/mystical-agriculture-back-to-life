@@ -1,0 +1,12 @@
+{
+  "name": "跳躍力上昇のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:jump_boost_iii_augment",
+  "sortnum": 305,
+  "pages": [
+    {
+      "type": "text",
+      "text": "跳躍力上昇のオーグメントは、着用者の跳躍力を増加させるブーツ用のオーグメントです。"
+    }
+  ]
+}

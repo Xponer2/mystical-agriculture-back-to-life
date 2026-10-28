@@ -1,0 +1,18 @@
+{
+  "name": "神秘の肥料",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:mystical_fertilizer",
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "神秘の肥料は、作物や苗木を瞬時に成長させることができます。$(l:basics/resource_crops)資源の作物$()にも使用することができます！"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:mystical_fertilizer",
+      "recipe2": "mysticalagriculture:mystical_fertilizer_better"
+    }
+  ]
+}

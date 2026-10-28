@@ -1,0 +1,17 @@
+{
+  "name": "Erfahrungskapsel",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:experience_capsule",
+  "sortnum": 106,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Erfahrungskapseln werden verwendet, um Erfahrung für die Erstellung von Erfahrungssamen zu sammeln. $(br2)Um Erfahrung zu sammeln, einfach einige Erfahrungskapseln im Inventar haben und Erfahrungskugeln aufsammeln."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:experience_capsule"
+    }
+  ]
+}

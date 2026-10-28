@@ -1,0 +1,18 @@
+{
+  "name": "Cristal de infusión",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_crystal",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El cristal de infusión se utiliza para crear esencias de mayor nivel."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:infusion_crystal",
+      "recipe2": "mysticalagriculture:prudentium_essence"
+    }
+  ]
+}

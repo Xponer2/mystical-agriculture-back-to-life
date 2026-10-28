@@ -1,0 +1,17 @@
+{
+  "name": "Ruh Kavanozları",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soul_jar",
+  "sortnum": 104,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ruh Kavanozları, varlık ruhlarını toplamak için bir $(l:souls/soulium_dagger)Soulium Hançer$() ile birlikte kullanılır. Doldurulmuş Ruh Kavanozları, ilgili varlık için $(l:basics/resource_crops)Kaynak Mahsulleri$() oluşturmak için kullanılabilir. $(br2)Ruh Kavanozları, $(l:machines/soul_extractor)Ruh Çıkarıcı$() ile varlıklardan düşenler kullanılarak da doldurulabilir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:soul_jar"
+    }
+  ]
+}

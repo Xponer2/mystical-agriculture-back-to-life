@@ -1,0 +1,12 @@
+{
+  "name": "Yavaşlık Direnci Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slowness_resistance_augment",
+  "sortnum": 320,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Yavaşlık Direnci Güçlendirmesi, giyen kişinin zırhı takılıyken Yavaşlık etkisi almasını engelleyen bir tozluk güçlendirmesidir."
+    }
+  ]
+}

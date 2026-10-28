@@ -1,0 +1,18 @@
+{
+  "name": "Aprimoramentos",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:unattuned_augment",
+  "sortnum": 253,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Aprimoramentos são melhorias para $(l:tinkering/essence_tools)Ferramentas de Essência$() e $(l:tinkering/essence_armor)Armaduras de Essência$(). Você adiciona Aprimoramentos ao seu equipamento usando uma $(l:tinkering/tinkering_table)Mesa de Modificações$(). $(br2)Cada Aprimoramento tem um nível atribuído a ele, designando o nível mínimo da peça de equipamento necessário para equipá-lo. "
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "text": "Você pode ver o que cada Aprimoramento faz na seção 'Aprimoramentos' deste guia.",
+      "recipe": "mysticalagriculture:unattuned_augment"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "灵魂瓶",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soul_jar",
+  "sortnum": 104,
+  "pages": [
+    {
+      "type": "text",
+      "text": "灵魂瓶与$(l:souls/soulium_dagger)离魂匕首$()一起使用来收集生物的灵魂. 装满的灵魂瓶可以用来合成对应生物的$(l:basics/resource_crops)资源作物$()."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:soul_jar"
+    }
+  ]
+}

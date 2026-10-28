@@ -1,0 +1,12 @@
+{
+  "name": "Сила (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:strength_iii_augment",
+  "sortnum": 311,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сила (Расширение) - это расширение для меча, которое увеличивает наносимый мечом урон на 5-20 единиц."
+    }
+  ]
+}

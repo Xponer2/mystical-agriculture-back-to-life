@@ -1,0 +1,12 @@
+{
+  "name": "範囲攻撃のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:attack_aoe_iii_augment",
+  "sortnum": 312,
+  "pages": [
+    {
+      "type": "text",
+      "text": "範囲攻撃のオーグメントは、剣の攻撃範囲を最大6ブロック分増加させる剣用のオーグメントです。"
+    }
+  ]
+}

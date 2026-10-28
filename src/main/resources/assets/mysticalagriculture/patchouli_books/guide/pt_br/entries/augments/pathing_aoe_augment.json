@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Área de Caminho",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:pathing_aoe_iv_augment",
+  "sortnum": 304,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Área de Caminho é um aprimoramento de Pá que aumenta a área em que a Pá cria blocos de Caminho, até 9x9. $(br2)a Área é ativada agachando-se ao usar a Pá. $(br2)O centro da Área pode ser alterado pressionando CTRL + Teclas de Seta."
+    }
+  ]
+}

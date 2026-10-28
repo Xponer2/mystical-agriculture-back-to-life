@@ -1,0 +1,17 @@
+{
+  "name": "Armadura de Essência",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_chestplate",
+  "sortnum": 251,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Aprimorar sua armadura de Diamante* com essência melhora sua durabilidade e proteção. Isso também permite que sejam equipadas com $(l:tinkering/augments)Aprimoramentos$(). $(br2)A Armadura de Essência pode ser reparada em uma Bigorna com seu Lingote de Essência correspondente. Cada uma dessas peças de armadura tem 1 slot de aprimoramento."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:gear/inferium_chestplate"
+    }
+  ]
+}

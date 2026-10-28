@@ -1,0 +1,19 @@
+{
+  "type": "mysticalagriculture:soulium_spawner",
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:armadillo"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:armadillo_essence",
+    "count": 12
+  },
+  "entities": [
+    {
+      "entity": "minecraft:armadillo",
+      "weight": 1
+    }
+  ]
+}

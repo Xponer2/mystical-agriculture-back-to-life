@@ -1,0 +1,17 @@
+{
+  "name": "精華工具",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "用精華升級你的鑽石工具來提升它們的耐久值和挖掘速度. 這也讓它們可以被裝上$(l:tinkering/augments)升級$ (). $(br2)精華工具可以在鐵砧上用對應的精華錠修復. 這些工具都有1個升級槽."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

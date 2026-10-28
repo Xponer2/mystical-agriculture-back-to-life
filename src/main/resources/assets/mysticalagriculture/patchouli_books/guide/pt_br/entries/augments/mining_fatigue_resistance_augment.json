@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Resistência a Fadiga de Mineração",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_fatigue_resistance_augment",
+  "sortnum": 314,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Resistência a Fadiga de Mineração é um aprimoramento de armadura que impede o usuário de receber o efeito de Fadiga de Mineração enquanto estiver com a armadura equipada."
+    }
+  ]
+}

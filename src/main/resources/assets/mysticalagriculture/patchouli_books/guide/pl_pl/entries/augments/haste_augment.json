@@ -1,0 +1,12 @@
+{
+  "name": "Haste Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:haste_iii_augment",
+  "sortnum": 323,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Haste Augment is a chestplate augment that increases the wearer's mining speed while they have the armor equipped."
+    }
+  ]
+}

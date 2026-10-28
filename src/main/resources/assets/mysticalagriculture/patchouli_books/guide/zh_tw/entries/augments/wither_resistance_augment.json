@@ -1,0 +1,12 @@
+{
+  "name": "凋零抗性升級",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:wither_resistance_augment",
+  "sortnum": 315,
+  "pages": [
+    {
+      "type": "text",
+      "text": "凋零抗性升級是一種盔甲升級，裝備有這種升級的盔甲，會讓穿戴者避免凋零."
+    }
+  ]
+}

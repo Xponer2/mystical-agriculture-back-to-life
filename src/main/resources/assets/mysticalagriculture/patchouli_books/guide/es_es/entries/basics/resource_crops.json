@@ -1,0 +1,18 @@
+{
+  "name": "Cultivos de recursos",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_seed_base",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Los cultivos de recursos son el corazón y el alma de lo que hace que Mystical Agriculture sea tan genial. Sin embargo, hay algunas propiedades especiales de los cultivos de recursos que deben tenerse en cuenta. $(br2)$(li)Los cultivos de recursos no se pueden cultivar con polvo de hueso. $(li)Los cultivos de recursos no sueltan una segunda semilla a menos que se planten en $(l:basics/essence_farmland)tierra de cultivo de esencia$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "text": "Los cultivos de recursos se crean $(bold)usualmente$() utilizando un $(l:basics/infusion_altar)Altar de infusión$().",
+      "recipe": "mysticalagriculture:prosperity_seed_base"
+    }
+  ]
+}

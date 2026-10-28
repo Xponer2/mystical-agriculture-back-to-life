@@ -1,0 +1,18 @@
+{
+  "name": "Harvester",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:harvester",
+  "sortnum": 204,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Harvesters are used to automatically harvest fully grown crops. They run off of solid fuels and have an internal power storage buffer. $(br2)The harvester will automatically re-plant the crops it harvests. $(br2)The harvester will place all resources into it's internal inventory. If there's no space, the items will be placed on the crop."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "text": "The Harvester will use a bit of power every time it checks a crop for growth. Harvesting fully grown crops uses an increased amount of power. $(br2)These machines can upgraded with $(l:machines/machine_upgrades)Machine Upgrades$(). $(br2)The Harvester can be de-activated with a Redstone signal.",
+      "recipe": "mysticalagriculture:harvester"
+    }
+  ]
+}

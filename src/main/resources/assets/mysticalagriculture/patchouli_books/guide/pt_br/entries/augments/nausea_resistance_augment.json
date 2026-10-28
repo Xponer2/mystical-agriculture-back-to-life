@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Resistência a Náusea",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:nausea_resistance_augment",
+  "sortnum": 319,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Resistência a Náusea é um aprimoramento de elmo que impede o usuário de receber o efeito de Náusea enquanto estiver com a armadura equipada."
+    }
+  ]
+}

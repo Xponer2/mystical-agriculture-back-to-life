@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de resistencia a la náuseas",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:nausea_resistance_augment",
+  "sortnum": 319,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de resistencia a la náuseas es un aumento de casco que evita que el usuario obtenga el efecto de náuseas mientras tiene la armadura equipada."
+    }
+  ]
+}

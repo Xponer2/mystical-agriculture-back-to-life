@@ -1,0 +1,17 @@
+{
+  "name": "Essence Watering Cans",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_watering_can",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Upgrading the regular $(l:basics/watering_can)Watering Can$() with essences and $(l:advances/mystical_fertilizer)Mystical Fertilizer$() improves your farming experience a ton. $(br2)Upgraded Watering Cans have improved range and growth acceleration speed. You can also toggle automatic watering by Shift + Right Clicking with the Watering Can while not targeting a block."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "recipe": "mysticalagriculture:gear/inferium_watering_can"
+    }
+  ]
+}

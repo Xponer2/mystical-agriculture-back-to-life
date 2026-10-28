@@ -1,0 +1,12 @@
+{
+  "name": "Bilişsel Toz",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:cognizant_dust",
+  "sortnum": 151,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bilişsel Toz $(bold)genellikle$() Mistik Aydınlanma ile büyülenmiş bir $(l:tinkering/essence_tools)Öz Silahı$() kullanarak bir Wither veya Ender Ejderhası öldürülerek elde edilir. $(br2)Daha yüksek Mistik Aydınlanma seviyeleri, öldürme sırasında düşen toz miktarını artıracaktır."
+    }
+  ]
+}

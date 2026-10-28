@@ -1,0 +1,17 @@
+{
+  "name": "Regadores de Essência",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_watering_can",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Aprimorar o $(l:basics/watering_can)Regador$() comum com essências e $(l:advances/mystical_fertilizer)Fertilizante Místico$() melhora muito sua experiência agrícola. $(br2)Regadores aprimorados têm alcance e velocidade de aceleração de crescimento melhorados. Você também pode alternar a rega automática com Shift + Clique Direito com o Regador sem mirar em um bloco."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:gear/inferium_watering_can"
+    }
+  ]
+}

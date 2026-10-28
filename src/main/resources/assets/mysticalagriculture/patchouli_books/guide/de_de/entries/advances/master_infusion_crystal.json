@@ -1,0 +1,17 @@
+{
+  "name": "Meister-Infusionskristall",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:master_infusion_crystal",
+  "sortnum": 51,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Der Meister-Infusionskristall hat unendliche Haltbarkeit. Diesen Kristall will man haben, das ist sicher."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:master_infusion_crystal"
+    }
+  ]
+}

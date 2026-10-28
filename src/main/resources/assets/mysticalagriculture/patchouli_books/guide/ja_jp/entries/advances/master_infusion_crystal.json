@@ -1,0 +1,17 @@
+{
+  "name": "マスター注入のクリスタル",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:master_infusion_crystal",
+  "sortnum": 51,
+  "pages": [
+    {
+      "type": "text",
+      "text": "マスター注入のクリスタルは、無限の耐久値を持っています。これが欲しいんでしょう、分かってますよ。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:master_infusion_crystal"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "吐き気耐性のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:nausea_resistance_augment",
+  "sortnum": 319,
+  "pages": [
+    {
+      "type": "text",
+      "text": "吐き気耐性のオーグメントは、着用者の吐き気の効果を防ぐヘルメット用のオーグメントです。"
+    }
+  ]
+}

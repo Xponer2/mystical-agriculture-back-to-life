@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie braku obrażeń od upadku",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:no_fall_damage_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie braku obrażeń od upadku to ulepszenie do butów, które sprawia, że użytkownik nigdy nie otrzyma obrażeń od updaku."
+    }
+  ]
+}

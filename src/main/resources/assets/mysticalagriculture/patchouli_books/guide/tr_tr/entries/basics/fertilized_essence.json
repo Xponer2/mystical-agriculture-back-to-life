@@ -1,0 +1,12 @@
+{
+  "name": "Gübrelenmiş Öz",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Gübrelenmiş Öz $(bold)genellikle$() $(bold)Inferium hariç$() tüm $(l:basics/resource_crops)Kaynak Mahsullerinden$() düşer. Kemik Tozu ile aynı şekilde çalışır, ancak $(l:basics/resource_crops)Kaynak Mahsulleri$() üzerinde de çalışır! $(br2)Gübrelenmiş Öz, daha verimli olan $(l:advances/mystical_fertilizer)Mistik Gübreleyiciyi$() üretmek içinde kullanılabilir."
+    }
+  ]
+}

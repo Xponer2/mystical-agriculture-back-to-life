@@ -1,0 +1,17 @@
+{
+  "name": "Zbroja z esencji",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_chestplate",
+  "sortnum": 251,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie diamentowej zbroji esencjami polepsza jej wytrzymałość i ochronę. Pozwala to też na nałożenie $(l:tinkering/augments)ulepszeń$(). $(br2)Elementy zbroji z esencji mogą być naprawione w kowadle używając odpowiadającej mu sztabce esencji. Każdy z elementów ma 1 slot na ulepszenie."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:gear/inferium_chestplate"
+    }
+  ]
+}

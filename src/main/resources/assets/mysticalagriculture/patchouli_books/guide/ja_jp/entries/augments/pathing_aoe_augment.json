@@ -1,0 +1,12 @@
+{
+  "name": "範囲道均しのオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:pathing_aoe_iv_augment",
+  "sortnum": 304,
+  "pages": [
+    {
+      "type": "text",
+      "text": "範囲道均しのオーグメントは、シャベルが土の道を作成する範囲を9x9まで増加させるシャベル用のオーグメントです。この効果はスニーク中にシャベルを使用したときのみ発動します。"
+    }
+  ]
+}

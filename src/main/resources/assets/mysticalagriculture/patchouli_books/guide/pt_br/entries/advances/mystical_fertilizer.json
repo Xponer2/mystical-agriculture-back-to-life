@@ -1,0 +1,18 @@
+{
+  "name": "Fertilizante Místico",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:mystical_fertilizer",
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Fertilizante Místico é usado para crescer instantaneamente um cultivo ou broto. É eficaz também em $(l:basics/resource_crops)Cultivos de Recurso$()!"
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:mystical_fertilizer",
+      "recipe2": "mysticalagriculture:mystical_fertilizer_better"
+    }
+  ]
+}

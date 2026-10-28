@@ -1,0 +1,17 @@
+{
+  "name": "Інферієве насіння",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Інферієве насіння - один з основних способів отримання інферієвої есенції. Їх можна вирощувати на будь-яких ріллях, але найбільш ефективні вони на $(l:basics/essence_farmland)ріллі з есенції$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

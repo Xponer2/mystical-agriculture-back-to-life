@@ -1,0 +1,12 @@
+{
+  "name": "Erkenntnisstaub",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:cognizant_dust",
+  "sortnum": 151,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Erkenntnisstaub wird $(bold)normalerweise$() durch das Töten eines Withers oder Enderdrachens mit einer $(l:tinkering/essence_tools)Essenzwaffe$() erhalten, die mit Mystischer Erleuchtung verzaubert ist. $(br2)Höhere Stufen der Mystischen Erleuchtung erhöhen die Menge des beim Töten fallenden Staubs."
+    }
+  ]
+}

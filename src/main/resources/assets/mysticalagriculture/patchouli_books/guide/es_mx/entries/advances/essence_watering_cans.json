@@ -1,0 +1,17 @@
+{
+  "name": "Regaderas de esencia",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_watering_can",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Mejorando la $(l:basics/watering_can)regadera$() regular con esencias y $(l:advances/mystical_fertilizer)fertilizante místico$() mejora tu experiencia de cultivo un montón. $(br2)Las regaderas mejoradas tienen un rango y una velocidad de aceleración del crecimiento mejorados. También puedes alternar el riego automático haciendo shift + clic derecho mientras sin apuntar a un bloque."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:gear/inferium_watering_can"
+    }
+  ]
+}

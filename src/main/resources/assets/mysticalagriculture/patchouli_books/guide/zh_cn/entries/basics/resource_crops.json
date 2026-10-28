@@ -1,0 +1,18 @@
+{
+  "name": "资源作物",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_seed_base",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "资源作物是让神秘农业如此成功的核心和灵魂. 但是, 还有一些应该注意的资源作物的特殊属性. $(br2)$(li)资源作物不能通过使用骨粉来加速生长. $(li)资源作物不会掉落第二个种子除非被种在$(l:basics/essence_farmland)精华耕地$()上."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "text": "资源作物$(bold)通常$()使用$(l:basics/infusion_altar)注魔祭坛$()来合成.",
+      "recipe": "mysticalagriculture:prosperity_seed_base"
+    }
+  ]
+}

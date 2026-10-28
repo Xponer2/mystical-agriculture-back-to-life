@@ -1,0 +1,17 @@
+{
+  "name": "种子再处理器",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:seed_reprocessor",
+  "sortnum": 202,
+  "pages": [
+    {
+      "type": "text",
+      "text": "种子再处理器用来把你多余的种子转换为它们各自的精华. 他们消耗固体燃料，并有一个内部能量缓存区."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:seed_reprocessor"
+    }
+  ]
+}

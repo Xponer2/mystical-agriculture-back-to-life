@@ -1,0 +1,17 @@
+{
+  "name": "Furnace",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:furnace",
+  "sortnum": 201,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The basic furnace can be upgraded to take advantage of $(l:machines/machine_upgrades)Machine Upgrades$() for increased cooking speed. They run off of solid fuels and have an internal power storage buffer."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:furnace"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:phantom"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:phantom_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:phantom_essence"
+  }
+}

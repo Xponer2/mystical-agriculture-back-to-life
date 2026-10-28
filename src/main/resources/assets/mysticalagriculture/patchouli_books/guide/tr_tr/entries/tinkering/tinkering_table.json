@@ -1,0 +1,17 @@
+{
+  "name": "Tamirci Masası",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:tinkering_table",
+  "sortnum": 252,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Tamirci Masası, $(l:tinkering/essence_tools)Öz Aletleri$() ve $(l:tinkering/essence_armor)Öz Zırhlarına$() $(l:tinkering/augments)Güçlendirmeler$() eklemek için kullanılır."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:tinkering_table"
+    }
+  ]
+}

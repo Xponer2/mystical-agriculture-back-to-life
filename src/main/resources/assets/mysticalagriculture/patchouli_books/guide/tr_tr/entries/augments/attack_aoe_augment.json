@@ -1,0 +1,12 @@
+{
+  "name": "Saldırı EA Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:attack_aoe_iii_augment",
+  "sortnum": 312,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Saldırı EA Güçlendirmesi, kılıcın saldırı yarıçapını 6 bloğa kadar artıran bir kılıç güçlendirmesidir."
+    }
+  ]
+}

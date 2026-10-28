@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "  E",
+    " S ",
+    "R  "
+  ],
+  "key": {
+    "S": {
+      "tag": "c:rods/wooden"
+    },
+    "R": {
+      "tag": "c:stones"
+    },
+    "E": {
+      "item": "mysticalagriculture:inferium_essence"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:wand"
+  }
+}

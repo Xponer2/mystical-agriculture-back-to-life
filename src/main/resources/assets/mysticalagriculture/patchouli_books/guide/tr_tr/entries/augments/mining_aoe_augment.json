@@ -1,0 +1,12 @@
+{
+  "name": "Madencilik EA Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_aoe_iv_augment",
+  "sortnum": 307,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Madencilik EA Güçlendirmesi, aletin blokları kırma oranını 9x9'a kadar artıran bir alet güçlendirmesidir. Bir bloğu kırarken eğilmek EA etkisini ortadan kaldıracaktır. $(br2)Bu etki Shift tuşu basılı tutularak iptal edilebilir."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Soulium Hançer",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 103,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Soulium Hançer varlıklardan ruh toplamak için kullanılır. Bu ruhlar $(l:souls/soul_jars)Ruh Kavanozları$() kullanılarak toplanır. Ruhlar, Soulium Hançer ile çeteleri öldürerek toplanır. $(br2)Soulium Hançer, bir $(l:basics/infusion_altar)İnfüzyon Sunağı$() kullanılarak yükseltilebilir ve ruh toplama verimliliği artırılabilir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:passive_soulium_dagger",
+      "text": "Pasif Ayarlı Soulium Hançer, pasif varlıklardan fazladan yüzde +50 ruh toplanmasını sağlar."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:hostile_soulium_dagger",
+      "text": "Saldırgan Ayarlı Soulium Hançer, saldırgan varlıklardan fazladan yüzde +%50 ruh toplanmasını sağlar."
+    }
+  ]
+}

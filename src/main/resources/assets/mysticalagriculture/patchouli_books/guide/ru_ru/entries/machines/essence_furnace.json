@@ -1,0 +1,17 @@
+{
+  "name": "Печь",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:furnace",
+  "sortnum": 201,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Базовую печь можно улучшить с помощью $(l:machines/machine_upgrades)Улучшений для Механизмов$() чтобы увеличить скорость готовки. Печи работают на твёрдом топливе и оснащены встроенным буфером для хранения энергии."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:furnace"
+    }
+  ]
+}

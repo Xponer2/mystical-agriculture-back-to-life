@@ -1,0 +1,17 @@
+{
+  "name": "種子再処理機",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:seed_reprocessor",
+  "sortnum": 202,
+  "pages": [
+    {
+      "type": "text",
+      "text": "種子再処理機は、余分な種を対応するエッセンスに変換します。固形燃料を使用でき、内部に電力貯蔵バッファーを持っています。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:seed_reprocessor"
+    }
+  ]
+}

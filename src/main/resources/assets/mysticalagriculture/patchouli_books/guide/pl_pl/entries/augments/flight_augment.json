@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie lotu",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:flight_augment",
+  "sortnum": 316,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie lotu to ulepszenie do napierśnika, które daje użytkownikowi możliwość latania, jak na trybie kreatywnym."
+    }
+  ]
+}

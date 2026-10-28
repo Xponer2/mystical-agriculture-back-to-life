@@ -1,0 +1,17 @@
+{
+  "name": "Experience Capsule",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:experience_capsule",
+  "sortnum": 106,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Experience Capsules are used to collect experience for creating Experience Seeds. $(br2)To collect experience, simply have some Experience Capsules in your inventory and pick up Experience Orbs."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "recipe": "mysticalagriculture:experience_capsule"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Сопротивление утомлению (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_fatigue_resistance_augment",
+  "sortnum": 314,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сопротивление утомлению (Расширение) - это расширение для брони, которое не позволяет владельцу получить эффект Утомления, пока надета броня."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Infusion Altar",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_altar",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Infusion Altar is a crafting structure that is $(bold)usually$() used to create Mystical Agriculture seeds. The structure consists of 1 Infusion Altar and 8 Infusion Pedestals. $(br2)Once you have a recipe put in place, you just need to activate the altar with a Redstone signal."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "recipe": "mysticalagriculture:infusion_altar",
+      "recipe2": "mysticalagriculture:infusion_pedestal"
+    },
+    {
+      "type": "text",
+      "text": "Placing the Infusion Altar in world will show you where to place your pedestals. $(br2)$(l:https://blakesmods.com/guides/mysticalagriculture/gameplay/creating-seeds)Click here for a detailed guide on using the Infusion Altar.$()"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Hasatçı",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:harvester",
+  "sortnum": 204,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Hasatçılar, tamamen yetişmiş mahsulleri otomatik olarak hasat etmek için kullanılır. Katı yakıtlarla çalışırlar ve dahili bir güç deposu arabelleğine sahiptirler. $(br2)Hasatçı, hasat ettiği ürünleri otomatik olarak yeniden ekecektir. $(br2)Hasatçı tüm kaynakları dahili envanterine yerleştirecektir. Yer yoksa, eşyalar mahsulün üzerine yerleştirilecektir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "text": "Hasatçı, bir mahsulün büyümesini her kontrol ettiğinde biraz güç kullanacaktır. Tamamen büyümüş mahsulleri hasat etmek daha fazla güç kullanır. $(br2)Bu makineler $(l:machines/machine_upgrades)Makine Yükseltmeleri$() ile yükseltilebilir. $(br2)Hasatçı bir Redstone sinyali ile devre dışı bırakılabilir.",
+      "recipe": "mysticalagriculture:harvester"
+    }
+  ]
+}

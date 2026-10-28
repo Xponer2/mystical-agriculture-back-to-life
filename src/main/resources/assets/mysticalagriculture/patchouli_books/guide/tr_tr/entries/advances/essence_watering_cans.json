@@ -1,0 +1,17 @@
+{
+  "name": "Öz Sulama Kapları",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_watering_can",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Normal $(l:basics/watering_can)Sulama Kabını$() öz ve $(l:advances/mystical_fertilizer)Mistik Gübreleyici$() ile yükseltmek çiftçilik deneyiminizi kat kat geliştirir. $(br2)Yükseltilmiş Sulama Kapları daha iyi menzile ve büyüme hızına sahiptir. Ayrıca bir bloğu hedeflemeden Sulama Kabı ile Shift + Sağ Tıklama yaparak otomatik sulamayı açıp kapatabilirsiniz."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:gear/inferium_watering_can"
+    }
+  ]
+}

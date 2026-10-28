@@ -1,0 +1,18 @@
+{
+  "name": "Sicheln",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_sickle",
+  "sortnum": 53,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Sicheln werden zum Ernten/Zerstören großer Mengen von Pflanzenmaterial verwendet. $(br2)Höherstufige Sicheln haben einen größeren Wirkungsbereich."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:diamond_sickle",
+      "recipe2": "mysticalagriculture:gear/inferium_sickle"
+    }
+  ]
+}

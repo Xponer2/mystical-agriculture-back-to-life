@@ -1,0 +1,17 @@
+{
+  "name": "Капсула для досвіду",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:experience_capsule",
+  "sortnum": 106,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Капсули для досвіду використовуються для зберігання досвіду та потрібні для крафту насіння досвіду. $(br2)Щоб набрати досвід, просто тримайте в інвентарі кілька капсул і збирайте сфери досвіду."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:experience_capsule"
+    }
+  ]
+}

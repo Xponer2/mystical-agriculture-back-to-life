@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de suerte",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:luck_iii_augment",
+  "sortnum": 322,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de suerte es un aumento de armadura que mejora los objetos obtenidos de la pesca o los cofres de botín para el usuario mientras tiene la armadura equipada."
+    }
+  ]
+}

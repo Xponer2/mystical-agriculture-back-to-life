@@ -1,0 +1,12 @@
+{
+  "name": "Health Boost Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:health_boost_v_augment",
+  "sortnum": 301,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Health Boost Augment is an armor augment that adds 2-10 hearts to the wearer while they have the armor equipped."
+    }
+  ]
+}

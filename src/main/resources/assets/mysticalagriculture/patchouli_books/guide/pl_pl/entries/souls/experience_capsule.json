@@ -1,0 +1,17 @@
+{
+  "name": "Kapsuła z doświadczeniem",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:experience_capsule",
+  "sortnum": 106,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Kapsuły z doświadczeniem mogą być użyte do przechowywania doświadczenia potrzebnego do wytworzenia nasion doświadczenia. $(br2)Aby zebrać doświadczenie w kapsule, po prostu trzymaj w ją ekwipunku i zbieraj z ziemi doświadczenie."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:experience_capsule"
+    }
+  ]
+}

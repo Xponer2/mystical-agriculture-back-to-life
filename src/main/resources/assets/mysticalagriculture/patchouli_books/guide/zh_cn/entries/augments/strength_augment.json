@@ -1,0 +1,12 @@
+{
+  "name": "力量升级",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:strength_iii_augment",
+  "sortnum": 311,
+  "pages": [
+    {
+      "type": "text",
+      "text": "力量升级是一种剑的升级，会增加5-20点剑的伤害."
+    }
+  ]
+}

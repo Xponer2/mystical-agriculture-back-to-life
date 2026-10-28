@@ -1,0 +1,12 @@
+{
+  "name": "Giftresistenz-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:poison_resistance_augment",
+  "sortnum": 313,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Giftresistenz-Augment ist ein Rüstungs-Augment, das verhindert, dass der Träger vergiftet wird, solange er die Rüstung trägt."
+    }
+  ]
+}

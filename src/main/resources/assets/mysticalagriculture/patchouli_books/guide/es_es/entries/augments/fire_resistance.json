@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de resistencia al fuego",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:fire_resistance_augment",
+  "sortnum": 309,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de resistencia al fuego es un aumento de armadura que otorga al usuario resistencia al fuego mientras tiene la armadura equipada."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Nasiona Inferium",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Nasiona Inferium są jednym z głównych sposobów pozyskiwania esencji Inferium. Można je posadzić na polu uprawnym każdego typu, ale są najbardziej efektywne na $(l:basics/essence_farmland)polach uprawnych z esencji$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

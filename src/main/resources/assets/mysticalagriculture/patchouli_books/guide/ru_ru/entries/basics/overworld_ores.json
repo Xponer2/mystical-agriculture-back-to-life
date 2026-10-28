@@ -1,0 +1,18 @@
+{
+  "name": "Руды обычного мира",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_ore",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:inferium_ore",
+      "text": "Инфериевая руда $(bold)обычно$() появляется на высоте между -32 и 64 в Обычном Мире."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:prosperity_ore",
+      "text": "Руда процветания $(bold)обычно$() появляется на высоте между -60 и 24 в Обычном Мире."
+    }
+  ]
+}

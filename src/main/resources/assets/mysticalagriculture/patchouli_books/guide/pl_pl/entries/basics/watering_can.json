@@ -1,0 +1,17 @@
+{
+  "name": "Konewka",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Konewki mogą być użyte do ręcznego* przyspieszania wzrostu roślin. Aby ją napełnić, zwyczajnie kliknij PPM na blok wody."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

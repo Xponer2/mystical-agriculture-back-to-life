@@ -1,0 +1,12 @@
+{
+  "name": "Pfad-AOE-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:pathing_aoe_iv_augment",
+  "sortnum": 304,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Pfad-AOE-Augment ist ein Schaufel-Augment, das den Bereich vergrößert, in dem die Schaufel Pfadblöcke erstellt, bis zu 9x9. Das AOE wird durch Schleichen während der Verwendung der Schaufel aktiviert. $(br2)Dieser Effekt kann durch Halten der Shift-Taste negiert werden."
+    }
+  ]
+}

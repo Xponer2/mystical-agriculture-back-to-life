@@ -1,0 +1,17 @@
+{
+  "name": "Armadura de esencia",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_chestplate",
+  "sortnum": 251,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Mejorar tu armadura de diamante* con esencia mejora su durabilidad y protección. Esto también les permite equiparse con $(l:tinkering/augments)aumentos$(). $(br2)La armadura de esencia se puede reparar en un yunque con su lingote de esencia correspondiente. Estas piezas de armadura tienen 1 ranura de aumento."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:gear/inferium_chestplate"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Flächenbearbeitung-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:tilling_aoe_iv_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Flächenbearbeitung-Augment ist ein Hacken-Augment, das den Bereich vergrößert, in dem die Hacke Ackerlandblöcke erstellt, bis zu 9x9. Das AOE wird aktiviert, indem man beim Benutzen der Hacke schleicht. $(br2)Dieser Effekt kann durch Halten der Umschalttaste negiert werden."
+    }
+  ]
+}

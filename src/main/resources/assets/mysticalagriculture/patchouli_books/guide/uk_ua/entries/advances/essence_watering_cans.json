@@ -1,0 +1,17 @@
+{
+  "name": "Лійки з есенції",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_watering_can",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Поліпшивши звичайну $(l:basics/watering_can)Лійку$() за допомогою есенції та $(l:advances/mystical_fertilizer)Містичного Добрива$(), Ви значно покращите досвід ведення сільського господарства. $(br2)Поліпшені лійки мають розширений радіус дії та швидкість прискорення зростання. Ви також можете вімкнути автоматичний полив, натиснувши Shift+ПКМ лійкою, не націлюючись на блок."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:gear/inferium_watering_can"
+    }
+  ]
+}

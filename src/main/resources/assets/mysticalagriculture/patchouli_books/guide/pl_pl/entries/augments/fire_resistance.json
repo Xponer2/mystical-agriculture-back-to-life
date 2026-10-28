@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie odporności na ogień",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:fire_resistance_augment",
+  "sortnum": 309,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie odporności na ogień to ulepszenie do zbroi, które daje użytkownikowi efekt odporności na ogień."
+    }
+  ]
+}

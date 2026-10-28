@@ -1,0 +1,17 @@
+{
+  "name": "Капсула для опыта",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:experience_capsule",
+  "sortnum": 106,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Капсулы для опыта используются для хранения опыта и требуются для крафта семян опыта. $(br2)Чтобы набрать опыта, просто держите в инвентаре несколько капсул и собирайте сферы опыта."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:experience_capsule"
+    }
+  ]
+}

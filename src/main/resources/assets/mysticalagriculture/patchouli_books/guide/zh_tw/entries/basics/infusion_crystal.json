@@ -1,0 +1,18 @@
+{
+  "name": "注魔水晶",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_crystal",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "注魔水晶被用來合成更高階的精華."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:infusion_crystal",
+      "recipe2": "mysticalagriculture:prudentium_essence"
+    }
+  ]
+}

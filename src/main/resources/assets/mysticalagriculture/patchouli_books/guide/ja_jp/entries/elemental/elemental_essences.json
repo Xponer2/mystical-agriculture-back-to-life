@@ -1,0 +1,12 @@
+{
+  "name": "元素のエッセンス",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:air_essence",
+  "sortnum": 150,
+  "pages": [
+    {
+      "type": "text",
+      "text": "風、地、水、火のエッセンスは、$(l:elemental/awakening_altar)覚醒の祭壇$()のレシピで$(l:elemental/essence_vessel)エッセンスの器$()に入れて使用します。$(br2)元素の種は、$(l:basics/essence_farmland)ランク1のエッセンスの耕地$()に植えると、追加のドロップを得られます。"
+    }
+  ]
+}

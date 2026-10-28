@@ -1,0 +1,18 @@
+{
+  "name": "신비로운 비료",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:mystical_fertilizer",
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "신비로운 비료는 작물이나 묘목을 즉시 재배하는 데 사용됩니다. $(l:basics/resource_crops)자원 작물$()에도 효과적입니다!"
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "recipe": "mysticalagriculture:mystical_fertilizer",
+      "recipe2": "mysticalagriculture:mystical_fertilizer_better"
+    }
+  ]
+}

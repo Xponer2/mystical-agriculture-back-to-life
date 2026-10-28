@@ -1,0 +1,18 @@
+{
+  "name": "Cosechadora",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:harvester",
+  "sortnum": 204,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Las cosechadoras se utilizan para cosechar automáticamente los cultivos completamente crecidos. Funcionan con combustibles sólidos y tienen un búfer de almacenamiento de energía interno. $(br2)La cosechadora replantará automáticamente los cultivos que coseche. $(br2)La cosechadora colocará todos los recursos en su inventario interno. Si no hay espacio, los objetos se colocarán en el cultivo."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "text": "La cosechadora utilizará un poco de energía cada vez que verifique el crecimiento de un cultivo. Cosechar cultivos completamente crecidos utiliza una cantidad aumentada de energía. $(br2)Estas máquinas se pueden mejorar con $(l:machines/machine_upgrades)mejoras de máquinas$(). $(br2)La cosechadora se puede desactivar con una señal de redstone.",
+      "recipe": "mysticalagriculture:harvester"
+    }
+  ]
+}

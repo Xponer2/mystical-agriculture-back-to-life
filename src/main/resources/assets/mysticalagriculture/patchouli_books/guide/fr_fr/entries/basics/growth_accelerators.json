@@ -1,0 +1,18 @@
+{
+  "name": "Growth Accelerators",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_growth_accelerator",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Growth Accelerators are used to increase plant growth speed. They apply random growth ticks to the first plant placed above them within the specified range. $(br2)You can stack multiple Growth Accelerators of any tier as long as the plant is within range."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "recipe": "mysticalagriculture:inferium_growth_accelerator",
+      "text": "The range of the Growth Accelerator is based on it being placed underneath the farmland. $(br2)$(l:https://blakesmods.com/guides/mysticalagriculture/gameplay/speeding-up-crop-growth)Click here for a detailed guide on using Growth Accelerators.$()"
+    }
+  ]
+}

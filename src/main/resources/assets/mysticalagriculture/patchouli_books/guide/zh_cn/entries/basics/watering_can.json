@@ -1,0 +1,17 @@
+{
+  "name": "洒水壶",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "洒水壶可以通过体力劳动来加速作物生长. 只要简单地右键水源方块, 就能灌满洒水壶."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

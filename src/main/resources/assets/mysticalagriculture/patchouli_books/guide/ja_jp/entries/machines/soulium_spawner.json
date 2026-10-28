@@ -1,0 +1,18 @@
+{
+  "name": "ソウリウムのスポナー",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soulium_spawner",
+  "sortnum": 205,
+  "pages": [
+    {
+      "type": "text",
+      "text": "ソウリウムのスポナーは、エッセンスを使用して敵対的または友好的なMobをスポーンします。固形燃料を使用でき、内部に電力貯蔵バッファーを持っています。$(br2)スポナーには内部インベントリがあり、最大512個のアイテムを保持します。Mobをスポーンさせるためには一定量のアイテムと電力が必要です。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "text": "スポナーは、半径3ブロック以内のランダムな位置にMobをスポーンします。$(br2)この機械は$(l:machines/machine_upgrades)マシンアップグレード$()で強化することができます。$(br2)ソウリウムのスポナーは、レッドストーン信号で動作を停止します。",
+      "recipe": "mysticalagriculture:soulium_spawner"
+    }
+  ]
+}

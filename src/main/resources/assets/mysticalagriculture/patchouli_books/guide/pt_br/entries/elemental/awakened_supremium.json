@@ -1,0 +1,12 @@
+{
+  "name": "Supremium Desperto",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakened_supremium_essence",
+  "sortnum": 154,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Supremium Desperto é um material de criação de alto nível usado para criar versões aprimoradas de muitos de seus itens de Supremium. $(br2)O Supremium Desperto é $(bold)geralmente$() criado infundindo $(l:elemental/cognizant_dust)Pó Cognitivo$() com um Bloco de Supremium usando um $(l:elemental/awakening_altar)Altar do Despertar$()."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Инструменты из эссенции",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Улучшение алмазных инструментов с помощью эссенции повышает их прочность и скорость добычи. Это также позволит надевать на них $(l:tinkering/augments)Расширения$(). $(br2)Инструменты из эссенции можно починить на наковальне с помощью соответствующего слитка эссенции. Каждый из этих инструментов имеет 1 слот для расширений."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

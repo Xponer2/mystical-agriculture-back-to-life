@@ -1,0 +1,19 @@
+{
+  "type": "mysticalagriculture:soulium_spawner",
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:breeze"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:breeze_essence",
+    "count": 24
+  },
+  "entities": [
+    {
+      "entity": "minecraft:breeze",
+      "weight": 1
+    }
+  ]
+}

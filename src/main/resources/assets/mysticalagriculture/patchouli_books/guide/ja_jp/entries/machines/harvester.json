@@ -1,0 +1,18 @@
+{
+  "name": "収穫機",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:harvester",
+  "sortnum": 204,
+  "pages": [
+    {
+      "type": "text",
+      "text": "収穫機は、完全に成長した作物を自動的に収穫します。固形燃料を使用でき、内部に電力貯蔵バッファーを持っています。$(br2)収穫機は、収穫した作物を自動的に植え直します。$(br2)収穫機は、すべてのアイテムを内部インベントリに保持します。保持できるスペースがない場合、アイテムは作物の上に配置されます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "text": "収穫機は、作物の成長をチェックする度に電力を少し消費します。完全に成長した作物を収穫する際は、より多くの電力を消費します。$(br2)この機械は$(l:machines/machine_upgrades)マシンアップグレード$()で強化することができます。$(br2)収穫機は、レッドストーン信号で動作を停止します。",
+      "recipe": "mysticalagriculture:harvester"
+    }
+  ]
+}

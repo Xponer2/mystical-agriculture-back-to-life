@@ -1,0 +1,12 @@
+{
+  "name": "範圍鋤地升級",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:tilling_aoe_iv_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "範圍鋤地升級是一種鋤的升級，會提升鋤地的範圍，最大可達9x9. 使用鋤時，通過潛行激活."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie szerokości ataku",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:attack_aoe_iii_augment",
+  "sortnum": 312,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie szerokości ataku to ulepszenie do miecza, które zwiększa boczny zasięg ataku miecza o maksymalnie 6 bloków."
+    }
+  ]
+}

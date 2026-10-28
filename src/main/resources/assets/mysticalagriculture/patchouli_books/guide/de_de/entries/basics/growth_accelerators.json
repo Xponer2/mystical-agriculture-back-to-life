@@ -1,0 +1,18 @@
+{
+  "name": "Wachstumsbeschleuniger",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_growth_accelerator",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Wachstumsbeschleuniger werden verwendet, um die Wachstumsrate von Pflanzen zu erhöhen. Sie wenden zufällige Wachstumsticks auf die erste Pflanze an, die über ihnen innerhalb des angegebenen Bereichs platziert wird. $(br2)Mehrere Wachstumsbeschleuniger jeder Stufe können gestapelt werden, solange die Pflanze innerhalb des Bereichs liegt."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:inferium_growth_accelerator",
+      "text": "Der Bereich des Wachstumsbeschleunigers basiert darauf, dass er unter dem Ackerland platziert wird. $(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/speeding-up-crop-growth)Klicke hier für eine detaillierte Anleitung zur Verwendung von Wachstumsbeschleunigern.$()"
+    }
+  ]
+}

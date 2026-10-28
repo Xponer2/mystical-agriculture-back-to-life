@@ -1,0 +1,12 @@
+{
+  "name": "Adım Yardımı Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:step_assist_augment",
+  "sortnum": 310,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Adım Yardımı Güçlendirmesi, zırh takılıyken kullanıcının zıplamadan 1 blok yüksekliğe çıkmasını sağlayan bir tozluk veya çizme güçlendirmesidir. $(br2)Bu etki Shift tuşu basılı tutularak iptal edilebilir."
+    }
+  ]
+}

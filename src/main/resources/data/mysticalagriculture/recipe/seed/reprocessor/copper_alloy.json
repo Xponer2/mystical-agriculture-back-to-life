@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:copper_alloy"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:copper_alloy_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:copper_alloy_essence"
+  }
+}

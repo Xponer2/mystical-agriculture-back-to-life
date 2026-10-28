@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie wielkości orania",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:tilling_aoe_iv_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie wielkości orania to ulepszenie do motyki, które zwiększa powierzchnię, jaką użytkownik może zaorać przy jednym użyciu motyki. Efekt ten jest aktywowany używając łopaty skradając się."
+    }
+  ]
+}

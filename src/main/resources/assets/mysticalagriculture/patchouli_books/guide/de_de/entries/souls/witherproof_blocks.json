@@ -1,0 +1,18 @@
+{
+  "name": "Witherfeste Blöcke",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:witherproof_block",
+  "sortnum": 102,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Witherfeste Blöcke sind unzerstörbar durch den Wither. Sehr nützlich für diejenigen, die Bosse austricksen möchten. $(br2)Sie sind auch immun gegen Schaden durch den Enderdrachen, jedoch kann dieser immer noch durch sie hindurchfliegen."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:witherproof_block",
+      "recipe2": "mysticalagriculture:witherproof_glass"
+    }
+  ]
+}

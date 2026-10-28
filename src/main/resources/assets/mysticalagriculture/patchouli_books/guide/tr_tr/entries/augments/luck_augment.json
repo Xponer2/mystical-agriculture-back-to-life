@@ -1,0 +1,12 @@
+{
+  "name": "Şans Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:luck_iii_augment",
+  "sortnum": 322,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Şans Güçlendirmesi, zırh takılıyken giyen kişi için balıkçılıktan veya ganimet sandıklarından düşen ganimetleri iyileştiren bir zırh güçlendirmesidir."
+    }
+  ]
+}

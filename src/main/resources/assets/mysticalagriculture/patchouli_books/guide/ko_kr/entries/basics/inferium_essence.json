@@ -1,0 +1,12 @@
+{
+  "name": "인퍼륨 에센스",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_essence",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "인퍼륨 에센스는 신비농업의 두 가지 기본 재료 중 하나입니다. 모드의 거의 모든 것을 창조하는데 사용됩니다. $(bold)일반적으로$() 적대적이거나 비적대적인 몹을 죽이거나, 땅에서 채굴하거나, 재배하여 인퍼륨 에센스를 획득할 수 있습니다."
+    }
+  ]
+}

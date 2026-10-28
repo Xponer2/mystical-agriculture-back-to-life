@@ -1,0 +1,18 @@
+{
+  "name": "Güçlendirmeler",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:unattuned_augment",
+  "sortnum": 253,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Güçlendirmeler, $(l:tinkering/essence_tools)Öz Aletleri$() ve $(l:tinkering/essence_armor)Öz Zırhları$() için yükseltmelerdir. Bir $(l:tinkering/tinkering_table)Tamirci Masası$() kullanarak teçhizatınıza Güçlendirmeler ekleyebilirsiniz. $(br2)Her Geliştirme'ye atanmış bir kademe vardır ve bu kademe onu donatmak için gereken en düşük teçhizat parçasını belirler. "
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "text": "Her bir Güçlendirme'nin ne işe yaradığını bu rehberin 'Güçlendirmeler' bölümünde görebilirsiniz.",
+      "recipe": "mysticalagriculture:unattuned_augment"
+    }
+  ]
+}

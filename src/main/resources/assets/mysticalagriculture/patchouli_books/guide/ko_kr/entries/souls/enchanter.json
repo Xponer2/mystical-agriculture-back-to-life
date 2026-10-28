@@ -1,0 +1,17 @@
+{
+  "name": "Enchanter",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:enchanter",
+  "sortnum": 110,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Enchanter is a block that allows you to enchant your tools and armor using different crafting materials and Experience Essence. $(br2)The Enchanter can apply enchantments to both Books and tools/armor, similarly to an Anvil."
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "recipe": "mysticalagriculture:enchanter"
+    }
+  ]
+}

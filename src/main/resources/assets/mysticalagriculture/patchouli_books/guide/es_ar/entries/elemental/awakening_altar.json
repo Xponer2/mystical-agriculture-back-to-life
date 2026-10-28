@@ -1,0 +1,24 @@
+{
+  "name": "Altar del despertar",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakening_altar",
+  "sortnum": 153,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El altar del despertar es una estructura de fabricación que se utiliza $(bold)usualmente$() para crear $(l:elemental/awakened_supremium)supremium despertado$(). La estructura consta de 1 altar de infusión, 4 pedestales de infusión y 4 $(l:elemental/essence_vessel)recipientes de esencia$(). $(br2)Una vez que tengas una receta en su lugar, solo necesitas activar el altar con una señal de redstone."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:awakening_altar",
+      "recipe2": "mysticalagriculture:awakening_pedestal"
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:essence_vessel",
+      "text": "Colocar el altar del despertar en el mundo te mostrará dónde colocar tus pedestales y recipientes de esencia."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Essenzrüstungen",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_chestplate",
+  "sortnum": 251,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Aufrüsten der Diamant*-Rüstungen mit Essenzen verbessert deren Haltbarkeit und Schutz. Dies ermöglicht auch die Ausrüstung mit $(l:tinkering/augments)Augments$(). $(br2)Essenzrüstungen können in einem Amboss mit ihrem entsprechenden Essenzbarren repariert werden. Diese Rüstungsteile haben jeweils 1 Augment-Slot."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:gear/inferium_chestplate"
+    }
+  ]
+}

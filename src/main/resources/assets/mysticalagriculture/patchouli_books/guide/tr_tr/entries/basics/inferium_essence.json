@@ -1,0 +1,12 @@
+{
+  "name": "Inferium Özü",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_essence",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "İnferium Özü, Mystical Agriculture'daki iki temel malzemeden biridir. Moddaki hemen hemen her şeyin oluşturulmasında kullanılır. İnferium Özü'nü $(bold)genellikle$() düşman veya pasif varlıkları öldürerek, yerden kazarak veya yetiştirerek elde edebilirsiniz."
+    }
+  ]
+}

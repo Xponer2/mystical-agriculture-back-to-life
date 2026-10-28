@@ -1,0 +1,17 @@
+{
+  "name": "Öz Aletleri",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Elmas* aletlerinizi öz ile yükseltmek dayanıklılıklarını ve madencilik hızlarını artırır. Bu aynı zamanda $(l:tinkering/augments)Güçlendirmeler$() ile donatılmalarını sağlar. $(br2)Öz Aletleri, kendilerine karşılık gelen Öz Külçesi ile bir Örs içinde onarılabilir. Bu aletlerin her birinin 1 güçlendirme yuvası vardır."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

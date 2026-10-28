@@ -1,0 +1,12 @@
+{
+  "name": "移動速度低下耐性のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slowness_resistance_augment",
+  "sortnum": 320,
+  "pages": [
+    {
+      "type": "text",
+      "text": "移動速度低下耐性のオーグメントは、着用者の移動速度低下の効果を防ぐレギンス用のオーグメントです。"
+    }
+  ]
+}

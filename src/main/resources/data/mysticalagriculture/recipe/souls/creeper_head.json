@@ -1,0 +1,10 @@
+{
+  "type": "mysticalagriculture:soul_extraction",
+  "input": {
+    "item": "minecraft:creeper_head"
+  },
+  "result": {
+    "type": "mysticalagriculture:creeper",
+    "souls": 3.0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Sickles",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_sickle",
+  "sortnum": 53,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Sickles are used for harvesting/destroying large areas of plant material. $(br2)Higher tier Sickles will have a greater area of effect."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "recipe": "mysticalagriculture:diamond_sickle",
+      "recipe2": "mysticalagriculture:gear/inferium_sickle"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Makine Yükseltmeleri",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:upgrade_base",
+  "sortnum": 200,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Makine Yükseltmeleri, verimliliklerini artırmak için uygulanabilir makinelere yerleştirilebilir. $(br2)Daha yüksek seviyeli makineler hem daha hızlı güç kullanacak hem de daha hızlı güç üretecektir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:upgrade_base",
+      "recipe2": "mysticalagriculture:inferium_upgrade"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Área de Mineração",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_aoe_iv_augment",
+  "sortnum": 307,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Área de Mineração é um aprimoramento de ferramenta que aumenta a área em que a ferramenta quebra blocos, até 9x9. $(br2)Este efeito pode ser negado agachando-se. $(br2)O centro da Área pode ser alterado pressionando CTRL + Teclas de Seta."
+    }
+  ]
+}

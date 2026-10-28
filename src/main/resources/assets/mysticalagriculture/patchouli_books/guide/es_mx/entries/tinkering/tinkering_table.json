@@ -1,0 +1,17 @@
+{
+  "name": "Mesa de modificación",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:tinkering_table",
+  "sortnum": 252,
+  "pages": [
+    {
+      "type": "text",
+      "text": "La mesa de modificación se utiliza para añadir $(l:tinkering/augments)aumentos$() a las $(l:tinkering/essence_tools)herramientas de esencia$() y $(l:tinkering/essence_armor)armaduras de esencia$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:tinkering_table"
+    }
+  ]
+}

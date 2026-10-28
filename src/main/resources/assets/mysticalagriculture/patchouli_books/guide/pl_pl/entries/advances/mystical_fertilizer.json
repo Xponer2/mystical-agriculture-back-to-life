@@ -1,0 +1,18 @@
+{
+  "name": "Mistyczny nawóz",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:mystical_fertilizer",
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Mistyczny nawóz może być użyty do natychmiastowego wzrostu dowolnej uprawy lub sadzonki. Działa również na $(l:basics/resource_crops)uprawy materiałów$()!"
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:mystical_fertilizer",
+      "recipe2": "mysticalagriculture:mystical_fertilizer_better"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie wielkości tworzenia ścieżek",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:pathing_aoe_iv_augment",
+  "sortnum": 304,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie wielkości tworzenia ścieżek to ulepszenie do łopaty, które zwiększa powierzchnię, jaką łopata zamienia w ścieżkę przy jednym użyciu. Efekt ten jest aktywowany używając łopaty skradając się."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Cristal de infusión maestro",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:master_infusion_crystal",
+  "sortnum": 51,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El cristal de infusión maestro tiene durabilidad infinita. Quieres esto, sé que lo quieres."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:master_infusion_crystal"
+    }
+  ]
+}

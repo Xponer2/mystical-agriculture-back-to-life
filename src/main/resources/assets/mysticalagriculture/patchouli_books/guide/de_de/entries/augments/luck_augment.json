@@ -1,0 +1,12 @@
+{
+  "name": "Glücks-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:luck_iii_augment",
+  "sortnum": 322,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Glücks-Augment ist ein Rüstungs-Augment, das die Beute aus dem Angeln oder Beutekisten für den Träger verbessert, solange er die Rüstung trägt."
+    }
+  ]
+}

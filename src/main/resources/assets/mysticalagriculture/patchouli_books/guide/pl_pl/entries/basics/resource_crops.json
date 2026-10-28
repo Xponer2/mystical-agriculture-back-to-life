@@ -1,0 +1,18 @@
+{
+  "name": "Uprawy materiałów",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_seed_base",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Uprawy materiałów są sercem i duszą Mystical Agriculture. Są jednak pewne wyjątkowe cechy upraw materiałów, o których powinniśmy wspomnieć. $(br2)$(li)Wzrost upraw materiałów nie może być przyspieszony mączką kostną. $(li)Po zebraniu plonów z uprawy materiału nie wypada dodakowe nasiono, chyba że jest posadzona na $(l:basics/essence_farmland)polu uprawnym z esencji$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "text": "Uprawy materiałów są $(bold)zazwyczaj$() wytwarzane z pomocą $(l:basics/infusion_altar)ołtarza infuzji$().",
+      "recipe": "mysticalagriculture:prosperity_seed_base"
+    }
+  ]
+}

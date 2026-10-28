@@ -1,0 +1,12 @@
+{
+  "name": "夜視升級",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:night_vision_augment",
+  "sortnum": 302,
+  "pages": [
+    {
+      "type": "text",
+      "text": "夜視升級是一種頭盔升級，裝備有這種升級的頭盔，會提高穿戴者的夜視能力."
+    }
+  ]
+}

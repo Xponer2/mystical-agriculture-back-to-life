@@ -1,0 +1,18 @@
+{
+  "name": "Серпи",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_sickle",
+  "sortnum": 53,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Серпи використовуються для збирання/знищення великих ділянок рослинного матеріалу. $(br2)Серпи вищого рівня мають більшу площу дії."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:diamond_sickle",
+      "recipe2": "mysticalagriculture:gear/inferium_sickle"
+    }
+  ]
+}

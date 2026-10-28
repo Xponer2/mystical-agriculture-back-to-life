@@ -1,0 +1,12 @@
+{
+  "name": "Увеличение здоровья (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:health_boost_v_augment",
+  "sortnum": 301,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Увеличение здоровья (Расширение) - это расширениее для брони, которое добавляет 2-10 сердец носящему, пока надета броня."
+    }
+  ]
+}

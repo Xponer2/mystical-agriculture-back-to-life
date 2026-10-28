@@ -1,0 +1,12 @@
+{
+  "name": "Sağlık Artırma Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:health_boost_v_augment",
+  "sortnum": 301,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Sağlık Artırma Güçlendirmesi, zırh takılıyken kullanıcıya 2-10 kalp ekleyen bir zırh güçlendirmesidir."
+    }
+  ]
+}

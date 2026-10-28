@@ -1,0 +1,18 @@
+{
+  "name": "Cultivos de Recurso",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_seed_base",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Os Cultivos de Recurso são o coração e a alma do que torna o Mystical Agriculture tão incrível. No entanto, existem algumas propriedades especiais dos cultivos de recurso que devem ser observadas. $(br2)$(li)Cultivos de Recurso não podem ser cultivados usando Farinha de Osso. $(li)Cultivos de Recurso não dropam uma segunda semente, a menos que plantados em $(l:basics/essence_farmland)Terra Arada de Essência$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "text": "Cultivos de Recurso são $(bold)geralmente$() criados usando um $(l:basics/infusion_altar)Altar de Infusão$().",
+      "recipe": "mysticalagriculture:prosperity_seed_base"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "İnfüzyon Sunağı",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_altar",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "İnfüzyon Sunağı, $(bold)genellikle$() Mystical Agriculture tohumları oluşturmak için kullanılan bir üretim yapısıdır. Yapı 1 İnfüzyon Sunağı ve 8 İnfüzyon Kaidesi'nden oluşur. $(br2)Bir tarif oluşturduktan sonra, sunağı bir Değnek veya Redstone sinyali ile etkinleştirmeniz yeterlidir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:infusion_altar",
+      "recipe2": "mysticalagriculture:infusion_pedestal"
+    },
+    {
+      "type": "text",
+      "text": "İnfüzyon Sunağı'nı dünyaya yerleştirmek size kaidelerinizi nereye yerleştireceğinizi gösterecektir. $(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/creating-seeds)İnfüzyon Sunağı'nın kullanımına ilişkin ayrıntılı bir rehber için buraya tıklayın.$()"
+    }
+  ]
+}

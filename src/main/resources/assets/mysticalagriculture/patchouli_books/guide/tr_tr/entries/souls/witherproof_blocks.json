@@ -1,0 +1,18 @@
+{
+  "name": "Wither'a Dayanıklı Bloklar",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:witherproof_block",
+  "sortnum": 102,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Wither'a Dayanıklı Bloklar, Wither tarafından kırılamaz. Patronları durdurmayı sevenler için çok kullanışlıdır. $(br2)Ayrıca Ender Ejderhası'nın hasarına karşı bağışıklıkları vardır, ancak yine de içlerinden uçabilir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:witherproof_block",
+      "recipe2": "mysticalagriculture:witherproof_glass"
+    }
+  ]
+}

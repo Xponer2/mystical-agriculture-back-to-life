@@ -1,0 +1,18 @@
+{
+  "name": "주입 수정",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_crystal",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "주입 수정은 상위 티어의 에센스를 만드는 데 사용됩니다."
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "recipe": "mysticalagriculture:infusion_crystal",
+      "recipe2": "mysticalagriculture:prudentium_essence"
+    }
+  ]
+}

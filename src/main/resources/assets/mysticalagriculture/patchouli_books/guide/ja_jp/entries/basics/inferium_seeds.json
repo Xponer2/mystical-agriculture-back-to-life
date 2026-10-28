@@ -1,0 +1,17 @@
+{
+  "name": "インフェリウムの種",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "インフェリウムの種は、インフェリウムのエッセンスを集める基本的な方法の1つです。すべての耕地で育てることができますが、$(l:basics/essence_farmland)エッセンスの耕地$()で効率的に育てることができます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

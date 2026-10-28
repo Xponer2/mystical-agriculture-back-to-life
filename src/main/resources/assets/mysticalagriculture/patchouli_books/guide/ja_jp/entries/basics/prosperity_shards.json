@@ -1,0 +1,12 @@
+{
+  "name": "プロスペリティの欠片",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_shard",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "プロスペリティの欠片は、Mystical Agricultureの2種類の基本的な素材のうちの1つです。基本的な素材の魔法的なバリエーションの作成に使用します。プロスペリティの欠片は$(bold)通常$()、地下で採掘することで手に入れることができます。"
+    }
+  ]
+}

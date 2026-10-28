@@ -1,0 +1,22 @@
+{
+  "name": "Вівтар наповнення",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_altar",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Вівтар наповнення - це реміснича структура, яка $(bold)зазвичай$() використовується для створення насіння з Mystical Agriculture. Структура складається з 1 Вівтаря Наповнення та 8 П'ядесталів Наповнення. $(br2)Після того, як ви викладете рецепт, вам потрібно буде просто активувати вівтар за допомогою сигналу редстоуна."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:infusion_altar",
+      "recipe2": "mysticalagriculture:infusion_pedestal"
+    },
+    {
+      "type": "text",
+      "text": "Після встановлення Вівтаря Наповнення у світі, місця для встановлення п'ядесталів будуть вказані."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie zwiększonego skoku",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:jump_boost_iii_augment",
+  "sortnum": 305,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie zwiększonego skoku to ulepszenie do butów, które zwiększa wysokość skoku użytkownika."
+    }
+  ]
+}

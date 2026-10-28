@@ -1,0 +1,12 @@
+{
+  "name": "Bulantı Direnci Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:nausea_resistance_augment",
+  "sortnum": 319,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bulantı Direnci Güçlendirmesi, zırh takılıyken kullanıcının Bulantı etkisi almasını engelleyen bir miğfer güçlendirmesidir."
+    }
+  ]
+}

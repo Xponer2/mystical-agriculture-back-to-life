@@ -1,0 +1,26 @@
+{
+  "type": "crafting_shaped",
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:coral"
+    }
+  ],
+  "pattern": [
+    " E ",
+    "EDE",
+    " E "
+  ],
+  "key": {
+    "E": {
+      "item": "mysticalagriculture:coral_essence"
+    },
+    "D": {
+      "tag": "c:dyes/yellow"
+    }
+  },
+  "result": {
+    "id": "minecraft:horn_coral",
+    "count": 8
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Flug-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:flight_augment",
+  "sortnum": 316,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Flug-Augment ist ein Brustpanzer-Augment, das dem Träger kreatives Fliegen ermöglicht, solange er die Rüstung trägt."
+    }
+  ]
+}

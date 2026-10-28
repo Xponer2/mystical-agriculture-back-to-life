@@ -1,0 +1,18 @@
+{
+  "name": "收割刀",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_scythe",
+  "sortnum": 54,
+  "pages": [
+    {
+      "type": "text",
+      "text": "收割刀可以右键收割大范围的作物。范围内所有成熟的作物都会被收割，而且不会连根拔起。 $(br2)收割刀也是一种高效的大范围攻击武器。$(br2)更高等级的收割刀有着更大的工作范围。"
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:diamond_scythe",
+      "recipe2": "mysticalagriculture:gear/inferium_scythe"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "範圍挖掘升級",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_aoe_iv_augment",
+  "sortnum": 307,
+  "pages": [
+    {
+      "type": "text",
+      "text": "範圍挖掘升級是一種挖掘工具升級，會提升工具挖掘的範圍，最大可達9x9. 潛行時破壞方塊會無視這個範圍效果."
+    }
+  ]
+}

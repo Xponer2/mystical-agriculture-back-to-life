@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:electrum"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:electrum_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:electrum_essence"
+  }
+}

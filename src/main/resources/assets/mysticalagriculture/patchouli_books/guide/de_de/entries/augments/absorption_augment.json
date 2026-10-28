@@ -1,0 +1,12 @@
+{
+  "name": "Absorptions-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:absorption_v_augment",
+  "sortnum": 300,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Absorptions-Augment ist ein Rüstungs-Augment, das dem Benutzer alle 8 Minuten 2-10 Absorptionsherzen gewährt, während die Rüstung getragen wird."
+    }
+  ]
+}

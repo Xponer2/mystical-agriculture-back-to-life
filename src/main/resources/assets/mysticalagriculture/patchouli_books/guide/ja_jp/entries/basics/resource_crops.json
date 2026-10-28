@@ -1,0 +1,18 @@
+{
+  "name": "資源の作物",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_seed_base",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "資源の作物は、Mystical Agricultureの核心です。しかし、資源の作物には特筆すべきいくつかの特性があります。$(br2)$(li)資源の作物は、骨粉を使用して成長させることができません。$(li)資源の作物は、$(l:basics/essence_farmland)エッセンスの耕地$()に植えない限り複数の種をドロップしません。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "text": "資源の作物は$(bold)通常$()、$(l:basics/infusion_altar)注入の祭壇$()を使用して作成されます。",
+      "recipe": "mysticalagriculture:prosperity_seed_base"
+    }
+  ]
+}

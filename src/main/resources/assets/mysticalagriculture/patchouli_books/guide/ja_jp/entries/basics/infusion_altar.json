@@ -1,0 +1,22 @@
+{
+  "name": "注入の祭壇",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_altar",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "注入の祭壇は$(bold)通常$()、Mystical Agricultureの種を作成するために使用されるクラフト構造です。この構造は、1個の注入の祭壇と8個の注入の台座で構成されています。$(br2)レシピを配置したら、魔法の杖かレッドストーン信号で祭壇を起動することができます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:infusion_altar",
+      "recipe2": "mysticalagriculture:infusion_pedestal"
+    },
+    {
+      "type": "text",
+      "text": "ワールドに注入の祭壇を設置すると、台座の設置場所が表示されます。$(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/creating-seeds)注入の祭壇のより詳しい使い方はここをクリック。$()"
+    }
+  ]
+}

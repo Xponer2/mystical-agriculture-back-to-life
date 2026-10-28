@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de prisa",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:haste_iii_augment",
+  "sortnum": 323,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de prisa es un aumento de pechera que aumenta la velocidad de minería del usuario mientras tiene la armadura equipada."
+    }
+  ]
+}

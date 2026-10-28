@@ -1,0 +1,12 @@
+{
+  "name": "Langsamkeitsresistenz-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slowness_resistance_augment",
+  "sortnum": 320,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Langsamkeitsresistenz-Augment ist ein Hosen-Augment, das verhindert, dass der Träger den Langsamkeitseffekt erhält, solange er die Rüstung trägt."
+    }
+  ]
+}

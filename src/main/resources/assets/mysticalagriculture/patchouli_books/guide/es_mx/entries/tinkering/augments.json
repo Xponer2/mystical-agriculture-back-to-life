@@ -1,0 +1,18 @@
+{
+  "name": "Aumentos",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:unattuned_augment",
+  "sortnum": 253,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Los aumentos son mejoras para las $(l:tinkering/essence_tools)herramientas de esencia$() y las $(l:tinkering/essence_armor)armaduras de esencia$(). Puedes añadir aumentos a tu equipo utilizando una $(l:tinkering/tinkering_table)mesa de modificación$(). $(br2)Cada aumento tiene un nivel asignado, designando el nivel mínimo de la pieza de equipo requerida para equiparlo. "
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "text": "Puedes ver lo que hace cada aumento en la sección 'Aumentos' de esta guía.",
+      "recipe": "mysticalagriculture:unattuned_augment"
+    }
+  ]
+}

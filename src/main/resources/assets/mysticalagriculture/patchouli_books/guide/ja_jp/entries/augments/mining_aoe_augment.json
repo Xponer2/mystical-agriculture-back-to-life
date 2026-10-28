@@ -1,0 +1,12 @@
+{
+  "name": "範囲採掘のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_aoe_iv_augment",
+  "sortnum": 307,
+  "pages": [
+    {
+      "type": "text",
+      "text": "範囲採掘のオーグメントは、道具がブロックを破壊する範囲を最大9x9まで増加させる道具用のオーグメントです。$(br2)この効果はスニーク中は無効化されます。$(br2)効果範囲の中心はCtrl + 矢印キーを押すことで変更できます。"
+    }
+  ]
+}

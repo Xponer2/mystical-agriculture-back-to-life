@@ -1,0 +1,12 @@
+{
+  "name": "火炎耐性のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:fire_resistance_augment",
+  "sortnum": 309,
+  "pages": [
+    {
+      "type": "text",
+      "text": "火炎耐性のオーグメントは、着用者に火炎耐性を付与する防具用のオーグメントです。"
+    }
+  ]
+}

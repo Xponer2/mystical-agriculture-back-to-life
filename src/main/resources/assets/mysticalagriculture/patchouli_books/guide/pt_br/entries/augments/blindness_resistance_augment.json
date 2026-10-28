@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Resistência a Cegueira",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:blindness_resistance_augment",
+  "sortnum": 317,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Resistência a Cegueira é um aprimoramento de elmo que impede o usuário de receber o efeito de Cegueira enquanto estiver com a armadura equipada."
+    }
+  ]
+}

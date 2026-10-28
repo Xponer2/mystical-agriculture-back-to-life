@@ -1,0 +1,17 @@
+{
+  "name": "Narzędzia z esencji",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszanie diamentowych narzędzi esencjami polepsza ich wytrzymałość i szybkość kopania. Pozwala to też na nałożenie $(l:tinkering/augments)ulepszeń$(). $(br2)Narzędzia z esencji mogą być naprawione w kowadle używając odpowiadającej mu sztabce esencji. Każde z narzędzi ma 1 slot na ulepszenie."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Blindness Resistance Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:blindness_resistance_augment",
+  "sortnum": 317,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Blindness Resistance Augment is a helmet augment that prevents the wearer from getting the Blindness effect while they have the armor equipped."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de absorción",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:absorption_v_augment",
+  "sortnum": 300,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de absorción es un aumento de armadura que otorga al usuario 2-10 corazones de absorción cada 8 minutos mientras tiene la armadura equipada."
+    }
+  ]
+}

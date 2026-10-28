@@ -1,0 +1,18 @@
+{
+  "name": "Infusion Crystal",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_crystal",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Infusion Crystal is used to create higher tier essences."
+    },
+    {
+      "type": "crafting",
+      "title": "Crafting",
+      "recipe": "mysticalagriculture:infusion_crystal",
+      "recipe2": "mysticalagriculture:prudentium_essence"
+    }
+  ]
+}

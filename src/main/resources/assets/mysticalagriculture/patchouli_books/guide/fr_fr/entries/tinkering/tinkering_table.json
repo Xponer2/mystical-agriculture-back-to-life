@@ -1,0 +1,17 @@
+{
+  "name": "Tinkering Table",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:tinkering_table",
+  "sortnum": 252,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Tinkering Table is used to add $(l:tinkering/augments)Augments$() to $(l:tinkering/essence_tools)Essence Tools$() and $(l:tinkering/essence_armor)Essence Armor$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "recipe": "mysticalagriculture:tinkering_table"
+    }
+  ]
+}

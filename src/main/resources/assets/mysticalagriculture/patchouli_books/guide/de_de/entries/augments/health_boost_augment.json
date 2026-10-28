@@ -1,0 +1,12 @@
+{
+  "name": "Gesundheitsboost-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:health_boost_v_augment",
+  "sortnum": 301,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Gesundheitsboost-Augment ist ein Rüstungs-Augment, das dem Träger 2-10 zusätzliche Herzen verleiht, während die Rüstung getragen wird."
+    }
+  ]
+}

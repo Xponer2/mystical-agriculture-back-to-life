@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mysticalagriculture:soulstone_cobble"
+  },
+  "result": {
+    "id": "mysticalagriculture:soulstone_cobble_stairs"
+  }
+}

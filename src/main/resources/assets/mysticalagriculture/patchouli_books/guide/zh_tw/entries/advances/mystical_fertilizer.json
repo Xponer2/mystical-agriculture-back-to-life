@@ -1,0 +1,18 @@
+{
+  "name": "魔法肥料",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:mystical_fertilizer",
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "魔法肥料可以使作物和樹苗瞬間長成. 它對$(l:basics/resource_crops)資源作物$()也很有效!"
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:mystical_fertilizer",
+      "recipe2": "mysticalagriculture:mystical_fertilizer_better"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:slimesteel"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:slimesteel_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:slimesteel_essence"
+  }
+}

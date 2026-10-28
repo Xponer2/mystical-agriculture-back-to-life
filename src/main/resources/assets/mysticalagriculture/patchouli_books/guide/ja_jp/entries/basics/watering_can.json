@@ -1,0 +1,17 @@
+{
+  "name": "ジョウロ",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "ジョウロは、手動で作物の成長を促進するために使用します。水源ブロックを右クリックして、水を入れることができます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

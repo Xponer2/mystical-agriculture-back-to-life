@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Voo",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:flight_augment",
+  "sortnum": 316,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Voo é um aprimoramento de peitoral que dá ao usuário voo criativo enquanto ele estiver com a armadura equipada."
+    }
+  ]
+}

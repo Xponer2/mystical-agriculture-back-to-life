@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "#c:storage_blocks/awakened_supremium_essence",
+    "#c:storage_blocks/awakened_supremium_gemstone",
+    "#c:storage_blocks/awakened_supremium_ingot",
+    "#c:storage_blocks/imperium_essence",
+    "#c:storage_blocks/imperium_gemstone",
+    "#c:storage_blocks/imperium_ingot",
+    "#c:storage_blocks/inferium_essence",
+    "#c:storage_blocks/inferium_gemstone",
+    "#c:storage_blocks/inferium_ingot",
+    "#c:storage_blocks/prosperity_gemstone",
+    "#c:storage_blocks/prosperity_ingot",
+    "#c:storage_blocks/prosperity_shard",
+    "#c:storage_blocks/prudentium_essence",
+    "#c:storage_blocks/prudentium_gemstone",
+    "#c:storage_blocks/prudentium_ingot",
+    "#c:storage_blocks/soulium_dust",
+    "#c:storage_blocks/soulium_gemstone",
+    "#c:storage_blocks/soulium_ingot",
+    "#c:storage_blocks/supremium_essence",
+    "#c:storage_blocks/supremium_gemstone",
+    "#c:storage_blocks/supremium_ingot",
+    "#c:storage_blocks/tertium_essence",
+    "#c:storage_blocks/tertium_gemstone",
+    "#c:storage_blocks/tertium_ingot"
+  ]
+}

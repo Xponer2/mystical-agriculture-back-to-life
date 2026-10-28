@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de ADE de caminos",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:pathing_aoe_iv_augment",
+  "sortnum": 304,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de ADE de caminos es un aumento de pala que aumenta el área en la que la pala crea bloques de camino, hasta 9x9. El área de efecto se activa al agacharse mientras se usa la pala. $(br2)Este efecto se puede anular manteniendo presionada la tecla shift."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Düngeressenz",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Düngeressenz $(bold)normalerweise$() fällt von allen $(l:basics/resource_crops)Ressourcenpflanzen$() $(bold)außer Inferium$(). Sie funktioniert identisch wie Knochenmehl, wirkt jedoch auch auf $(l:basics/resource_crops)Ressourcenpflanzen$()! $(br2)Düngeressenz kann auch verwendet werden, um $(l:advances/mystical_fertilizer)Mystischen Dünger$() effizienter herzustellen."
+    }
+  ]
+}

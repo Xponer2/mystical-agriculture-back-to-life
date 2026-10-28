@@ -1,0 +1,12 @@
+{
+  "name": "Сопротивление слепоте (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:blindness_resistance_augment",
+  "sortnum": 317,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сопротивление слепоте (Расширение) - это расширение для шлема, которое не позволяет владельцу получить эффект слепоты, пока надета броня."
+    }
+  ]
+}

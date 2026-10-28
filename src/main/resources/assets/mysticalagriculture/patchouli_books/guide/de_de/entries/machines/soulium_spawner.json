@@ -1,0 +1,18 @@
+{
+  "name": "Seelenspawner",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soulium_spawner",
+  "sortnum": 205,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Der Seelenspawner wird verwendet, um sowohl feindliche als auch friedliche Mobs mit Essenzen zu spawnen. Sie laufen mit festen Brennstoffen und haben einen internen Energiespeicher. $(br2)Der Spawner hat ein internes Inventar, das bis zu 512 Gegenstände aufnehmen kann. Jede Operation benötigt eine bestimmte Menge an Gegenständen und Energie, um den entsprechenden Mob zu spawnen."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "text": "Der Spawner spawnt den Mob zufällig in einem Radius von 3 Blöcken um ihn herum. $(br2)Diese Maschinen können mit $(l:machines/machine_upgrades)Maschinen-Upgrades$() aufgerüstet werden. $(br2)Der Seelenspawner kann mit einem Redstonesignal deaktiviert werden.",
+      "recipe": "mysticalagriculture:soulium_spawner"
+    }
+  ]
+}

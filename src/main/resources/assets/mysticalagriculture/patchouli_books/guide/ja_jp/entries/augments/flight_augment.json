@@ -1,0 +1,12 @@
+{
+  "name": "飛行のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:flight_augment",
+  "sortnum": 316,
+  "pages": [
+    {
+      "type": "text",
+      "text": "飛行のオーグメントは、着用者にクリエイティブ飛行を与えるチェストプレート用のオーグメントです。"
+    }
+  ]
+}

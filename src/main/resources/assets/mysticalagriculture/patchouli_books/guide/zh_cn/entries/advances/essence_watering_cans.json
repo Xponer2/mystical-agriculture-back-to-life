@@ -1,0 +1,17 @@
+{
+  "name": "精华洒水壶",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_watering_can",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "text",
+      "text": "用精华和$(l:advances/mystical_fertilizer)魔法肥料$()升级普通的$(l:basics/watering_can)洒水壶$()大大提高你的农业经验. $(br2)升级洒水壶可以提高加速生长的范围和速度. 当不指向方块时，你也可以通过手持洒水壶Shift + 右键切换自动浇水功能."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:gear/inferium_watering_can"
+    }
+  ]
+}

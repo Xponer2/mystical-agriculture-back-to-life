@@ -1,0 +1,12 @@
+{
+  "name": "Fragmentos de Prosperidade",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_shard",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Os Fragmentos de Prosperidade são o outro dos dois materiais básicos no Mystical Agriculture. Eles são usados para criar variações mágicas de materiais básicos. Você pode $(bold)geralmente$() obter Fragmentos de Prosperidade minerando-os do chão."
+    }
+  ]
+}

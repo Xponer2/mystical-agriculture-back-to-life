@@ -1,0 +1,17 @@
+{
+  "name": "魂抽出機",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soul_extractor",
+  "sortnum": 203,
+  "pages": [
+    {
+      "type": "text",
+      "text": "魂抽出機は、MobのドロップアイテムをMobの魂に変換します。固形燃料を使用でき、内部に電力貯蔵バッファーを持っています。$(br2)魂抽出機は、余分なMobのドロップアイテムの使い道を提供しますが、$(l:souls/soulium_dagger)ソウリウムの短剣$()を使用するより効率的ではありません。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:soul_extractor"
+    }
+  ]
+}

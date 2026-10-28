@@ -1,0 +1,12 @@
+{
+  "name": "Awakened Supremium",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakened_supremium_essence",
+  "sortnum": 154,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Awakened Supremium is a high level crafting material used to create upgraded versions of many of your Supremium items. $(br2)Awakened Supremium is $(bold)usually$() created by infusing $(l:elemental/cognizant_dust)Cognizant Dust$() with a Supremium Block using an $(l:elemental/awakening_altar)Awakening Altar$()."
+    }
+  ]
+}

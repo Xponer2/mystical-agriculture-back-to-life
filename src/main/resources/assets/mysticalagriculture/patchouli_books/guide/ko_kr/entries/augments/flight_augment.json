@@ -1,0 +1,12 @@
+{
+  "name": "비행 부적",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:flight_augment",
+  "sortnum": 316,
+  "pages": [
+    {
+      "type": "text",
+      "text": "비행 부적은 착용자가 갑옷을 착용하는 동안 창의적인 비행을 할 수 있는 흉갑 부적입니다."
+    }
+  ]
+}

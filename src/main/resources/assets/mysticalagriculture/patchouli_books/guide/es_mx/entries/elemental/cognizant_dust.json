@@ -1,0 +1,12 @@
+{
+  "name": "Polvo cognizante",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:cognizant_dust",
+  "sortnum": 151,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El polvo cognizante se obtiene $(bold)usualmente$() matando a un Wither o Dragón del End con un $(l:tinkering/essence_tools)arma de esencia$() encantada con iluminación mística. $(br2)Los niveles más altos de iluminación mística aumentarán la cantidad de polvo que se suelte al matar."
+    }
+  ]
+}

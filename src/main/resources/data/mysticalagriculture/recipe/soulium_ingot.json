@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:prosperity_ingot"
+    },
+    {
+      "item": "mysticalagriculture:soulium_dust"
+    },
+    {
+      "item": "mysticalagriculture:soulium_dust"
+    }
+  ],
+  "result": {
+    "id": "mysticalagriculture:soulium_ingot"
+  }
+}

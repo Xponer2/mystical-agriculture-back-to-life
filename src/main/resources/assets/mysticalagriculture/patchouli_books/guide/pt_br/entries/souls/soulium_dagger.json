@@ -1,0 +1,27 @@
+{
+  "name": "Adaga de Soulium",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 103,
+  "pages": [
+    {
+      "type": "text",
+      "text": "A Adaga de Soulium é usada para coletar almas de criaturas. Essas almas são coletadas usando $(l:souls/soul_jars)Frascos de Almas$(). As almas são coletadas matando criaturas com a Adaga de Soulium. $(br2)A Adaga de Soulium pode ser aprimorada usando um $(l:basics/infusion_altar)Altar de Infusão$(), melhorando a eficiência da coleta de almas."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:passive_soulium_dagger",
+      "text": "A Adaga de Soulium com Sintonia Pacífica fornece um adicional de +50% de almas coletadas de criaturas pacíficas."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:hostile_soulium_dagger",
+      "text": "A Adaga de Soulium com Sintonia Hostil fornece um adicional de +50% de almas coletadas de criaturas hostis."
+    }
+  ]
+}

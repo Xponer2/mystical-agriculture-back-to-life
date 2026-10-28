@@ -1,0 +1,17 @@
+{
+  "name": "Seelenextraktor",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soul_extractor",
+  "sortnum": 203,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Seelenextraktoren werden verwendet, um Mob-Drops in Mob-Seelen umzuwandeln. Sie laufen mit festen Brennstoffen und haben einen internen Energiespeicher. $(br2)Der Seelenextraktor bietet eine Verwendung für überschüssige Mob-Drops, ist jedoch in der Regel nicht so effizient wie die Verwendung eines $(l:souls/soulium_dagger)Seelendolchs$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:soul_extractor"
+    }
+  ]
+}

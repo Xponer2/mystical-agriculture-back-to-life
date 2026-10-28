@@ -1,0 +1,17 @@
+{
+  "name": "Essenz-Ofen",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:furnace",
+  "sortnum": 201,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Der Basisofen kann aufgerüstet werden, um $(l:machines/machine_upgrades)Maschinen-Upgrades$() für eine erhöhte Schmelzgeschwindigkeit zu nutzen. Er läuft mit festen Brennstoffen und haben einen internen Energiespeicher."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:furnace"
+    }
+  ]
+}

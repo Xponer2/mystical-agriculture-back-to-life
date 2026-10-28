@@ -1,0 +1,12 @@
+{
+  "name": "Langsamer-Fall-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slow_falling_augment",
+  "sortnum": 324,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Langsamer-Fall-Augment ist ein Hosen-Augment, das verhindert, dass der Träger den Langsamkeitseffekt erhält, solange er die Rüstung trägt. $(br2)Dieser Effekt kann durch Halten der Umschalttaste negiert werden."
+    }
+  ]
+}

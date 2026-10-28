@@ -1,0 +1,12 @@
+{
+  "name": "Нічне бачення (Розширення)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:night_vision_augment",
+  "sortnum": 302,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Нічне бачення (Розширення) - це розширення для шолома, яке дає нічне бачення, доки одягнена броня."
+    }
+  ]
+}

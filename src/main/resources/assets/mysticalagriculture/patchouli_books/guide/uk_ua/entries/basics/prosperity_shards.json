@@ -1,0 +1,12 @@
+{
+  "name": "Уламки процвітання",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_shard",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Уламки процвітання - це другий з двох базових матеріалів Mystical Agriculture. Они используются для создания магических разновидностей базовых материалов. Осколки процветания обычно можно получить во время копания."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Спешка (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:haste_iii_augment",
+  "sortnum": 323,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Спешка (Расширение) - это расширение для нагрудника, которое увеличивает скорость добывания, пока надета броня."
+    }
+  ]
+}

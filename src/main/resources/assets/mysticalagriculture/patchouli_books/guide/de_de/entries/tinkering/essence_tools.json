@@ -1,0 +1,17 @@
+{
+  "name": "Essenzwerkzeuge",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Aufrüsten der Diamant*-Werkzeuge mit Essenzen verbessert deren Haltbarkeit und Abbaugeschwindigkeit. Dies ermöglicht auch die Ausrüstung mit $(l:tinkering/augments)Augments$(). $(br2)Essenzwerkzeuge können in einem Amboss mit ihrem entsprechenden Essenzbarren repariert werden. Diese Werkzeuge haben jeweils 1 Augment-Slot."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

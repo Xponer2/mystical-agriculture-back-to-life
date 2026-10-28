@@ -1,0 +1,22 @@
+{
+  "name": "Essence Farmland",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_farmland",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Essence Farmland increases the output efficiency of Mystical Agriculture crops in multiple ways. They are listed on the following page. $(br2)You can create Essence Farmland by either right-clicking on Farmland in-world with an essence or by crafting it."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Crops will $(bold)usually$() have a 10 percent chance to drop a second seed when planted on any tier Essence Farmland. $$(li)Crops will have an additional 10 percent chance to drop a second seed when planted on the corresponding tier Essence Farmland. $(li)Inferium Seeds will drop more essences when planted on higher tier Essence Farmland."
+    },
+    {
+      "type": "crafting",
+      "title": "Crafting",
+      "recipe": "mysticalagriculture:inferium_farmland",
+      "recipe2": "mysticalagriculture:inferium_farmland_till"
+    }
+  ]
+}

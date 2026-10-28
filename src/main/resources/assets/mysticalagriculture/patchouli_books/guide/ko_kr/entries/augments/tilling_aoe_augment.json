@@ -1,0 +1,12 @@
+{
+  "name": "경작 AOE 부적",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:tilling_aoe_iv_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "경작 AOE 부적은 괭이가 경작지를 만드는 영역을 최대 9x9까지 늘리는 괭이 부적입니다. AOE는 괭이를 사용하는 동안 몰래 움직이면 활성화됩니다.."
+    }
+  ]
+}

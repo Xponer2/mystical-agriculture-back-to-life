@@ -1,0 +1,17 @@
+{
+  "name": "灑水壺",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "灑水壺可以通過體力勞動來加速作物生長. 只要簡單地右鍵水源方塊, 就能灌滿灑水壺."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

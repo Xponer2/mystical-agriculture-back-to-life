@@ -1,0 +1,13 @@
+{
+  "name": "Soulium Ore",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_ore",
+  "sortnum": 101,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:soulium_ore",
+      "text": "Soulium Ore $(bold)usually$() spawns inside $(l:souls/soulstone)Soulstone$() veins in the Nether."
+    }
+  ]
+}

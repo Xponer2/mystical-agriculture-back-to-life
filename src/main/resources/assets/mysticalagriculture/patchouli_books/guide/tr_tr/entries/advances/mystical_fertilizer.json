@@ -1,0 +1,18 @@
+{
+  "name": "Mistik Gübreleyici",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:mystical_fertilizer",
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Mistik Gübreleyici bir mahsulü veya fidanı anında büyütmek için kullanılır. $(l:basics/resource_crops)Kaynak Mahsulleri$() üzerinde de etkilidir!"
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:mystical_fertilizer",
+      "recipe2": "mysticalagriculture:mystical_fertilizer_better"
+    }
+  ]
+}

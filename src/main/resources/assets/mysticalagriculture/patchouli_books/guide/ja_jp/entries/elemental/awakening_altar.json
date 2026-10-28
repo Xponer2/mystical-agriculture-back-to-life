@@ -1,0 +1,24 @@
+{
+  "name": "覚醒の祭壇",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakening_altar",
+  "sortnum": 153,
+  "pages": [
+    {
+      "type": "text",
+      "text": "覚醒の祭壇は$(bold)通常$()、$(l:elemental/awakened_supremium)覚醒したスプレミウム$()を作成するために使用されるクラフト構造です。この構造は、1つの覚醒の祭壇、4つの覚醒の台座、4つの$(l:elemental/essence_vessel)エッセンスの器$()で構成されています。$(br2)レシピを配置したら、魔法の杖かレッドストーン信号で祭壇を起動することができます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:awakening_altar",
+      "recipe2": "mysticalagriculture:awakening_pedestal"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:essence_vessel",
+      "text": "ワールドに覚醒の祭壇を設置すると、台座と器の設置場所が表示されます。"
+    }
+  ]
+}

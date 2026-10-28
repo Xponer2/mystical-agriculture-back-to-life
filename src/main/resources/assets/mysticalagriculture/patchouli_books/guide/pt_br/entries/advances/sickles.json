@@ -1,0 +1,18 @@
+{
+  "name": "Foices",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_sickle",
+  "sortnum": 53,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Foices são usadas para colher/destruir grandes áreas de material vegetal. $(br2)Foices de nível superior terão uma área de efeito maior."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:diamond_sickle",
+      "recipe2": "mysticalagriculture:gear/inferium_sickle"
+    }
+  ]
+}

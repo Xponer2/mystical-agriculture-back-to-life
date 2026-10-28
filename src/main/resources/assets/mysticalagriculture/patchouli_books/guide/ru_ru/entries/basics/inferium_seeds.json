@@ -1,0 +1,17 @@
+{
+  "name": "Инфериевые семена",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Инфериевые семена - один из основных способов получения инфериевой эссенции. Их можно выращивать на любых пашнях, но наиболее эффективны они на $(l:basics/essence_farmland)пашнях из эссенции$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

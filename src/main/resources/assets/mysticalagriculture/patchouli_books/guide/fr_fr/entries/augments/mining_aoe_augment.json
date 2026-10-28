@@ -1,0 +1,12 @@
+{
+  "name": "Mining AOE Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_aoe_iv_augment",
+  "sortnum": 307,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Mining AOE Augment is a tool augment that increases the are that the tool breaks blocks, up to 9x9. Sneaking while breaking a block will negate the AOE effect."
+    }
+  ]
+}

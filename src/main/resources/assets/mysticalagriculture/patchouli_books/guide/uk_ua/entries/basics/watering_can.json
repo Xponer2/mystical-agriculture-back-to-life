@@ -1,0 +1,17 @@
+{
+  "name": "Лійка",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Лійки використовуються для прискорення зростання культур за допомогою ручної праці. Щоб наповнити її, просто клацніть ПКМ по блоку-джерелу води."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

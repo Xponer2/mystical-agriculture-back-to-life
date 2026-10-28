@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Velocidade",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:speed_iii_augment",
+  "sortnum": 306,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Velocidade é um aprimoramento de Calça que aumenta a velocidade de movimento do usuário enquanto ele estiver com a armadura equipada. Este efeito também é aplicado à velocidade de voo."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Madenci Yorgunluğu Direnci Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_fatigue_resistance_augment",
+  "sortnum": 314,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Madenci Yorgunluğu Direnci Güçlendirmesi, giyen kişinin zırhı takılıyken Madenci Yorgunluğu etkisi almasını engelleyen bir zırh güçlendirmesidir."
+    }
+  ]
+}

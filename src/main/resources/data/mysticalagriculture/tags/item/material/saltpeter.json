@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:dusts/saltpeter",
+      "required": false
+    },
+    {
+      "id": "#c:dusts/niter",
+      "required": false
+    },
+    {
+      "id": "thermal:niter_dust",
+      "required": false
+    }
+  ]
+}

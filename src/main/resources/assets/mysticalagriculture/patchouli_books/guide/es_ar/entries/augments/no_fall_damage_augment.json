@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de sin daño de caída",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:no_fall_damage_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de sin daño de caída es un aumento de botas que anula todo el daño de caída para el usuario mientras tiene la armadura equipada."
+    }
+  ]
+}

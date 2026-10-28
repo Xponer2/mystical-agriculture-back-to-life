@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalagriculture:inferium_sword",
+    "mysticalagriculture:inferium_axe",
+    "mysticalagriculture:inferium_scythe",
+    "mysticalagriculture:prudentium_sword",
+    "mysticalagriculture:prudentium_axe",
+    "mysticalagriculture:prudentium_scythe",
+    "mysticalagriculture:tertium_sword",
+    "mysticalagriculture:tertium_axe",
+    "mysticalagriculture:tertium_scythe",
+    "mysticalagriculture:imperium_sword",
+    "mysticalagriculture:imperium_axe",
+    "mysticalagriculture:imperium_scythe",
+    "mysticalagriculture:supremium_sword",
+    "mysticalagriculture:supremium_axe",
+    "mysticalagriculture:supremium_scythe",
+    "mysticalagriculture:awakened_supremium_sword",
+    "mysticalagriculture:awakened_supremium_axe",
+    "mysticalagriculture:awakened_supremium_scythe"
+  ]
+}

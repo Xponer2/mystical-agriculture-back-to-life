@@ -1,0 +1,17 @@
+{
+  "name": "Cápsula de experiencia",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:experience_capsule",
+  "sortnum": 106,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Las cápsulas de experiencia se utilizan para recolectar experiencia para crear semillas de experiencia. $(br2)Para recolectar experiencia, simplemente ten algunas cápsulas de experiencia en tu inventario y recoge orbes de experiencia."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:experience_capsule"
+    }
+  ]
+}

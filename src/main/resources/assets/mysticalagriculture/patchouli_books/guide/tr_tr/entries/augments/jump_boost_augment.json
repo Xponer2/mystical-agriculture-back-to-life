@@ -1,0 +1,12 @@
+{
+  "name": "Zıplama Desteği Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:jump_boost_iii_augment",
+  "sortnum": 305,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Zıplama Desteği Güçlendirmesi, zırh takılıyken kullanıcının zıplama yüksekliğini artıran bir çizme güçlendirmesidir."
+    }
+  ]
+}

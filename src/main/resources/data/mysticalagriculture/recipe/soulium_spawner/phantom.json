@@ -1,0 +1,19 @@
+{
+  "type": "mysticalagriculture:soulium_spawner",
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:phantom"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:phantom_essence",
+    "count": 12
+  },
+  "entities": [
+    {
+      "entity": "minecraft:phantom",
+      "weight": 1
+    }
+  ]
+}

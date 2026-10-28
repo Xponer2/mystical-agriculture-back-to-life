@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de velocidad",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:speed_iii_augment",
+  "sortnum": 306,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de velocidad es un aumento de pantalones que aumenta la velocidad de movimiento del usuario mientras tiene la armadura equipada. Este efecto también se aplica a la velocidad de vuelo."
+    }
+  ]
+}

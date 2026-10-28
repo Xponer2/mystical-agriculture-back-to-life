@@ -1,0 +1,12 @@
+{
+  "name": "抗毒升级",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:poison_resistance_augment",
+  "sortnum": 313,
+  "pages": [
+    {
+      "type": "text",
+      "text": "抗毒升级是一种盔甲升级，装备有这种升级的盔甲，会让穿戴者避免中毒."
+    }
+  ]
+}

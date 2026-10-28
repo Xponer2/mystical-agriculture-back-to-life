@@ -1,0 +1,12 @@
+{
+  "name": "Пил знань",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:cognizant_dust",
+  "sortnum": 151,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пил знань $(bold)зазвичай$() можна отримати вбивши Ендер-дракона або візера за допомогою $(l:tinkering/essence_tools)Зброї з есенції $(), зачарованого на Містичне Просвітлення. $(br2)Вищі рівні Містичного Просвітлення збільшують кількість пилу, що випадає під час вбивства."
+    }
+  ]
+}

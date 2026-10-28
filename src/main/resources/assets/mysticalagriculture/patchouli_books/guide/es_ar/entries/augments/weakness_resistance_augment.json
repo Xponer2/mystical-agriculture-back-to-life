@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de resistencia a la debilidad",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:weakness_resistance_augment",
+  "sortnum": 321,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de resistencia a la debilidad es un aumento de pechera que evita que el usuario obtenga el efecto de debilidad mientras tiene la armadura equipada."
+    }
+  ]
+}

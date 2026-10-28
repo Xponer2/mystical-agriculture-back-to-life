@@ -1,0 +1,22 @@
+{
+  "name": "注魔祭坛",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_altar",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "注魔祭坛是一种$(bold)通常$()用来合成神秘农业的种子的功能结构. 这种结构包括1个注魔祭坛和8个注魔基座. $(br2)一旦你摆放了一个合适的合成配方, 你只需要用红石信号激活注魔祭坛."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:infusion_altar",
+      "recipe2": "mysticalagriculture:infusion_pedestal"
+    },
+    {
+      "type": "text",
+      "text": "在世界中放置注魔祭坛会向你展示如何放置基座."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Assistência de Subida",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:step_assist_augment",
+  "sortnum": 310,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Assistência de Subida é um aprimoramento de Calça ou botas que permite ao usuário subir alturas de 1 bloco sem pular enquanto estiver com a armadura equipada. $(br2)Este efeito pode ser negado segurando a tecla Shift."
+    }
+  ]
+}

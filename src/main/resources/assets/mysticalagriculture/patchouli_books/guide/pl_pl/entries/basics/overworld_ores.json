@@ -1,0 +1,18 @@
+{
+  "name": "Rudy w zwykłym świecie",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_ore",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:inferium_ore",
+      "text": "Ruda Inferium $(bold)zazwyczaj$() występuje pomiędzy poziomami Y -32 i 64."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:prosperity_ore",
+      "text": "Ruda prosperytu $(bold)zazwyczaj$() występuje pomiędzy poziomami Y -60 i 24."
+    }
+  ]
+}

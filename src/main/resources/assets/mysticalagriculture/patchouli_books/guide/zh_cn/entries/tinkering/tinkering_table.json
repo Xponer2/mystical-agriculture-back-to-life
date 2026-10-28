@@ -1,0 +1,17 @@
+{
+  "name": "工具装配台",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:tinkering_table",
+  "sortnum": 252,
+  "pages": [
+    {
+      "type": "text",
+      "text": "工具装配台用来把$(l:tinkering/augments)升级$()加到$(l:tinkering/essence_tools)精华工具$()和$(l:tinkering/essence_armor)精华盔甲$()上."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:tinkering_table"
+    }
+  ]
+}

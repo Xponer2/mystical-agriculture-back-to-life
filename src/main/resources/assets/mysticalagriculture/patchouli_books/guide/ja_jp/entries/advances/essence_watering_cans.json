@@ -1,0 +1,17 @@
+{
+  "name": "エッセンスのジョウロ",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_watering_can",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "text",
+      "text": "通常の$(l:basics/watering_can)ジョウロ$()を、エッセンスと$(l:advances/mystical_fertilizer)神秘の肥料$()で強化すると、農業体験が大幅に向上します。$(br2)強化されたジョウロは、範囲と成長促進速度が向上します。$(br2)ブロックをターゲットしていないときにShift+右クリックでジョウロの自動散水を切り替えることもできます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:gear/inferium_watering_can"
+    }
+  ]
+}

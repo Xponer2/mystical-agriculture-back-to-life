@@ -1,0 +1,12 @@
+{
+  "name": "추락 피해 방지 부적",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:no_fall_damage_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "추락 피해 방지 부적은 착용자가 갑옷을 착용하는 동안 모든 추락 피해를 입지 않도록 하는 부츠 부적입니다."
+    }
+  ]
+}

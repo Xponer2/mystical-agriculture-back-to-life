@@ -1,0 +1,17 @@
+{
+  "name": "인퍼륨 씨앗",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "인퍼륨 씨앗은 인퍼륨 에센스를 수집하는 주요 방법 중 하나입니다. 모든 경작지에서 재배할 수 있지만 $(l:basics/essence_farmland)에센스 경작지$()에서 가장 효율적입니다."
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

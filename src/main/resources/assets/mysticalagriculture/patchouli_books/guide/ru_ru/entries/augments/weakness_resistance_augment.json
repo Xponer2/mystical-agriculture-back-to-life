@@ -1,0 +1,12 @@
+{
+  "name": "Сопротивление слабости (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:weakness_resistance_augment",
+  "sortnum": 321,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сопротивление слабости (Расширение) - это расширение для нагрудника, которое не позволяет владельцу получить эффект слабости, пока надета броня."
+    }
+  ]
+}

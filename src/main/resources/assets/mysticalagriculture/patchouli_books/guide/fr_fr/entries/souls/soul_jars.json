@@ -1,0 +1,17 @@
+{
+  "name": "Soul Jars",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soul_jar",
+  "sortnum": 104,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Soul Jars are used in combination with a $(l:souls/soulium_dagger)Soulium Dagger$() to collect mob souls. Filled Soul Jars can be used to create $(l:basics/resource_crops)Resource Crops$() for the corresponding entity. $(br2)Soul Jars can also be filled using mob drops with a $(l:machines/soul_extractor)Soul Extractor$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "recipe": "mysticalagriculture:soul_jar"
+    }
+  ]
+}

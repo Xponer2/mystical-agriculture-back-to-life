@@ -1,0 +1,10 @@
+{
+  "type": "mysticalagriculture:soul_extraction",
+  "input": {
+    "item": "minecraft:armadillo_scute"
+  },
+  "result": {
+    "type": "mysticalagriculture:armadillo",
+    "souls": 0.5
+  }
+}

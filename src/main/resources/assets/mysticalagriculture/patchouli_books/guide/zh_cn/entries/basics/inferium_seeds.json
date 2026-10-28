@@ -1,0 +1,17 @@
+{
+  "name": "下级精华种子",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "下级精华种子是一种获得下级精华的主要方式. 它们能被种在各种耕地上, 但是种在$(l:basics/essence_farmland)精华耕地$()上最高效."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

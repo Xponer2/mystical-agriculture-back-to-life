@@ -1,0 +1,17 @@
+{
+  "name": "精华工具",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "用精华升级你的钻石工具来提升它们的耐久值和挖掘速度. 这也让它们可以被装上$(l:tinkering/augments)升级$(). $(br2)精华工具可以在铁砧上用对应的精华锭修复. 这些工具都有1个升级槽."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

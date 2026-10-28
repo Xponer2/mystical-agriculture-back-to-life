@@ -1,0 +1,12 @@
+{
+  "name": "空腹耐性のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:hunger_resistance_augment",
+  "sortnum": 318,
+  "pages": [
+    {
+      "type": "text",
+      "text": "空腹耐性のオーグメントは、着用者の空腹の効果を防ぐヘルメット用のオーグメントです。"
+    }
+  ]
+}

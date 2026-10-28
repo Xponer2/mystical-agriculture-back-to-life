@@ -1,0 +1,17 @@
+{
+  "name": "Броня з есенції",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_chestplate",
+  "sortnum": 251,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Поліпшення діамантової броні за допомогою есенції підвищує її міцність та швидкість видобутку. Це також дозволить надягати на неї $(l:tinkering/augments)Розширення$(). $(br2)Броню з есенції можна полагодити на ковадлі за допомогою відповідного злитка есенції. Кожна частина броні має один слот для розширень."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:gear/inferium_chestplate"
+    }
+  ]
+}

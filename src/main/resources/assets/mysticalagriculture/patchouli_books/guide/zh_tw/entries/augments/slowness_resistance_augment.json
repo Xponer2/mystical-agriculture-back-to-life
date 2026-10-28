@@ -1,0 +1,12 @@
+{
+  "name": "Slowness Resistance Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slowness_resistance_augment",
+  "sortnum": 320,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Slowness Resistance Augment is a leggings augment that prevents the wearer from getting the Slowness effect while they have the armor equipped."
+    }
+  ]
+}

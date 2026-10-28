@@ -1,0 +1,18 @@
+{
+  "name": "Akceleratory wzrostu",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_growth_accelerator",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Akceleratory wzrostu są używane do przyspieszania wzrostu roślin. Aplikują one najbliższej do góry roślinie losowe ticki wzrostu, tylko w wyznaczonym zasięgu. $(br2)Możesz postawić na sobie wiele akceleratorów dowolnego poziomu tak długo, jak będą w odpowiednim zasięgu."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:inferium_growth_accelerator",
+      "text": "Zasięg akceleratorów wzrostu jest liczony od pola uprawnego. $(br2)$(l:https://blakesmods.com/guides/mysticalagriculture/gameplay/speeding-up-crop-growth)Kliknij tutaj po dokładniejsze instrukcje.$()"
+    }
+  ]
+}

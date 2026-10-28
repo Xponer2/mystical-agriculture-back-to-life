@@ -1,0 +1,12 @@
+{
+  "name": "Kein Fallschaden-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:no_fall_damage_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Kein Fallschaden-Augment ist ein Stiefel-Augment, das allen Fallschaden negiert, während die Rüstung getragen wird."
+    }
+  ]
+}

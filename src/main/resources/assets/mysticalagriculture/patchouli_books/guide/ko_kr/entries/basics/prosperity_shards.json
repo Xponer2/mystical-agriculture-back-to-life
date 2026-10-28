@@ -1,0 +1,12 @@
+{
+  "name": "번영 파편",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_shard",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "번영 파편은 신비한 농업의 두 가지 기본 재료 중 하나입니다. 기본 재료의 마법적인 변형을 만드는 데 사용됩니다. $(bold)일반적으로$() 땅에서 채굴하여 번영 파편을 획득할 수 있습니다."
+    }
+  ]
+}

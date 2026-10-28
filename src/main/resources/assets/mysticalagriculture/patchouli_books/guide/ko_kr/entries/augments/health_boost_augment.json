@@ -1,0 +1,12 @@
+{
+  "name": "생명력 강화 부적",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:health_boost_v_augment",
+  "sortnum": 301,
+  "pages": [
+    {
+      "type": "text",
+      "text": "생명력 강화 부적는 착용자에게 2-10개의 하트를 더해주는 갑옷 부적입니다."
+    }
+  ]
+}

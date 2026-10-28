@@ -1,0 +1,24 @@
+{
+  "name": "Erweckungsaltar",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakening_altar",
+  "sortnum": 153,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Der Erweckungsaltar ist eine Handwerksstruktur, die $(bold)normalerweise$() verwendet wird, um $(l:elemental/awakened_supremium)Erwecktes Supremium$() zu erstellen. Die Struktur besteht aus 1 Infusionsaltar, 4 Infusionssockeln und 4 $(l:elemental/essence_vessel)Essenzurneen$(). $(br2)Sobald ein Rezept an Ort und Stelle ist, muss der Altar nur noch mit einem Redstonesignal aktiviert werden."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:awakening_altar",
+      "recipe2": "mysticalagriculture:awakening_pedestal"
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:essence_vessel",
+      "text": "Das Platzieren des Erweckungsaltars in der Welt zeigt, wo die Sockel und Gefäße platziert werden müssen."
+    }
+  ]
+}

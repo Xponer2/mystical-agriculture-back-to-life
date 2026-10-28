@@ -1,0 +1,17 @@
+{
+  "name": "Przetwarzacze nasion",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:seed_reprocessor",
+  "sortnum": 202,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Przetwarzacze nasion mogą być użyte do zamiany nadmiarowych nasion na odpowiadającą mu esencję. Są zasilane paliwami stałymi i mają wewnętrzny bufor energetyczny."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:seed_reprocessor"
+    }
+  ]
+}

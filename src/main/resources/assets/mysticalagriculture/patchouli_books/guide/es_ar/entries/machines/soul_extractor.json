@@ -1,0 +1,17 @@
+{
+  "name": "Extractor de almas",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soul_extractor",
+  "sortnum": 203,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El extractor de almas se utiliza para convertir los objetos de mobs en almas de mobs. Funcionan con combustibles sólidos y tienen un búfer de almacenamiento de energía interno. $(br2)El extractor de almas proporciona un uso para los objetos de mobs adicionales que puedas tener, pero generalmente no será tan eficiente como usar una $(l:souls/soulium_dagger)daga de soulium$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:soul_extractor"
+    }
+  ]
+}

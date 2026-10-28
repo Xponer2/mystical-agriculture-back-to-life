@@ -1,0 +1,17 @@
+{
+  "name": "Посудина для есенції",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:essence_vessel",
+  "sortnum": 152,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Посудина для есенції використовуються у структурі $(l:elemental/awakening_altar)Вівтаря Пробудження$() для зберігання есенцій природи, необхідні створення предмета. Кожна посудина може містити до 40 одиниць однієї есенції."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:essence_vessel"
+    }
+  ]
+}

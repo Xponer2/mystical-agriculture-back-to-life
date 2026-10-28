@@ -1,0 +1,12 @@
+{
+  "name": "시듦 저항 부적",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:wither_resistance_augment",
+  "sortnum": 315,
+  "pages": [
+    {
+      "type": "text",
+      "text": "시듦 저항 부적은 착용자가 갑옷을 착용하는 동안 시듦 효과를 얻는 것을 방지하는 갑옷 부적입니다."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "CO",
+    "PL"
+  ],
+  "key": {
+    "C": {
+      "tag": "c:dyes/cyan"
+    },
+    "O": {
+      "tag": "c:dyes/orange"
+    },
+    "P": {
+      "tag": "c:dyes/pink"
+    },
+    "L": {
+      "tag": "c:dyes/lime"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:dye_agglomeratio"
+  }
+}

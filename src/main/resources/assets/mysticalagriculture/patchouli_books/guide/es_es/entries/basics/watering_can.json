@@ -1,0 +1,17 @@
+{
+  "name": "Regadera",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Las regaderas se utilizan para acelerar el crecimiento de los cultivos utilizando el trabajo manual*. Para llenar una, simplemente haz clic derecho en un bloque de fuente de agua."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

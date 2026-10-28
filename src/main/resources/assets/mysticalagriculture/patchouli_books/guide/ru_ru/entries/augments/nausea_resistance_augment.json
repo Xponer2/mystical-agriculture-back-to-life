@@ -1,0 +1,12 @@
+{
+  "name": "Сопротивление тошноте (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:nausea_resistance_augment",
+  "sortnum": 319,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сопротивление тошноте (Расширение) - это расширение для шлема, которое не позволяет владельцу получить эффект тошноты, пока надета броня."
+    }
+  ]
+}

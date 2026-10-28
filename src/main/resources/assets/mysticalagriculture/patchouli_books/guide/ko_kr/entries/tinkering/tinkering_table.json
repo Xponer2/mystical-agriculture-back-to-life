@@ -1,0 +1,17 @@
+{
+  "name": "땜장이 작업대",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:tinkering_table",
+  "sortnum": 252,
+  "pages": [
+    {
+      "type": "text",
+      "text": "땜장이 작업대는 $(l:tinkering/essence_tools)에센스 도구$()와 $(l:tinkering/essence_armor)에센스 갑옷$()에 $(l:tinkering/augments)부적$()을 추가하는 데 사용됩니다.."
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "recipe": "mysticalagriculture:tinkering_table"
+    }
+  ]
+}

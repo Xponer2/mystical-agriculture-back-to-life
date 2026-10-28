@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:coal"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:coal_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:coal_essence"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "离魂矿石",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_ore",
+  "sortnum": 101,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:soulium_ore",
+      "text": "离魂矿石生成在$(l:souls/soulstone)下界的离魂石$()矿脉中."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Terra Arada de Essência",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_farmland",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "A Terra Arada de Essência aumenta a eficiência de produção dos cultivos do Mystical Agriculture de várias maneiras. Elas estão listadas na página seguinte. $(br2)Você pode criar Terra Arada de Essência clicando com o botão direito em uma Terra Arada no mundo com uma essência ou criando-a."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Os cultivos $(bold)geralmente$() terão 10% de chance de dropar uma segunda semente quando plantados em qualquer nível de Terra Arada de Essência. $$(li)Os cultivos terão 10% de chance adicional de dropar uma segunda semente quando plantados no nível correspondente de Terra Arada de Essência. $(li)Sementes de Inferium droparão mais essências quando plantadas em Terra Arada de Essência de nível superior."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:inferium_farmland",
+      "recipe2": "mysticalagriculture:inferium_farmland_till"
+    }
+  ]
+}

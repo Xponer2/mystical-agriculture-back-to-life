@@ -1,0 +1,17 @@
+{
+  "name": "Recipiente de esencia",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:essence_vessel",
+  "sortnum": 152,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Los recipientes de esencia se utilizan en la estructura del $(l:elemental/awakening_altar)altar del despertar$() para contener las esencias elementales necesarias para crear objetos. Cada recipiente puede contener hasta 40 de una sola esencia elemental."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:essence_vessel"
+    }
+  ]
+}

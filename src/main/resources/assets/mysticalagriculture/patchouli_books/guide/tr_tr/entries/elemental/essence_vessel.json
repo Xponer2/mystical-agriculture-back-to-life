@@ -1,0 +1,17 @@
+{
+  "name": "Öz Kabı",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:essence_vessel",
+  "sortnum": 152,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Öz Kapları, $(l:elemental/awakening_altar)Uyanış Sunağı$() yapısında eşya oluşturmak için gerekli elementsel özleri tutmak için kullanılır. Her kap tek bir element özünden en fazla 40 tane alabilir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:essence_vessel"
+    }
+  ]
+}

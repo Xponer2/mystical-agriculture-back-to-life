@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#c:nuggets/prosperity",
+    "#c:nuggets/inferium",
+    "#c:nuggets/prudentium",
+    "#c:nuggets/tertium",
+    "#c:nuggets/imperium",
+    "#c:nuggets/supremium",
+    "#c:nuggets/awakened_supremium",
+    "#c:nuggets/soulium"
+  ]
+}

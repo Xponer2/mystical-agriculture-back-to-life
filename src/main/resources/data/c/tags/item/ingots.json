@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#c:ingots/prosperity",
+    "#c:ingots/inferium",
+    "#c:ingots/prudentium",
+    "#c:ingots/tertium",
+    "#c:ingots/imperium",
+    "#c:ingots/supremium",
+    "#c:ingots/awakened_supremium",
+    "#c:ingots/soulium"
+  ]
+}

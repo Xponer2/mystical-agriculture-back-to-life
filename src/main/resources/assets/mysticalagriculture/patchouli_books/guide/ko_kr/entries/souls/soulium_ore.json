@@ -1,0 +1,13 @@
+{
+  "name": "소울륨 광석",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_ore",
+  "sortnum": 101,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:soulium_ore",
+      "text": "소울륨 광석은 네더의 $(l:souls/soulstone)영혼석$() 광맥에서 생성합니다."
+    }
+  ]
+}

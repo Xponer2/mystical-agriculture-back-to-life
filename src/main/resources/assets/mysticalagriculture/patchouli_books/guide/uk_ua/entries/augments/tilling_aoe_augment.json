@@ -1,0 +1,12 @@
+{
+  "name": "Область орання (Розширення)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:tilling_aoe_iv_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Область орання (Розширення) - це розширення для мотики, що збільшує область до 9х9, в якій мотика орає блоки. Розширення працює тільки на мотиці і тільки із затиснутим SHIFT."
+    }
+  ]
+}

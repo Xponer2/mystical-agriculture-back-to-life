@@ -1,0 +1,17 @@
+{
+  "name": "Semillas de inferium",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Las semillas de inferium son una de las principales formas de recolectar esencia de inferium. Se pueden cultivar en cualquier tierra de cultivo, pero son más eficientes en $(l:basics/essence_farmland)tierra de cultivo de esencia$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

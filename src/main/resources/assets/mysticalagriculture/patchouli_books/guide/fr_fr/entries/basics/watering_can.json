@@ -1,0 +1,17 @@
+{
+  "name": "Watering Can",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Watering Cans are used to accelerate crop growth using manual* labor. To fill one up, simply right click on a Water source block."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

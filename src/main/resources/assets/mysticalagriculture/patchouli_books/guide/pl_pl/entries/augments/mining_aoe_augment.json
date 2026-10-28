@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie wielkości kopania",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_aoe_iv_augment",
+  "sortnum": 307,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie wielkości kopania to ulepszenie do narzędzi, które zwiększa ilość bloków, jakie narzędzie kopie przy jednym użyciu. Skradając się i używając narzędzia z tym ulepszeniem zostanie wykopany tylko jedne blok."
+    }
+  ]
+}

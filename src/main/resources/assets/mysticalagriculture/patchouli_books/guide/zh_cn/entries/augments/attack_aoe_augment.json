@@ -1,0 +1,12 @@
+{
+  "name": "范围攻击升级",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:attack_aoe_iii_augment",
+  "sortnum": 312,
+  "pages": [
+    {
+      "type": "text",
+      "text": "范围攻击升级是一种剑的升级，最多会增加6格剑的攻击半径."
+    }
+  ]
+}

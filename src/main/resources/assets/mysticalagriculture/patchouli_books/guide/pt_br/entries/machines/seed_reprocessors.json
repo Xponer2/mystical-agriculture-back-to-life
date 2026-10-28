@@ -1,0 +1,17 @@
+{
+  "name": "Reprocessador de Sementes",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:seed_reprocessor",
+  "sortnum": 202,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Reprocessadores de Sementes são usados para converter suas sementes excedentes em suas respectivas essências. Eles funcionam com combustíveis sólidos e têm um buffer interno de armazenamento de energia."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:seed_reprocessor"
+    }
+  ]
+}

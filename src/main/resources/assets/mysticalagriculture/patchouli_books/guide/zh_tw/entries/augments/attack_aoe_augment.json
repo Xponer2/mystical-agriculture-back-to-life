@@ -1,0 +1,12 @@
+{
+  "name": "範圍攻擊升級",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:attack_aoe_iii_augment",
+  "sortnum": 312,
+  "pages": [
+    {
+      "type": "text",
+      "text": "範圍攻擊升級是一種劍的升級，最多會增加6格劍的攻擊半徑."
+    }
+  ]
+}

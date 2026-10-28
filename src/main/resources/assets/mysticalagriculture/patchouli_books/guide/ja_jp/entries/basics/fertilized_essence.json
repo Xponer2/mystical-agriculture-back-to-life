@@ -1,0 +1,12 @@
+{
+  "name": "肥料のエッセンス",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "肥料のエッセンスは$(bold)通常$()、$(bold)インフェリウムを除く$()すべての$(l:basics/resource_crops)資源の作物$()からドロップします。骨粉と同じように機能しますが、$(l:basics/resource_crops)資源の作物$()にも使用することができます！$(br2)肥料のエッセンスは、$(l:advances/mystical_fertilizer)神秘の肥料$()を効率的にクラフトするためにも使用できます。"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Esencja nawożenia",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Esencja nawożenia $(bold)zazwyczaj$() wypada ze wszystkich $(l:basics/resource_crops)upraw materiałów$() $(bold)oprócz Inferium$(). Działa identycznie do mączki kostnej, ale działa również na $(l:basics/resource_crops)uprawy materiałów$()! $(br2)Esencja nawożenia może być również użyta do wytworzenia bardziej efektywnego $(l:advances/mystical_fertilizer)mistycznego nawozu$()."
+    }
+  ]
+}

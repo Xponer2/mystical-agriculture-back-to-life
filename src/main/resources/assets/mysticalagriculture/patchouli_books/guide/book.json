@@ -1,0 +1,9 @@
+{
+  "name": "book.mysticalagriculture.name",
+  "landing_text": "book.mysticalagriculture.landing_text",
+  "show_progress": false,
+  "creative_tab": "mysticalagriculture",
+  "model": "mysticalagriculture:guide_book",
+  "book_texture": "patchouli:textures/gui/book_gray.png",
+  "version": "1"
+}

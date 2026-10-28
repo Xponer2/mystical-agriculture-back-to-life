@@ -1,0 +1,41 @@
+{
+  "type": "mysticalagriculture:infusion",
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:augment_enabled",
+      "augment": "mysticalagriculture:mining_fatigue_resistance"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:unattuned_augment"
+  },
+  "ingredients": [
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "minecraft:golden_pickaxe"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "minecraft:golden_pickaxe"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    }
+  ],
+  "result": {
+    "id": "mysticalagriculture:mining_fatigue_resistance_augment"
+  }
+}

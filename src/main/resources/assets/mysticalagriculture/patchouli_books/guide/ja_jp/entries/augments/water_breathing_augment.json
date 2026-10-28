@@ -1,0 +1,12 @@
+{
+  "name": "水中呼吸のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:water_breathing_augment",
+  "sortnum": 303,
+  "pages": [
+    {
+      "type": "text",
+      "text": "水中呼吸のオーグメントは、着用者に水中呼吸を付与するヘルメット用のオーグメントです。"
+    }
+  ]
+}

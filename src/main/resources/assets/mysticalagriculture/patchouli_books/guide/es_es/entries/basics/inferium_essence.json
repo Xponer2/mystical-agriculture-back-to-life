@@ -1,0 +1,12 @@
+{
+  "name": "Esencia de inferium",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_essence",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "La esencia de inferium es uno de los dos materiales base de Mystical Agriculture. Se utiliza en la creación de casi todo en el mod. Puedes $(bold)usualmente$() obtener esencia de inferium matando mobs hostiles o pasivos, extrayéndola del suelo, o haciéndola crecer."
+    }
+  ]
+}

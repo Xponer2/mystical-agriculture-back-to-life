@@ -1,0 +1,17 @@
+{
+  "name": "エッセンスの器",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:essence_vessel",
+  "sortnum": 152,
+  "pages": [
+    {
+      "type": "text",
+      "text": "エッセンスの器は、$(l:elemental/awakening_altar)覚醒の祭壇$()の構造に必要な元素のエッセンスを入れるための容器です。器には、単一の元素のエッセンスを最大40個まで入れることができます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:essence_vessel"
+    }
+  ]
+}

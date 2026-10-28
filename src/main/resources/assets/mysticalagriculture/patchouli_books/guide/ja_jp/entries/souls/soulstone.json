@@ -1,0 +1,18 @@
+{
+  "name": "ソウルストーン",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulstone",
+  "sortnum": 100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "ソウルストーンは、ネザーで生成される特別な種類の石です。すべてのY座標で大きな鉱脈として生成されます。$(br2)ソウルストーンは、多くのバリエーションを持つ装飾ブロックです。$(l:souls/witherproof_blocks)防ウィザーブロック$()の作成にも使用します。"
+    },
+    {
+      "type": "smelting",
+      "text": "また、製錬するとソウルダストになり、こちらにも多くの使い道があります。",
+      "recipe": "mysticalagriculture:soulstone_cobble",
+      "recipe2": "mysticalagriculture:soulstone_smooth"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Pedra da Alma",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulstone",
+  "sortnum": 100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Pedra da Alma é um tipo especial de pedra que aparece no Nether. Ela gera em grandes veios em todos os níveis Y. $(br2)Pedra da Alma é um bloco decorativo com muitas variantes. Também é necessária para criar $(l:souls/witherproof_blocks)Blocos à Prova de Wither$()."
+    },
+    {
+      "type": "smelting",
+      "text": "Ela também pode ser fundida em Pó da Alma, que também tem muitos usos.",
+      "recipe": "mysticalagriculture:soulstone_cobble",
+      "recipe2": "mysticalagriculture:soulstone_smooth"
+    }
+  ]
+}

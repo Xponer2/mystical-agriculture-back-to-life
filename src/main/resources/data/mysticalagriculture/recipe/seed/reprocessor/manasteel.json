@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:manasteel"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:manasteel_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:manasteel_essence"
+  }
+}

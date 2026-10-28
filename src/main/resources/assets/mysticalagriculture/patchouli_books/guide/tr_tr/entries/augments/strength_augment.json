@@ -1,0 +1,12 @@
+{
+  "name": "Kuvvet Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:strength_iii_augment",
+  "sortnum": 311,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Kuvvet Güçlendirmesi, kılıcın verdiği hasar miktarını 5-20 oranında artıran bir kılıç güçlendirmesidir."
+    }
+  ]
+}

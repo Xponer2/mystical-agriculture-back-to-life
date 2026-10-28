@@ -1,0 +1,12 @@
+{
+  "name": "覚醒したスプレミウム",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakened_supremium_essence",
+  "sortnum": 154,
+  "pages": [
+    {
+      "type": "text",
+      "text": "覚醒したスプレミウムは、スプレミウムのアイテムの強化版を作成するために使用する、高レベルのクラフト素材です。$(br2)覚醒したスプレミウムは$(bold)通常$()、$(l:elemental/awakening_altar)覚醒の祭壇$()を使用して、$(l:elemental/cognizant_dust)コグニザントダスト$()をスプレミウムブロックに注入することで作成されます。"
+    }
+  ]
+}

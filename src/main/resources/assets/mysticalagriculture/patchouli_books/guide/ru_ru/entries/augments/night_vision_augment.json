@@ -1,0 +1,12 @@
+{
+  "name": "Ночное зрение (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:night_vision_augment",
+  "sortnum": 302,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ночное зрение (Расширение) - это расширение для шлема, которое даёт носящему ночное зрение, пока надета броня."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Ресурсові культури",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_seed_base",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ресурсові культури - це серце і душа того, що робить Mystical Agriculture настільки великим. Проте є деякі особливості ресурсних культур, які слід зазначити. $(br2)$(li)Ресурсові культури не можна вирощувати з використанням кісткового борошна. $(li)З ресурсних культур не можна отримати друге насіння, якщо вони не посаджені на $(l:basics/essence_farmland)ріллю з есенції$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "text": "Ресурсові культури $(bold)зазвичай$() створюються за допомогою $(l:basics/infusion_altar)Вівтаря Наповнення$().",
+      "recipe": "mysticalagriculture:prosperity_seed_base"
+    }
+  ]
+}

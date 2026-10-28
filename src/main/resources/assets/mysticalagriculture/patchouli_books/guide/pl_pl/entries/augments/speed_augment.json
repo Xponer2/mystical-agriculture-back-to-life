@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie szybkości",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:speed_iii_augment",
+  "sortnum": 306,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie szybkości to ulepszenie do nogawic, które zwiększa prędkość poruszania się użytkownika. Ten efekt działa też w czasie lotu."
+    }
+  ]
+}

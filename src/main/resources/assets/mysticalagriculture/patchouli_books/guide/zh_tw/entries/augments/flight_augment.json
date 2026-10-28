@@ -1,0 +1,12 @@
+{
+  "name": "飛行升級",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:flight_augment",
+  "sortnum": 316,
+  "pages": [
+    {
+      "type": "text",
+      "text": "飛行升級是一種胸甲升級，裝備有這種升級的胸甲，會給予穿戴者創造式飛行的能力."
+    }
+  ]
+}

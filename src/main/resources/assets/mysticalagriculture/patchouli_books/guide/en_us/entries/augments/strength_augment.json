@@ -1,0 +1,12 @@
+{
+  "name": "Strength Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:strength_iii_augment",
+  "sortnum": 311,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Strength Augment is a sword augment that increases the amount of damage the sword deals by 5-20."
+    }
+  ]
+}

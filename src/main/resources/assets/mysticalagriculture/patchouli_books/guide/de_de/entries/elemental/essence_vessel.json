@@ -1,0 +1,17 @@
+{
+  "name": "Essenzurne",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:essence_vessel",
+  "sortnum": 152,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Essenzurnen werden in der $(l:elemental/awakening_altar)Erweckungsaltar$()-Struktur verwendet, um die für die Erstellung von Gegenständen erforderlichen elementaren Essenzen zu halten. Jedes Gefäß kann bis zu 40 Essenzen einer einzigen Art aufnehmen."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:essence_vessel"
+    }
+  ]
+}

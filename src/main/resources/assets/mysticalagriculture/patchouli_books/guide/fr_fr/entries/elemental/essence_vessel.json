@@ -1,0 +1,17 @@
+{
+  "name": "Essence Vessel",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:essence_vessel",
+  "sortnum": 152,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Essence Vessels are used in the $(l:elemental/awakening_altar)Awakening Altar$() structure to hold the elemental essences required to create items. Each vessel can hold up to 40 of a single elemental essence."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "recipe": "mysticalagriculture:essence_vessel"
+    }
+  ]
+}

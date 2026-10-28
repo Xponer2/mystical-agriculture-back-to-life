@@ -1,0 +1,18 @@
+{
+  "name": "机器升级",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:upgrade_base",
+  "sortnum": 200,
+  "pages": [
+    {
+      "type": "text",
+      "text": "机器升级可以被放置在适合的机器中以提升它们的性能。$(br2)更高等级的机器将会更快的生成和消耗能量。"
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:upgrade_base",
+      "recipe2": "mysticalagriculture:inferium_upgrade"
+    }
+  ]
+}

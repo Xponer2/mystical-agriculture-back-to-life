@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Resistência ao Wither",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:wither_resistance_augment",
+  "sortnum": 315,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Resistência ao Wither é um aprimoramento de armadura que impede o usuário de receber o efeito do Wither enquanto estiver com a armadura equipada."
+    }
+  ]
+}

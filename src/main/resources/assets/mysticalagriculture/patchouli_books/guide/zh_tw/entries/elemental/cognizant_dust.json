@@ -1,0 +1,12 @@
+{
+  "name": "Cognizant Dust",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:cognizant_dust",
+  "sortnum": 151,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cognizant Dust is $(bold)usually$() obtained by killing a Wither or Ender Dragon using an $(l:tinkering/essence_tools)Essence Weapon$() enchanted with Mystical Enlightenment. $(br2)Higher levels of Mystical Enlightenment will increase the amount of dust dropped on kill."
+    }
+  ]
+}

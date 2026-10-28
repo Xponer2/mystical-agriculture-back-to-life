@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Visão Noturna",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:night_vision_augment",
+  "sortnum": 302,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Visão Noturna é um aprimoramento de elmo que concede Visão Noturna ao usuário enquanto ele estiver com a armadura equipada."
+    }
+  ]
+}

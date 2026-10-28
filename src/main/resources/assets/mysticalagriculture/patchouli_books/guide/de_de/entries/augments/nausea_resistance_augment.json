@@ -1,0 +1,12 @@
+{
+  "name": "Übelkeitsresistenz-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:nausea_resistance_augment",
+  "sortnum": 319,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Übelkeitsresistenz-Augment ist ein Helm-Augment, das verhindert, dass der Träger den Übelkeitseffekt erhält, solange er die Rüstung trägt."
+    }
+  ]
+}

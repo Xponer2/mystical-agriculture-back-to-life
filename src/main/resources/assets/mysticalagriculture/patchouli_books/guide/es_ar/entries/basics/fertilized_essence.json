@@ -1,0 +1,12 @@
+{
+  "name": "Esencia fertilizada",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "La esencia fertilizada $(bold)usualmente$() se obtiene de todos los $(l:basics/resource_crops)cultivos de recursos$() $(bold)excepto inferium$(). ¡Funciona de manera idéntica al polvo de hueso, pero también funciona en los $(l:basics/resource_crops)cultivos de recursos$()! $(br2)La esencia fertilizada también se puede utilizar para fabricar de manera más eficiente $(l:advances/mystical_fertilizer)fertilizante místico$()."
+    }
+  ]
+}

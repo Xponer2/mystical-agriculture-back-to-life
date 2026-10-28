@@ -1,0 +1,17 @@
+{
+  "name": "魂の瓶",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soul_jar",
+  "sortnum": 104,
+  "pages": [
+    {
+      "type": "text",
+      "text": "魂の瓶は、$(l:souls/soulium_dagger)ソウリウムの短剣$()と合わせてMobの魂を収集するために使用します。充填された魂の瓶は、対応するMobの$(l:basics/resource_crops)資源の作物$()を作成するために使用できます。$(br2)魂の瓶は、$(l:machines/soul_extractor)魂抽出機$()でMobのドロップアイテムを使用して充填することもできます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:soul_jar"
+    }
+  ]
+}

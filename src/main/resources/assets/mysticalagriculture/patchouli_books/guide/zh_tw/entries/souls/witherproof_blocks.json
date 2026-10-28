@@ -1,0 +1,18 @@
+{
+  "name": "防凋零方塊",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:witherproof_block",
+  "sortnum": 102,
+  "pages": [
+    {
+      "type": "text",
+      "text": "防凋零方塊是凋靈無法破壞的方塊. 這對那些喜歡困住boss們的人非常有用. $(br2)它們也免疫來自末影龍的破壞, 雖然它依然可以飛過它們."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:witherproof_block",
+      "recipe2": "mysticalagriculture:witherproof_glass"
+    }
+  ]
+}

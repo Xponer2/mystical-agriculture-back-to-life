@@ -1,0 +1,17 @@
+{
+  "name": "Frascos de alma",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soul_jar",
+  "sortnum": 104,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Los frascos de alma se utilizan en combinación con una $(l:souls/soulium_dagger)daga de soulium$() para recolectar almas de mobs. Los frascos de alma llenos se pueden utilizar para crear $(l:basics/resource_crops)cultivos de recursos$() para la entidad correspondiente. $(br2)Los frascos de alma también se pueden llenar utilizando objetos de mobs con un $(l:machines/soul_extractor)extractor de almas$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:soul_jar"
+    }
+  ]
+}

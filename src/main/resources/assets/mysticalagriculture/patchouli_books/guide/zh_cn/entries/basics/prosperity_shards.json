@@ -1,0 +1,12 @@
+{
+  "name": "活化水晶碎片",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_shard",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "活化水晶碎片是神秘农业中两种基础材料中的另一种. 用它们可以使基础材料发生神奇的变化. 你$(bold)通常$()可以通过在地下开采获得活化水晶碎片."
+    }
+  ]
+}

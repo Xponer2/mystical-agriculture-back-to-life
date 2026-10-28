@@ -1,0 +1,27 @@
+{
+  "name": "Sztylet dusz",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 103,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Sztylet dusz jest używany do pozyskiwania dusz z żywych stworzeń. Dusze te są przechowywane w $(l:souls/soul_jars)słoikach dusz$(). Można je pozyskać zabijając potwory przy użyciu sztyletu dusz. $(br2)Sztylet dusz może być ulepszony w $(l:basics/infusion_altar)ołtarzu infuzji$(), co polepsza jego efektywność."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:passive_soulium_dagger",
+      "text": "Pokojowo nastawiony sztylet zwiększa ilość dusz z pasywnych mobów o 50%."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:hostile_soulium_dagger",
+      "text": "Wrogo nastawiony sztylet zwiększa ilość dusz z wrogich mobów o 50%."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Wysysacz dusz",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soul_extractor",
+  "sortnum": 203,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Wysysacz dusz może być użyty do zamiany przedmiotów upuszczanych przez moby na ich dusze. Są zasilane paliwami stałymi i mają wewnętrzny bufor energetyczny. Wysysacz dusz daje dodatkowe zastosowanie dla niepotrzebnych przedmiotów z mobów, jednak jest znacznie mniej efektywny, niż $(l:souls/soulium_dagger)sztylet dusz$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:soul_extractor"
+    }
+  ]
+}

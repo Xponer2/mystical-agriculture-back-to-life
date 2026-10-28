@@ -1,0 +1,18 @@
+{
+  "name": "Scythes",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_scythe",
+  "sortnum": 54,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Scythes are used for harvesting large areas of crops by right clicking. Any fully grown crops within the area of effect will be harvested without being uprooted. $(br2)Scythes are also an effective weapon with an increased attack AOE. $(br2)Higher tier Scythes have a greater area of effect."
+    },
+    {
+      "type": "crafting",
+      "title": "Crafting",
+      "recipe": "mysticalagriculture:diamond_scythe",
+      "recipe2": "mysticalagriculture:gear/inferium_scythe"
+    }
+  ]
+}

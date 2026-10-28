@@ -1,0 +1,12 @@
+{
+  "name": "Jump Boost Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:jump_boost_iii_augment",
+  "sortnum": 305,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Jump Boost Augment is a boots augment that increases the wearers jump height while they have the armor equipped."
+    }
+  ]
+}

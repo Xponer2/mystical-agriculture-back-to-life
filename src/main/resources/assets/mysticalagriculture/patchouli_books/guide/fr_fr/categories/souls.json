@@ -1,0 +1,6 @@
+{
+  "name": "Souls",
+  "description": "This section goes over the Nether content as well as the mob soul content required for creating and using mob drop based crops. $(br2)$(l:https://blakesmods.com/guides/mysticalagriculture/gameplay/collecting-mob-souls)Click here for a detailed guide on collecting Mob Souls.$()",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 2
+}

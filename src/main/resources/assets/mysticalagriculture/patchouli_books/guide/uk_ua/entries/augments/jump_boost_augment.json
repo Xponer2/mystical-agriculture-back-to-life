@@ -1,0 +1,12 @@
+{
+  "name": "Збільшення стрибка (Розширення)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:jump_boost_iii_augment",
+  "sortnum": 305,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Збільшення стрибка (Розширення) - це розширення до чоботів, яке збільшує висоту стрибка того, хто її носить, доки одягнена броня."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie asystenta chodzenia",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:step_assist_augment",
+  "sortnum": 310,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie asystenta chodzenia to ulepszenie do nogawic, które daje użytkownikowi możliwość wchodzenia na bloki (maksymalna wysokość: 1 blok) bez skakania."
+    }
+  ]
+}

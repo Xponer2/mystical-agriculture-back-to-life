@@ -1,0 +1,17 @@
+{
+  "name": "Ferramentas de Essência",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Aprimorar suas ferramentas de Diamante* com essência melhora sua durabilidade e velocidade de mineração. Isso também permite que sejam equipadas com $(l:tinkering/augments)Aprimoramentos$(). $(br2)As Ferramentas de Essência podem ser reparadas em uma Bigorna com seu Lingote de Essência correspondente. Cada uma dessas ferramentas tem 1 slot de aprimoramento."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Unterwasseratmungs-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:water_breathing_augment",
+  "sortnum": 303,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Unterwasseratmungs-Augment ist ein Helm-Augment, das dem Träger Unterwasseratmung gewährt, während die Rüstung getragen wird."
+    }
+  ]
+}

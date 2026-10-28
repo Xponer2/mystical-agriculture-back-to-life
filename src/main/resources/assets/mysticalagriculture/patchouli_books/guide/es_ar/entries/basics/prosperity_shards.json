@@ -1,0 +1,12 @@
+{
+  "name": "Fragmentos de prosperidad",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_shard",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Los fragmentos de prosperidad son el otro de los dos materiales base en Mystical Agriculture. Se utilizan para crear variaciones mágicas de materiales básicos. Puedes $(bold)usualmente$() obtener fragmentos de prosperidad extrayéndolos del suelo."
+    }
+  ]
+}

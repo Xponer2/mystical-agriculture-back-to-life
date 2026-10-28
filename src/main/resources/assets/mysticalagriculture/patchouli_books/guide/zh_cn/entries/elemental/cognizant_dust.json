@@ -1,0 +1,12 @@
+{
+  "name": "觉醒粉",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:cognizant_dust",
+  "sortnum": 151,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(bold)通常$()要获得觉醒粉，你需要使用附有神秘启示的$(l:tinkering/essence_tools)精华武器$()杀死凋零或者末影龙。$(br2)更高等级的神秘启示可以增加每次击杀掉落的觉醒粉的量。"
+    }
+  ]
+}

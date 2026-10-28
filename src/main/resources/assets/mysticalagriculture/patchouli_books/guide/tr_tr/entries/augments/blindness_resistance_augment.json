@@ -1,0 +1,12 @@
+{
+  "name": "Körlük Direnci Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:blindness_resistance_augment",
+  "sortnum": 317,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Körlük Direnci Güçlendirmesi, zırh takılıyken kullanıcının Körlük etkisi almasını engelleyen bir miğfer güçlendirmesidir."
+    }
+  ]
+}

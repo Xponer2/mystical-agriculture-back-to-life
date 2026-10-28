@@ -1,0 +1,12 @@
+{
+  "name": "生命提升升级",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:health_boost_v_augment",
+  "sortnum": 301,
+  "pages": [
+    {
+      "type": "text",
+      "text": "生命提升升级是一种盔甲升级，装备有这种升级的盔甲，会提升穿戴者2-10颗心的血量."
+    }
+  ]
+}

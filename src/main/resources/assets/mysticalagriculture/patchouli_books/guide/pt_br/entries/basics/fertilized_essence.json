@@ -1,0 +1,12 @@
+{
+  "name": "Essência Fertilizante",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "A Essência Fertilizante $(bold)geralmente$() dropa de todos os $(l:basics/resource_crops)Cultivos de Recurso$() $(bold)exceto Inferium$(). Funciona de forma idêntica à Farinha de Osso, mas também funciona em $(l:basics/resource_crops)Cultivos de Recurso$()! $(br2)A Essência Fertilizante também pode ser usada para criar mais eficientemente o $(l:advances/mystical_fertilizer)Fertilizante Místico$()."
+    }
+  ]
+}

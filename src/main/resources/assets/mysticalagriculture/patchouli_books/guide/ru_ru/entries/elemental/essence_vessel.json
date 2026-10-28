@@ -1,0 +1,17 @@
+{
+  "name": "Сосуд для эссенции",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:essence_vessel",
+  "sortnum": 152,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сосуды для эссенции используются в структуре $(l:elemental/awakening_altar)Алтаря Пробуждения$() для хранения эссенций природы, необходимых для создания предмета. Каждый сосуд может содержать до 40 единиц одной эссенции."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:essence_vessel"
+    }
+  ]
+}

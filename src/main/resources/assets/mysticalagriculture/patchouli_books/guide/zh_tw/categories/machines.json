@@ -1,0 +1,6 @@
+{
+  "name": "機器",
+  "description": "這部分是關於神秘農業中不同類型的機器方塊.",
+  "icon": "mysticalagriculture:seed_reprocessor",
+  "sortnum": 4
+}

@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:spirited_crystal"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:spirited_crystal_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:spirited_crystal_essence"
+  }
+}

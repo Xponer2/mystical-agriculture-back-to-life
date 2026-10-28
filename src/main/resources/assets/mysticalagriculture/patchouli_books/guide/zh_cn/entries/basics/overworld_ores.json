@@ -1,0 +1,18 @@
+{
+  "name": "主世界矿石",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_ore",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:inferium_ore",
+      "text": "下级精华矿石$(bold)通常$()生成在Y值50及以下."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:prosperity_ore",
+      "text": "活化水晶矿石$(bold)通常$()生成在Y值50及以下."
+    }
+  ]
+}

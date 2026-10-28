@@ -1,0 +1,12 @@
+{
+  "name": "Gece Görüşü Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:night_vision_augment",
+  "sortnum": 302,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Gece Görüşü Güçlendirmesi, zırh takılıyken kullanıcıya Gece Görüşü kazandıran bir miğfer güçlendirmesidir."
+    }
+  ]
+}

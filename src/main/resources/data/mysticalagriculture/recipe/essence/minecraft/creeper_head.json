@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:creeper"
+    }
+  ],
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "mysticalagriculture:creeper_essence"
+    },
+    "S": {
+      "item": "mysticalagriculture:blank_skull"
+    }
+  },
+  "result": {
+    "id": "minecraft:creeper_head"
+  }
+}

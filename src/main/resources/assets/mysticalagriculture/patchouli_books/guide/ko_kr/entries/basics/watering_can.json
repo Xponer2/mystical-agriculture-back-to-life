@@ -1,0 +1,17 @@
+{
+  "name": "물뿌리개",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "물뿌리개는 수작업*으로 농작물 성장을 가속화하기 위해 사용됩니다. 하나를 채우려면 물을 근원으로 하는 블록을 마우스 오른쪽으로 클릭하기만 하면 됩니다."
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

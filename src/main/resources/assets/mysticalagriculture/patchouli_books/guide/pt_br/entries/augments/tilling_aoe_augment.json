@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Área de Aração",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:tilling_aoe_iv_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Área de Aração é um aprimoramento de Enxada que aumenta a área em que a Enxada cria blocos de Terra Arada, até 9x9. $(br2)a Área é ativada agachando-se ao usar a Enxada. $(br2)O centro da Área pode ser alterado pressionando CTRL + Teclas de Seta."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie oddychania pod wodą",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:water_breathing_augment",
+  "sortnum": 303,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie oddychania pod wodą to ulepszenie do hełmu, które daje użytkownikowi efekt oddychania pod wodą."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "步行輔助升級",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:step_assist_augment",
+  "sortnum": 310,
+  "pages": [
+    {
+      "type": "text",
+      "text": "夜視升級是一種護腿或靴子升級，裝備有這種升級的護腿或靴子，會讓穿戴者直接走上1格的高度而不必跳躍."
+    }
+  ]
+}

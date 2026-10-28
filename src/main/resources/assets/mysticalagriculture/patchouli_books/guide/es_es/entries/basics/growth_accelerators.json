@@ -1,0 +1,18 @@
+{
+  "name": "Aceleradores de crecimiento",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_growth_accelerator",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Los aceleradores de crecimiento se utilizan para aumentar la velocidad de crecimiento de las plantas. Aplican tics de crecimiento aleatorios a la primera planta colocada sobre ellos dentro del rango especificado. $(br2)Puedes apilar varios aceleradores de crecimiento de cualquier nivel siempre que la planta esté dentro del rango."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:inferium_growth_accelerator",
+      "text": "El rango del acelerador de crecimiento se basa en que se coloque debajo de la tierra de cultivo. $(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/speeding-up-crop-growth)Haz clic aquí para obtener una guía detallada sobre cómo usar los aceleradores de crecimiento.$()"
+    }
+  ]
+}

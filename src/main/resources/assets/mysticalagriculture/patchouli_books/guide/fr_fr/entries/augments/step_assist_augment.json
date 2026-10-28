@@ -1,0 +1,12 @@
+{
+  "name": "Step Assist Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:step_assist_augment",
+  "sortnum": 310,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Step Assist Augment is a leggings or boots augment that enables the wearer to walk up 1 block heights without jumping while they have the armor equipped."
+    }
+  ]
+}

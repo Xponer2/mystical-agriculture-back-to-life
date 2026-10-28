@@ -1,0 +1,24 @@
+{
+  "name": "Uyanış Sunağı",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakening_altar",
+  "sortnum": 153,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Uyanış Sunağı, $(bold)genellikle$() $(l:elemental/awakened_supremium)Uyandırılmış Supremium$() oluşturmak için kullanılan bir üretim yapısıdır. Yapı 1 İnfüzyon Sunağı, 4 İnfüzyon Kaidesi ve 4 $(l:elemental/essence_vessel)Öz Kaplarından$() oluşmaktadır. $(br2)Bir tarif hazırladıktan sonra, sunağı bir Redstone sinyali ile etkinleştirmeniz yeterlidir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:awakening_altar",
+      "recipe2": "mysticalagriculture:awakening_pedestal"
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:essence_vessel",
+      "text": "Uyanış Sunağı'nı dünyaya yerleştirmek size kaidelerinizi ve kaplarınızı nereye yerleştireceğinizi gösterecektir."
+    }
+  ]
+}

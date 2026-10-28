@@ -1,0 +1,12 @@
+{
+  "name": "Сила (розширення)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:strength_iii_augment",
+  "sortnum": 311,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сила (розширення) - це розширення для меча, яке збільшує пошкодження, що наноситься мечем, на 5-20 одиниць."
+    }
+  ]
+}

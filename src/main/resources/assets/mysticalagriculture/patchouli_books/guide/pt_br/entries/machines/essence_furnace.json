@@ -1,0 +1,17 @@
+{
+  "name": "Fornalha",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:furnace",
+  "sortnum": 201,
+  "pages": [
+    {
+      "type": "text",
+      "text": "A fornalha básica pode ser aprimorada para aproveitar as $(l:machines/machine_upgrades)Melhorias de Máquina$() para aumentar a velocidade de cozimento. Elas funcionam com combustíveis sólidos и têm um buffer interno de armazenamento de energia."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:furnace"
+    }
+  ]
+}

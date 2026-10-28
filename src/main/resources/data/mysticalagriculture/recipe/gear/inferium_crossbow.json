@@ -1,0 +1,26 @@
+{
+  "type": "cucumber:shaped_transfer_damage",
+  "transfer_components": true,
+  "pattern": [
+    " G ",
+    "ISI",
+    "HGH"
+  ],
+  "key": {
+    "G": {
+      "item": "mysticalagriculture:inferium_gemstone"
+    },
+    "I": {
+      "item": "mysticalagriculture:inferium_ingot"
+    },
+    "S": {
+      "item": "minecraft:bow"
+    },
+    "H": {
+      "item": "minecraft:tripwire_hook"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:inferium_crossbow"
+  }
+}

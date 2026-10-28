@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Absorção",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:absorption_v_augment",
+  "sortnum": 300,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Absorção é um aprimoramento de armadura que concede ao usuário de 2 a 10 corações de Absorção a cada 8 minutos enquanto ele estiver com a armadura equipada."
+    }
+  ]
+}

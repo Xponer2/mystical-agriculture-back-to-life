@@ -1,0 +1,17 @@
+{
+  "name": "终极注魔水晶",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:master_infusion_crystal",
+  "sortnum": 51,
+  "pages": [
+    {
+      "type": "text",
+      "text": "终极注魔水晶拥有无限的耐久. 我知道你想要这个."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:master_infusion_crystal"
+    }
+  ]
+}

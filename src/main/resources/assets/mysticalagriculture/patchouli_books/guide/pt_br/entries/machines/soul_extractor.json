@@ -1,0 +1,17 @@
+{
+  "name": "Extrator de Almas",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soul_extractor",
+  "sortnum": 203,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Extratores de Almas são usados para converter drops de criaturas em almas de criaturas. Eles funcionam com combustíveis sólidos e têm um buffer interno de armazenamento de energia. $(br2)O Extrator de Almas oferece um uso para drops de criaturas extras que você possa ter, mas geralmente não será tão eficiente quanto usar uma $(l:souls/soulium_dagger)Adaga de Soulium$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:soul_extractor"
+    }
+  ]
+}

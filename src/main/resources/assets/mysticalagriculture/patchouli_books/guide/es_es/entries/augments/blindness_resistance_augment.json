@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de resistencia a la ceguera",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:blindness_resistance_augment",
+  "sortnum": 317,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de resistencia a la ceguera es un aumento de casco que evita que el usuario obtenga el efecto de ceguera mientras tiene la armadura equipada."
+    }
+  ]
+}

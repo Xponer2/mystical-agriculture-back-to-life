@@ -1,0 +1,18 @@
+{
+  "name": "Colheitadeira",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:harvester",
+  "sortnum": 204,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Colheitadeiras são usadas para colher automaticamente cultivos totalmente crescidos. Elas funcionam com combustíveis sólidos e têm um buffer interno de armazenamento de energia. $(br2)A colheitadeira replantará automaticamente os cultivos que colher. $(br2)A colheitadeira colocará todos os recursos em seu inventário interno. Se não houver espaço, os itens serão colocados no cultivo."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "text": "A Colheitadeira usará um pouco de energia toda vez que verificar o crescimento de um cultivo. A colheita de cultivos totalmente crescidos usa uma quantidade maior de energia. $(br2)Essas máquinas podem ser aprimoradas com $(l:machines/machine_upgrades)Melhorias de Máquina$(). $(br2)A Colheitadeira pode ser desativada com um sinal de Redstone.",
+      "recipe": "mysticalagriculture:harvester"
+    }
+  ]
+}

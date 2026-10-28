@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "  I",
+    "SI "
+  ],
+  "key": {
+    "I": {
+      "tag": "c:gems/diamond"
+    },
+    "S": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:diamond_sickle"
+  }
+}

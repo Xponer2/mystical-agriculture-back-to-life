@@ -1,0 +1,17 @@
+{
+  "name": "Büyülendirici",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:enchanter",
+  "sortnum": 110,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Büyülendirici, farklı üretim malzemeleri ve Tecrübe Özü kullanarak aletlerinizi ve zırhınızı büyülemenizi sağlayan bir bloktur. $(br2)Büyülendirici, Örs'e benzer şekilde hem Kitaplara hem de aletlere/zırhlara büyü uygulayabilir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:enchanter"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Полёт (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:flight_augment",
+  "sortnum": 316,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Полёт (Расширение) - это расширение для нагрудника, которое даёт владельцу творческий полёт, пока надета броня."
+    }
+  ]
+}

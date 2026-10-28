@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie odporności na truciznę",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:poison_resistance_augment",
+  "sortnum": 313,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie odporności na truciznę to ulepszenie do zbroi, które daje użytkownikowi całkowitą odporność na truciznę."
+    }
+  ]
+}

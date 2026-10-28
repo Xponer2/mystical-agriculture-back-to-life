@@ -1,0 +1,12 @@
+{
+  "name": "Abbau-AOE-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_aoe_iv_augment",
+  "sortnum": 307,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Abbau-AOE-Augment ist ein Werkzeug-Augment, das den Bereich vergrößert, in dem das Werkzeug Blöcke abbaut, bis zu 9x9. Schleichen während des Abbaus eines Blocks negiert den AOE-Effekt. $(br2)Dieser Effekt kann durch Halten der Shift-Taste negiert werden."
+    }
+  ]
+}

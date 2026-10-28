@@ -1,0 +1,12 @@
+{
+  "name": "Flight Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:flight_augment",
+  "sortnum": 316,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Flight Augment is a chestplate augment that gives the wearer creative flight while they have the armor equipped."
+    }
+  ]
+}

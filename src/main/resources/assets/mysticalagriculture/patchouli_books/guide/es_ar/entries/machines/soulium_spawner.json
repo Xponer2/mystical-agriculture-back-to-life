@@ -1,0 +1,18 @@
+{
+  "name": "Generador de soulium",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soulium_spawner",
+  "sortnum": 205,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El generador de soulium se utiliza para invocar tanto mobs hostiles como pasivos utilizando esencias. Funcionan con combustibles sólidos y tienen un búfer de almacenamiento de energía interno. $(br2)El generador tiene un inventario interno que puede contener hasta 512 objetos. Cada operación tomará una cierta cantidad de objetos y energía para invocar un mob correspondiente."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "text": "El generador invocará aleatoriamente al mob en un radio de 3 bloques a su alrededor. $(br2)Estas máquinas se pueden mejorar con $(l:machines/machine_upgrades)mejoras de máquinas$(). $(br2)El generador de soulium se puede desactivar con una señal de redstone.",
+      "recipe": "mysticalagriculture:soulium_spawner"
+    }
+  ]
+}

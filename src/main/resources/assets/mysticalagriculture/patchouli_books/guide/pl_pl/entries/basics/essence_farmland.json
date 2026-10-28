@@ -1,0 +1,22 @@
+{
+  "name": "Pole uprawne z esencji",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_farmland",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Pola uprawne z esencji wspomagają uprawę nasion z Mystical Agriculture na kilka sposobów, które są wymienione na następnej stronie. $(br2)Możesz wytworzyć pole uprawne z esencji klikając na zwykłe pole odpowiednią esencją, lub konstruując je w ekwipunku."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Uprawy mają 10% szans na danie dodatkowego nasiona po posadzeniu na dowolnym poziomie pola uprawnego z esencji. $$(li)Uprawy będą miały 20% szans na danie dodatkowego nasiona, jeśli zostaną posadzone na polu uprawnym o poziomie takim samym, co poziom nasiona. $(li)Nasiona Inferium będą dawać tym więcej esencji Inferium, im wyższy jest poziom pola, na którym zostały posadzone."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:inferium_farmland",
+      "recipe2": "mysticalagriculture:inferium_farmland_till"
+    }
+  ]
+}

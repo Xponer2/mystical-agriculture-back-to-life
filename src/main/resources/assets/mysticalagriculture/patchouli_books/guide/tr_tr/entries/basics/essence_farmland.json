@@ -1,0 +1,22 @@
+{
+  "name": "Öz Tarım Arazisi",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_farmland",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Öz Tarım Arazisi, Mystical Agriculture mahsullerinin üretim verimliliğini çeşitli şekillerde artırır. Bunlar aşağıdaki sayfada listelenmiştir. $(br2)Öz Tarım Arazisi'ni dünya içinde Tarım Arazisi'ne öz ile sağ tıklayarak ya da işleyerek oluşturabilirsiniz."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Herhangi bir Öz Tarım Arazisi katmanına ekilen mahsullerin ikinci bir tohum bırakma ihtimali $(bold)genellikle$() yüzde 10 olacaktır. $$(li)Mahsuller, ilgili Öz Tarım Arazisi katmanına ekildiğinde ikinci bir tohum bırakma ihtimali yüzde 10 olacaktır. $(li)Inferium Tohumu daha yüksek seviyedeki Öz Tarım Arazisi'ne ekildiğinde daha fazla öz düşürecektir."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:inferium_farmland",
+      "recipe2": "mysticalagriculture:inferium_farmland_till"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Nausea Resistance Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:nausea_resistance_augment",
+  "sortnum": 319,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Nausea Resistance Augment is a helmet augment that prevents the wearer from getting the Nausea effect while they have the armor equipped."
+    }
+  ]
+}

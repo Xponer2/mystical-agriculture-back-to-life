@@ -1,0 +1,12 @@
+{
+  "name": "移動速度上昇のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:speed_iii_augment",
+  "sortnum": 306,
+  "pages": [
+    {
+      "type": "text",
+      "text": "移動速度上昇のオーグメントは、着用者の移動速度を増加させるレギンス用のオーグメントです。この効果は飛行速度にも適用されます。"
+    }
+  ]
+}

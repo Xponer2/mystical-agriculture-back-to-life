@@ -1,0 +1,18 @@
+{
+  "name": "Візеростійкі блоки",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:witherproof_block",
+  "sortnum": 102,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Візеростійкі блоки не руйнуються Візером. Дуже корисно для любителів босів. $(br2)Вони також несприйнятливі до шкоди від Ендер-дракона, однак він все одно може пролетіти крізь них."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:witherproof_block",
+      "recipe2": "mysticalagriculture:witherproof_glass"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Поглощение (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:absorption_v_augment",
+  "sortnum": 300,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Поглощение (Расширение) - это расширение для брони, которое даёт носящему 2-10 сердец Поглощения каждые 8 минут, пока надета броня."
+    }
+  ]
+}

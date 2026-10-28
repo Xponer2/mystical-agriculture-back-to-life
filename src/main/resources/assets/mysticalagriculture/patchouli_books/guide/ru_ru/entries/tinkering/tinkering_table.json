@@ -1,0 +1,17 @@
+{
+  "name": "Сборочный стол",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:tinkering_table",
+  "sortnum": 252,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сборочный стол используется для добавления $(l:tinkering/augments)Расширений$() в $(l:tinkering/essence_tools)Инструменты из эссенции$() и $(l:tinkering/essence_armor)Броню из эссенции$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:tinkering_table"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Політ (розширення)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:flight_augment",
+  "sortnum": 316,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Політ (розширення) - це розширення для нагрудника, яке дає власнику творчий політ, доки у нього є броня."
+    }
+  ]
+}

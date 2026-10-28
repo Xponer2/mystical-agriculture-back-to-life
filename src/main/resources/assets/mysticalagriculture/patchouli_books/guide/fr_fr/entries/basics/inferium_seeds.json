@@ -1,0 +1,17 @@
+{
+  "name": "Inferium Seeds",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Inferium Seeds are one of the main ways to collect Inferium Essence. They can be grown on any farmland, but are most efficient on $(l:basics/essence_farmland)Essence Farmland$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

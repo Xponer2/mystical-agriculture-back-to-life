@@ -1,0 +1,17 @@
+{
+  "name": "Öz Ocağı",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:furnace",
+  "sortnum": 201,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Standart ocak, daha yüksek pişirme hızı için $(l:machines/machine_upgrades)Makine Yükseltmelerinden$() yararlanacak şekilde yükseltilebilir. Katı yakıtlarla çalışırlar ve dahili bir güç deposu arabelleğine sahiptirler."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:furnace"
+    }
+  ]
+}

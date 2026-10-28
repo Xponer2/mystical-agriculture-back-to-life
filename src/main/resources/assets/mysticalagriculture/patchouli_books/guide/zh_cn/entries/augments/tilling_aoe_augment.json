@@ -1,0 +1,12 @@
+{
+  "name": "范围锄地升级",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:tilling_aoe_iv_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "范围锄地升级是一种锄的升级，会提升锄地的范围，最大可达9x9. 使用锄时，通过潜行激活."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "衝撃吸収のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:absorption_v_augment",
+  "sortnum": 300,
+  "pages": [
+    {
+      "type": "text",
+      "text": "衝撃吸収のオーグメントは、8分ごとに着用者にハート2-10個分の衝撃吸収を付与する防具用のオーグメントです。"
+    }
+  ]
+}

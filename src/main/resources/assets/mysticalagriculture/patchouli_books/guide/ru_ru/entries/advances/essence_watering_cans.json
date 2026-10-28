@@ -1,0 +1,17 @@
+{
+  "name": "Лейки из эссенции",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_watering_can",
+  "sortnum": 52,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Улучшив обычную $(l:basics/watering_can)Лейку$() с помощью эссенции и $(l:advances/mystical_fertilizer)Мистического Удобрения$(), Вы значительно улучшите опыт ведения сельского хозяйства. $(br2)Улучшенные лейки имеют расширенный радиус действия и скорость ускорения роста. Вы также можете включить автоматический полив, нажав Shift+ПКМ лейкой, не нацеливаясь на блок."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:gear/inferium_watering_can"
+    }
+  ]
+}

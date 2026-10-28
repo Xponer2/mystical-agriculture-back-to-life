@@ -1,0 +1,12 @@
+{
+  "name": "Elementsel Özler",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:air_essence",
+  "sortnum": 150,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Hava, Dünya, Su ve Ateş özleri $(l:elemental/essence_vessel)Öz Kapları$() kullanılarak $(l:elemental/awakening_altar)Uyanış Sunağı$() tariflerinde kullanılabilir."
+    }
+  ]
+}

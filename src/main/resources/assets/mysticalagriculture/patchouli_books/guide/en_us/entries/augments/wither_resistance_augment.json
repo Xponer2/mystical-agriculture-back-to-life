@@ -1,0 +1,12 @@
+{
+  "name": "Wither Resistance Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:wither_resistance_augment",
+  "sortnum": 315,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Wither Resistance Augment is an armor augment that prevents the wearer from getting the Wither effect while they have the armor equipped."
+    }
+  ]
+}

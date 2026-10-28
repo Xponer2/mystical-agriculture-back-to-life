@@ -1,0 +1,12 @@
+{
+  "name": "채굴 AOE 부적",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_aoe_iv_augment",
+  "sortnum": 307,
+  "pages": [
+    {
+      "type": "text",
+      "text": "채굴 AOE 부적은 도구가 블록을 최대 9x9까지 깨트리는 것을 증가시키는 도구입니다. 블록을 캐는 동안 미끄러지면 AOE 효과가 사라집니다."
+    }
+  ]
+}

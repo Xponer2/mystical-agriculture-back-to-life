@@ -1,0 +1,12 @@
+{
+  "name": "Yavaş Düşüş Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slow_falling_augment",
+  "sortnum": 324,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Yavaş Düşüş Güçlendirmesi, zırh takılıyken kullanıcının Yavaşlık etkisi almasını engelleyen bir tozluk güçlendirmesidir. $(br2)Bu etki Shift tuşu basılı tutularak iptal edilebilir."
+    }
+  ]
+}

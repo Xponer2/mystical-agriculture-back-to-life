@@ -1,0 +1,17 @@
+{
+  "name": "Наполняющий кристалл Мастера",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:master_infusion_crystal",
+  "sortnum": 51,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Наполняющий кристалл Мастера обладает бесконечной прочностью. Ты хочешь этого, я знаю, что хочешь."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:master_infusion_crystal"
+    }
+  ]
+}

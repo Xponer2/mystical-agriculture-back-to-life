@@ -1,0 +1,17 @@
+{
+  "name": "Essence Tools",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Upgrading your Diamond* tools with essence improves their durability and mining speed. This also allows them to be equipped with $(l:tinkering/augments)Augments$(). $(br2)Essence Tools can be repaired in an Anvil with their corresponding Essence Ingot. These tools each have 1 augment slot."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabrication",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

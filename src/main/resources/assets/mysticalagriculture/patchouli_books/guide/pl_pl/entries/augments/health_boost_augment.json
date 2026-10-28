@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie zwiększonego życia",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:health_boost_v_augment",
+  "sortnum": 301,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie zwiększonego życia to ulepszenie do zbroi, które daje użytkownikowi dodatkowe 2-10 serduszek."
+    }
+  ]
+}

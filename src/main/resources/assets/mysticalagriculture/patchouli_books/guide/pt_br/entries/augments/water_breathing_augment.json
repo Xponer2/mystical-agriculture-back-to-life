@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Respiração Aquática",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:water_breathing_augment",
+  "sortnum": 303,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Respiração Aquática é um aprimoramento de elmo que concede Respiração Aquática ao usuário enquanto ele estiver com a armadura equipada."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Acele Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:haste_iii_augment",
+  "sortnum": 323,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Acele Güçlendirmesi, zırh takılıyken kullanıcının madencilik hızını artıran bir göğüslük güçlendirmesidir."
+    }
+  ]
+}

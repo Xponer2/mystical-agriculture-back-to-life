@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Queda Lenta",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slow_falling_augment",
+  "sortnum": 324,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Queda Lenta é um aprimoramento de Calça que impede o usuário de receber o efeito de Lentidão enquanto estiver com a armadura equipada. $(br2)Este efeito pode ser negado segurando a tecla Shift."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Inferiumsamen",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Inferiumsamen sind eine der Hauptmethoden zur Sammlung von Inferiumessenz. Sie können auf jedem Ackerland angebaut werden, sind jedoch auf $(l:basics/essence_farmland)Essenz-Ackerland$() am effizientesten."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

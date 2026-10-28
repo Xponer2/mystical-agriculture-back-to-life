@@ -1,0 +1,12 @@
+{
+  "name": "독 효과 저항 부적",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:poison_resistance_augment",
+  "sortnum": 313,
+  "pages": [
+    {
+      "type": "text",
+      "text": "독 효과 저항 부적은 착용자가 갑옷을 입고 있는 동안 독 효과를 받는 것을 방지하는 갑옷 부적입니다."
+    }
+  ]
+}

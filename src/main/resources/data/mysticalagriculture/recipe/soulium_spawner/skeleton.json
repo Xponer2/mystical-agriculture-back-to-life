@@ -1,0 +1,23 @@
+{
+  "type": "mysticalagriculture:soulium_spawner",
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:skeleton"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:skeleton_essence",
+    "count": 16
+  },
+  "entities": [
+    {
+      "entity": "minecraft:skeleton",
+      "weight": 19
+    },
+    {
+      "entity": "minecraft:bogged",
+      "weight": 1
+    }
+  ]
+}

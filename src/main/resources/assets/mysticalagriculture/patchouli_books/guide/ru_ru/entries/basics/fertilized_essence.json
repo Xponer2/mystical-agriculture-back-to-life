@@ -1,0 +1,12 @@
+{
+  "name": "Удобряющая эссенция",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Удобряющая эссенция $(bold)обычно$() выпадает со всех $(l:basics/resource_crops)Ресурсовых Культур$(), $(bold)кроме Инфериевых$(). Работает идентично костной муке, также можно применять на $(l:basics/resource_crops)Ресурсовых Культурах$()! $(br2)Удобряющую эссенцию можно использовать для создания $(l:advances/mystical_fertilizer)Мистического Удобрения$()."
+    }
+  ]
+}

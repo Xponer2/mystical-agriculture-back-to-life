@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento Sem Dano de Queda",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:no_fall_damage_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento Sem Dano de Queda é um aprimoramento de botas que nega todo o dano de queda para o usuário enquanto ele estiver com a armadura equipada."
+    }
+  ]
+}

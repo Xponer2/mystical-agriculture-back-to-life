@@ -1,0 +1,22 @@
+{
+  "name": "Алтарь наполнения",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_altar",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Алтарь наполнения - это ремёсленная структура, которая $(bold)обычно$() используется для создания семян из Mystical Agriculture. Структура состоит из 1 Алтаря Наполнения и 8 Пьедесталов Наполнения. $(br2)После того как вы выложите рецепт, вам нужно будет просто активировать алтарь с помощью сигнала редстоуна."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:infusion_altar",
+      "recipe2": "mysticalagriculture:infusion_pedestal"
+    },
+    {
+      "type": "text",
+      "text": "После установки Алтаря Наполнения в мире, места для установки пьедесталов будут указаны."
+    }
+  ]
+}

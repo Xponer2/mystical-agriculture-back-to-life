@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shapeless",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:item_exists",
+      "item": "patchouli:guide_book"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    }
+  ],
+  "result": {
+    "id": "patchouli:guide_book",
+    "components": {
+      "patchouli:book": "mysticalagriculture:guide"
+    }
+  }
+}

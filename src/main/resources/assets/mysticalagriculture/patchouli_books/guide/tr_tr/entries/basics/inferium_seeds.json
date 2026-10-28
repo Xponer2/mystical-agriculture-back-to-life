@@ -1,0 +1,17 @@
+{
+  "name": "Inferium Tohumu",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_seeds",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Inferium Tohumu, Inferium Özü toplamanın ana yollarından biridir. Herhangi bir tarım arazisinde yetiştirilebilirler, ancak en verimli oldukları yer $(l:basics/essence_farmland)Öz Tarım Arazileridir$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:inferium_seeds"
+    }
+  ]
+}

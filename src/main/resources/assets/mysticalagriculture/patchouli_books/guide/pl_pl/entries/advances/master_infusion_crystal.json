@@ -1,0 +1,17 @@
+{
+  "name": "Wzmocniony kryształ infuzji",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:master_infusion_crystal",
+  "sortnum": 51,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Wzmocniony kryształ infuzji ma nieskończoną wytrzymałość. Chcesz go mieć, wiemy o tym."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "recipe": "mysticalagriculture:master_infusion_crystal"
+    }
+  ]
+}

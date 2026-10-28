@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:dark_steel"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:dark_steel_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:dark_steel_essence"
+  }
+}

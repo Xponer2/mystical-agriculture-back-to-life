@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mysticalagriculture:soulstone_bricks_slab"
+    },
+    "type=double": {
+      "model": "mysticalagriculture:soulstone_bricks"
+    },
+    "type=top": {
+      "model": "mysticalagriculture:soulstone_bricks_slab_top"
+    }
+  }
+}

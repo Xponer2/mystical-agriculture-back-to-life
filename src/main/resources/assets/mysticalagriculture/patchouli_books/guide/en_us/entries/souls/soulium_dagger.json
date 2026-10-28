@@ -1,0 +1,27 @@
+{
+  "name": "Soulium Dagger",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 103,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Soulium Dagger is used to collect souls from mobs. These souls are collected using $(l:souls/soul_jars)Soul Jars$(). Souls are collected by killing mobs with the Soulium Dagger $(br2)The Soulium Dagger can be upgraded using an $(l:basics/infusion_altar)Infusion Altar$(), improving soul collection efficiency."
+    },
+    {
+      "type": "crafting",
+      "title": "Crafting",
+      "recipe": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:passive_soulium_dagger",
+      "text": "The Passive Attuned Soulium Dagger provides an additional +50 percent souls gathered from passive mobs."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:hostile_soulium_dagger",
+      "text": "The Hostile Attuned Soulium Dagger provides an additional +50 percent souls gathered from hostile mobs."
+    }
+  ]
+}

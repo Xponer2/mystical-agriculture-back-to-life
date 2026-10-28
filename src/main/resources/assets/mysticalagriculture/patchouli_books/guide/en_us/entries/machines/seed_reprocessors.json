@@ -1,0 +1,17 @@
+{
+  "name": "Seed Reprocessor",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:seed_reprocessor",
+  "sortnum": 202,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Seed Reprocessors are used to convert your excess seeds into their respective essences. They run off of solid fuels and have an internal power storage buffer."
+    },
+    {
+      "type": "crafting",
+      "title": "Crafting",
+      "recipe": "mysticalagriculture:seed_reprocessor"
+    }
+  ]
+}

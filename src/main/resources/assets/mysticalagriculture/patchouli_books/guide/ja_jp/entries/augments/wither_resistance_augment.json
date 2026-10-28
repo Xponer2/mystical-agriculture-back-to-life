@@ -1,0 +1,12 @@
+{
+  "name": "衰弱耐性のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:wither_resistance_augment",
+  "sortnum": 315,
+  "pages": [
+    {
+      "type": "text",
+      "text": "衰弱耐性のオーグメントは、着用者の衰弱の効果を防ぐ防具用のオーグメントです。"
+    }
+  ]
+}

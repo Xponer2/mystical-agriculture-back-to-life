@@ -1,0 +1,12 @@
+{
+  "name": "Blindheitsresistenz-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:blindness_resistance_augment",
+  "sortnum": 317,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Blindheitsresistenz-Augment ist ein Helm-Augment, das verhindert, dass der Träger den Blindheitseffekt erhält, solange er die Rüstung trägt."
+    }
+  ]
+}

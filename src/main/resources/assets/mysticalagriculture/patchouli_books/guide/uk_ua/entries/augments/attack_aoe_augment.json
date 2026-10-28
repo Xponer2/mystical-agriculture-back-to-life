@@ -1,0 +1,12 @@
+{
+  "name": "Область атаки (Розширення)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:attack_aoe_iii_augment",
+  "sortnum": 312,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Область атаки (Розширення) - це розширення для меча, яке збільшує радіус атаки меча на 6 блоків."
+    }
+  ]
+}

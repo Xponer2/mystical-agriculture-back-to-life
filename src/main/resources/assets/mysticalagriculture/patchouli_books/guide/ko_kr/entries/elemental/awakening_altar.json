@@ -1,0 +1,24 @@
+{
+  "name": "Awakening Altar",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakening_altar",
+  "sortnum": 153,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Awakening Altar is a crafting structure that is $(bold)usually$() used to create $(l:elemental/awakened_supremium)Awakened Supremium$(). The structure consists of 1 Infusion Altar, 4 Infusion Pedestals and 4 $(l:elemental/essence_vessel)Essence Vessels$(). $(br2)Once you have a recipe put in place, you just need to activate the altar with a Redstone signal."
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "recipe": "mysticalagriculture:awakening_altar",
+      "recipe2": "mysticalagriculture:awakening_pedestal"
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "recipe": "mysticalagriculture:essence_vessel",
+      "text": "Placing the Awakening Altar in world will show you where to place your pedestals and vessels."
+    }
+  ]
+}

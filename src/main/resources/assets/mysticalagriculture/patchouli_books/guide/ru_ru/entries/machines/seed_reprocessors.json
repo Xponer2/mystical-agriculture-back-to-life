@@ -1,0 +1,17 @@
+{
+  "name": "Переработчики семян",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:seed_reprocessor",
+  "sortnum": 202,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Переработчики семян используются для преобразования ваших лишних семян в их соответствующие эссенции. Они работают на твёрдом топливе и имеют внутренний буфер для хранения энергии."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:seed_reprocessor"
+    }
+  ]
+}

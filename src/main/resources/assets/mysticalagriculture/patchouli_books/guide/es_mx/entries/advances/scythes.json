@@ -1,0 +1,18 @@
+{
+  "name": "Guadañas",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_scythe",
+  "sortnum": 54,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Las guadañas se utilizan para cosechar grandes áreas de cultivos haciendo clic derecho. Cualquier cultivo completamente crecido dentro del área de efecto se cosechará sin ser arrancado. $(br2)Las guadañas también son un arma efectiva con un aumento del área de efecto de ataque. $(br2)Las guadañas de mayor nivel tienen un mayor área de efecto."
+    },
+    {
+      "type": "crafting",
+      "title": "Fabricación",
+      "recipe": "mysticalagriculture:diamond_scythe",
+      "recipe2": "mysticalagriculture:gear/inferium_scythe"
+    }
+  ]
+}

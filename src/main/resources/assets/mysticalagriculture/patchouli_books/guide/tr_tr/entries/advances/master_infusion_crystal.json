@@ -1,0 +1,17 @@
+{
+  "name": "Master İnfüzyon Kristali",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:master_infusion_crystal",
+  "sortnum": 51,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Master İnfüzyon Kristali sonsuz dayanıklılığa sahiptir. Bunu istiyorsun, biliyorum."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:master_infusion_crystal"
+    }
+  ]
+}

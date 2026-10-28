@@ -1,0 +1,13 @@
+{
+  "name": "Душиевая руда",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_ore",
+  "sortnum": 101,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:soulium_ore",
+      "text": "Душиевая руда $(bold)обычно$() появляется внутри жил из $(l:souls/soulstone)Камня Душ$() в Незере."
+    }
+  ]
+}

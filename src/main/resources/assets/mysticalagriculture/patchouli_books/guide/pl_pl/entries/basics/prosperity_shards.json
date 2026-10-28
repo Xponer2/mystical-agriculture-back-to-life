@@ -1,0 +1,12 @@
+{
+  "name": "Odłamki prosperytu",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_shard",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Odłamki prosperytu to ten drugi z dwóch podstawowych materiałów w Mystical Agriculture. Są używane do tworzenia magicznych odmian zwyczajnych materiałów. Odłamki prosperytu można $(bold)zazwyczaj$() otrzymać wykopując je z rud."
+    }
+  ]
+}

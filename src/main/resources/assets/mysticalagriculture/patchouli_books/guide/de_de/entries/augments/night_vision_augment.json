@@ -1,0 +1,12 @@
+{
+  "name": "Nachtsicht-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:night_vision_augment",
+  "sortnum": 302,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Nachtsicht-Augment ist ein Helm-Augment, das dem Träger Nachtsicht gewährt, während die Rüstung getragen wird."
+    }
+  ]
+}

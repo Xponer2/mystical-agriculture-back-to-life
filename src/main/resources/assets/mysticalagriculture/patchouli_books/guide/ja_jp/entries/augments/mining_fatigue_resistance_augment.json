@@ -1,0 +1,12 @@
+{
+  "name": "採掘速度低下耐性のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_fatigue_resistance_augment",
+  "sortnum": 314,
+  "pages": [
+    {
+      "type": "text",
+      "text": "採掘速度低下耐性のオーグメントは、着用者の採掘速度低下の効果を防ぐ防具用のオーグメントです。"
+    }
+  ]
+}

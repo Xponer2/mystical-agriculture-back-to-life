@@ -1,0 +1,12 @@
+{
+  "name": "Pó Cognitivo",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:cognizant_dust",
+  "sortnum": 151,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Pó Cognitivo é $(bold)geralmente$() obtido matando um Wither ou Dragão do Ender usando uma $(l:tinkering/essence_tools)Arma de Essência$() encantada com Iluminação Mística. $(br2)Níveis mais altos de Iluminação Mística aumentarão a quantidade de pó dropado ao matar."
+    }
+  ]
+}

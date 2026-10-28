@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Sorte",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:luck_iii_augment",
+  "sortnum": 322,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Sorte é um aprimoramento de armadura que melhora os drops de saque de pesca ou baús de saque para o usuário enquanto ele estiver com a armadura equipada."
+    }
+  ]
+}

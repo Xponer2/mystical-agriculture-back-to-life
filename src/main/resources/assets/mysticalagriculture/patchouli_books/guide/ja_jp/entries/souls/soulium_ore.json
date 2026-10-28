@@ -1,0 +1,13 @@
+{
+  "name": "ソウリウム鉱石",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_ore",
+  "sortnum": 101,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:soulium_ore",
+      "text": "ソウリウム鉱石は$(bold)通常$()、ネザーの$(l:souls/soulstone)ソウルストーン$()鉱脈の中に生成されます。"
+    }
+  ]
+}

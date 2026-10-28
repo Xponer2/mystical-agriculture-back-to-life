@@ -1,0 +1,17 @@
+{
+  "name": "Tohum Yeniden İşleyicileri",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:seed_reprocessor",
+  "sortnum": 202,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Tohum Yeniden İşleyicileri, fazla tohumlarınızı kendi özlerine dönüştürmek için kullanılır. Katı yakıtlarla çalışırlar ve dahili bir güç deposu arabelleğine sahiptirler."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:seed_reprocessor"
+    }
+  ]
+}

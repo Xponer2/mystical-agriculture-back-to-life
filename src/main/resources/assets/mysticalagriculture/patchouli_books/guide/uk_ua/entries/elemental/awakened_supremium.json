@@ -1,0 +1,12 @@
+{
+  "name": "Пробуджений супремій",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakened_supremium_essence",
+  "sortnum": 154,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пробуджений супремій - це матеріал високого рівня, який використовується для створення поліпшених версій Супремієвих предметів. $(br2)Пробуджений супремій $(bold)обычно$() створюється шляхом наповнення $(l:elemental/cognizant_dust)Пил Знань $() з Супремієвимм Блоком на $(l:elemental/awakening_altar)Вівтарі Пробудження$()."
+    }
+  ]
+}

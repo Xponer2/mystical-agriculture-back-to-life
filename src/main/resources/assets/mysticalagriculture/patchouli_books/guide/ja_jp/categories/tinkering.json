@@ -1,0 +1,6 @@
+{
+  "name": "装備品",
+  "description": "このセクションでは、エッセンスの道具／防具、および装着システムについて説明しています。$(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/upgrading-essence-gear)エッセンスの道具／防具の強化に関するより詳細な解説はここをクリック。$()",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 5
+}

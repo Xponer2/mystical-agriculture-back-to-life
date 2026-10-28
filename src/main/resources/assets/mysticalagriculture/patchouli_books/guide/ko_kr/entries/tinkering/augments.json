@@ -1,0 +1,18 @@
+{
+  "name": "부적",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:unattuned_augment",
+  "sortnum": 253,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:tinkering/essence_tools)에센스 도구$()와 $(l:tinkering/essence_armor)에센스 갑옷$()의 업그레이드입니다. $(l:tinkering/tinkering_table)땜장이 작업대$()를 사용하여 장비에 부적을 추가합니다. $(br2)각 부적에는 장비에 필요한 최소 장비 조각 티어를 지정하는 티어가 할당됩니다."
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "text": "본 가이드의 '부적' 섹션에서 각 부적별 작업을 확인할 수 있습니다.",
+      "recipe": "mysticalagriculture:unattuned_augment"
+    }
+  ]
+}

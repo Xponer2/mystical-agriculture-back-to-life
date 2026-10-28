@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Resistência a Lentidão",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slowness_resistance_augment",
+  "sortnum": 320,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Resistência a Lentidão é um aprimoramento de Calça que impede o usuário de receber o efeito de Lentidão enquanto estiver com a armadura equipada."
+    }
+  ]
+}

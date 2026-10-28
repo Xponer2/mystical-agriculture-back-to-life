@@ -1,0 +1,6 @@
+{
+  "name": "Сборка",
+  "description": "В этом разделе рассматриваются Инструменты/Броня из эссенции, а также система по сборке. $(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/upgrading-essence-gear)Нажмите здесь для получения подробного руководства по улучшению Инструментов/Брони из эссенции.$()",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 5
+}

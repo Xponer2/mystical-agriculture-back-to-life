@@ -1,0 +1,17 @@
+{
+  "name": "エンチャンター",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:enchanter",
+  "sortnum": 110,
+  "pages": [
+    {
+      "type": "text",
+      "text": "エンチャンターは、様々なクラフト素材と経験値のエッセンスを使用して道具や防具にエンチャントを付与できるブロックです。$(br2)エンチャンターは金床と同様、本と道具／防具の両方にエンチャントを付与することができます。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:enchanter"
+    }
+  ]
+}

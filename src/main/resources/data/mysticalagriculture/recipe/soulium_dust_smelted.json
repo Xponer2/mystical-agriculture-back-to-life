@@ -1,0 +1,11 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "tag": "c:ores/soulium"
+  },
+  "result": {
+    "id": "mysticalagriculture:soulium_dust"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

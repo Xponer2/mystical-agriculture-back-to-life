@@ -1,0 +1,17 @@
+{
+  "name": "灵魂提取器",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soul_extractor",
+  "sortnum": 203,
+  "pages": [
+    {
+      "type": "text",
+      "text": "灵魂提取器可以将生物掉落物转化为生物灵魂。他们消耗固体燃料，并有一个内部能量缓存区。$(br2)灵魂提取器为你多余的生物掉落物提供了一个去处，但是它们通常不如$(l:souls/soulium_dagger)离魂匕首$()高效。"
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:soul_extractor"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/upper_slab",
+  "textures": {
+    "bottom": "mysticalagriculture:block/soulstone_smooth",
+    "top": "mysticalagriculture:block/soulstone_smooth",
+    "side": "mysticalagriculture:block/soulstone_smooth_slab_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Schwäche-Resistenz-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:weakness_resistance_augment",
+  "sortnum": 321,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Schwäche-Resistenz-Augment ist ein Brustpanzer-Augment, das verhindert, dass der Träger den Schwächeeffekt erhält, solange er die Rüstung trägt."
+    }
+  ]
+}

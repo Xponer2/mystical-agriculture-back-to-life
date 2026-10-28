@@ -1,0 +1,18 @@
+{
+  "name": "Oraklar",
+  "category": "mysticalagriculture:advances",
+  "icon": "mysticalagriculture:inferium_sickle",
+  "sortnum": 53,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Oraklar, geniş alanlardaki bitki materyalinin hasadı/imhası için kullanılır. $(br2)Daha yüksek seviyedeki Oraklar daha geniş bir etki alanına sahip olacaktır."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "recipe": "mysticalagriculture:diamond_sickle",
+      "recipe2": "mysticalagriculture:gear/inferium_sickle"
+    }
+  ]
+}

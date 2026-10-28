@@ -1,0 +1,12 @@
+{
+  "name": "Essências Elementais",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:air_essence",
+  "sortnum": 150,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Essências de Ar, Terra, Água e Fogo podem ser usadas em receitas do $(l:elemental/awakening_altar)Altar do Despertar$() usando $(l:elemental/essence_vessel)Receptáculos de Essência$(). $(br2)Sementes elementais podem ser plantadas em $(l:basics/essence_farmland)Terra Arada de Essência de Nível 1$() para drops adicionais."
+    }
+  ]
+}

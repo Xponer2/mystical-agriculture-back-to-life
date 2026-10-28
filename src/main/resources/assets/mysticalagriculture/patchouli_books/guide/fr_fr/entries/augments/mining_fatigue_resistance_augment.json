@@ -1,0 +1,12 @@
+{
+  "name": "Mining Fatigue Resistance Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_fatigue_resistance_augment",
+  "sortnum": 314,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Mining Fatigue Resistance Augment is an armor augment that prevents the wearer from getting the Mining Fatigue effect while they have the armor equipped."
+    }
+  ]
+}

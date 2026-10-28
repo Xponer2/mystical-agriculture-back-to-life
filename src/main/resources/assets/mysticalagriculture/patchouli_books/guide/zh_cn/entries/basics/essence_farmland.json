@@ -1,0 +1,22 @@
+{
+  "name": "精华耕地",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_farmland",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "精华耕地以多种方式提高神秘农业作物的产出效率. 他们被列在之后的页面里. $(br2)你可以通过手持精华右键世界中的耕地或是将耕地与精华合成的方式创造精华耕地."
+    },
+    {
+      "type": "text",
+      "text": "$(li)作物在被种植在任意层级的精华耕地上时，有10%的几率掉落第二个种子. $$(li)作物被种在相应层级的精华耕地上时，有20%的几率掉落第二个种子. $(li)下级精华种子被种在更高层级的精华耕地上时会掉落更多的精华."
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:inferium_farmland",
+      "recipe2": "mysticalagriculture:inferium_farmland_till"
+    }
+  ]
+}

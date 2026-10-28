@@ -1,0 +1,12 @@
+{
+  "name": "Elemental Essences",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:air_essence",
+  "sortnum": 150,
+  "pages": [
+    {
+      "type": "text",
+      "text": "WIP $(br2)Air, Earth, Water and Fire essences can be used in $(l:elemental/awakening_altar)Awakening Altar$() recipes using $(l:elemental/essence_vessel)Essence Vessels$()."
+    }
+  ]
+}

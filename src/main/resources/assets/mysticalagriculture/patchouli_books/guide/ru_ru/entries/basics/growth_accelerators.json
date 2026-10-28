@@ -1,0 +1,18 @@
+{
+  "name": "Ускорители роста",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_growth_accelerator",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ускорители роста используются для увеличения скорости роста растений. Они применяют случайные такты роста на первое растение, расположенное над ними в указанном радиусе. $(br2)Вы можете суммировать несколько ускорителей роста любого уровня, пока растение находится в радиусе действия."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:inferium_growth_accelerator",
+      "text": "Радиус действия ускорителя роста зависит от того, установлен ли он непосредственно под пашней. $(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/speeding-up-crop-growth)Нажмите здесь, чтобы ознакомиться с подробным руководством по использованию Ускорителей Роста.$()"
+    }
+  ]
+}

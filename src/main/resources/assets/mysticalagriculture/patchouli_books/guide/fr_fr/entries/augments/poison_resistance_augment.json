@@ -1,0 +1,12 @@
+{
+  "name": "Poison Resistance Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:poison_resistance_augment",
+  "sortnum": 313,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Poison Resistance Augment is an armor augment that prevents the wearer from getting the poisoned while they have the armor equipped."
+    }
+  ]
+}

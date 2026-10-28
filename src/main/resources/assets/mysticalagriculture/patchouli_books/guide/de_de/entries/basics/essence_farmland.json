@@ -1,0 +1,22 @@
+{
+  "name": "Essenz-Ackerland",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_farmland",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Essenz-Ackerland erhöht die Effizienz der Pflanzen auf verschiedene Weise. Diese sind auf der folgenden Seite aufgeführt. $(br2)Essenz-Ackerland kann entweder durch Rechtsklick auf Ackerland mit einer Essenz oder durch Handwerk erstellt werden."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Pflanzen haben $(bold)normalerweise$() eine 10-prozentige Chance, einen zweiten Samen fallen zu lassen, wenn sie auf irgendeinem Essenz-Ackerland gepflanzt werden. $(li)Pflanzen haben eine zusätzliche 10-prozentige Chance, einen zweiten Samen fallen zu lassen, wenn sie auf dem entsprechenden Essenz-Ackerland gepflanzt werden. $(li)Inferiumsamen lassen mehr Essenzen fallen, wenn sie auf höherstufigem Essenz-Ackerland gepflanzt werden."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:inferium_farmland",
+      "recipe2": "mysticalagriculture:inferium_farmland_till"
+    }
+  ]
+}

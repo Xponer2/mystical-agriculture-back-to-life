@@ -1,0 +1,18 @@
+{
+  "name": "Seelenstein",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulstone",
+  "sortnum": 100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Seelenstein ist eine besondere Art von Stein, die im Nether vorkommt. Es entsteht in großen Adern auf allen Y-Ebenen. $(br2)Seelenstein ist ein dekorativer Block mit vielen Varianten. Es wird auch benötigt, um $(l:souls/witherproof_blocks)Witherfeste Blöcke$() herzustellen."
+    },
+    {
+      "type": "smelting",
+      "text": "Es kann auch zu Seelenstaub geschmolzen werden, der ebenfalls viele Verwendungen hat.",
+      "recipe": "mysticalagriculture:soulstone_cobble",
+      "recipe2": "mysticalagriculture:soulstone_smooth"
+    }
+  ]
+}

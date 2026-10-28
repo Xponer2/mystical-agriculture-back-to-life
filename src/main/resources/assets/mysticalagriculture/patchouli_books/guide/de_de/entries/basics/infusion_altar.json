@@ -1,0 +1,22 @@
+{
+  "name": "Infusionsaltar",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:infusion_altar",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Der Infusionsaltar ist eine Handwerksstruktur, die $(bold)normalerweise$() verwendet wird, um Samen in Mystical Agriculture zu erstellen. Die Struktur besteht aus einem Infusionsaltar und 8 Infusionssockeln. $(br2)Sobald ein Rezept an Ort und Stelle ist, muss der Altar nur noch mit einem Zauberstab oder einem Redstonesignal aktiviert werden."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:infusion_altar",
+      "recipe2": "mysticalagriculture:infusion_pedestal"
+    },
+    {
+      "type": "text",
+      "text": "Das Platzieren des Infusionsaltars in der Welt zeigt, wo die Sockel platziert werden müssen. $(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/creating-seeds)Klicke hier für eine detaillierte Anleitung zur Verwendung des Infusionsaltars.$()"
+    }
+  ]
+}

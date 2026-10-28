@@ -1,0 +1,12 @@
+{
+  "name": "Solma Direnci Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:wither_resistance_augment",
+  "sortnum": 315,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Solma Direnci Güçlendirmesi, giyen kişinin zırhı takılıyken Solma etkisi almasını engelleyen bir zırh güçlendirmesidir."
+    }
+  ]
+}

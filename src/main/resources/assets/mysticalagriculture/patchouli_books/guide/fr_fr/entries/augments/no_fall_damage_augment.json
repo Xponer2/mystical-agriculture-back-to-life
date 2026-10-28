@@ -1,0 +1,12 @@
+{
+  "name": "No Fall Damage Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:no_fall_damage_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The No Fall Damage Augment is a boots augment that negates all fall damage for the wearer while they have the armor equipped."
+    }
+  ]
+}

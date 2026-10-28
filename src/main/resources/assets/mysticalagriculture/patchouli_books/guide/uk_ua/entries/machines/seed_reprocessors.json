@@ -1,0 +1,17 @@
+{
+  "name": "Переробники насіння",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:seed_reprocessor",
+  "sortnum": 202,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Переробники насіння використовуються для перетворення вашого зайвого насіння в їх відповідні есенції. Вони працюють на твердому паливі та мають внутрішній буфер для зберігання енергії."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:seed_reprocessor"
+    }
+  ]
+}

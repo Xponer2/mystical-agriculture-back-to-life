@@ -1,0 +1,17 @@
+{
+  "name": "Mesa de Modificações",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:tinkering_table",
+  "sortnum": 252,
+  "pages": [
+    {
+      "type": "text",
+      "text": "A Mesa de Modificações é usada para adicionar $(l:tinkering/augments)Aprimoramentos$() a $(l:tinkering/essence_tools)Ferramentas de Essência$() e $(l:tinkering/essence_armor)Armaduras de Essência$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:tinkering_table"
+    }
+  ]
+}

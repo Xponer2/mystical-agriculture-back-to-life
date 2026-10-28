@@ -1,0 +1,12 @@
+{
+  "name": "体力増強のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:health_boost_v_augment",
+  "sortnum": 301,
+  "pages": [
+    {
+      "type": "text",
+      "text": "体力増強のオーグメントは、着用者の体力をハート2-10個分増加させる防具用のオーグメントです。"
+    }
+  ]
+}

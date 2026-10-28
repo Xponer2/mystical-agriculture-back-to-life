@@ -1,0 +1,23 @@
+{
+  "type": "mysticalagriculture:soulium_spawner",
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:squid"
+    }
+  ],
+  "input": {
+    "item": "mysticalagriculture:squid_essence",
+    "count": 12
+  },
+  "entities": [
+    {
+      "entity": "minecraft:squid",
+      "weight": 9
+    },
+    {
+      "entity": "minecraft:glow_squid",
+      "weight": 1
+    }
+  ]
+}

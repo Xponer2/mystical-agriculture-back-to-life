@@ -1,0 +1,12 @@
+{
+  "name": "Stärke-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:strength_iii_augment",
+  "sortnum": 311,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Stärke-Augment ist ein Schwert-Augment, das die Menge an Schaden erhöht, die das Schwert um 5-20 verursacht."
+    }
+  ]
+}

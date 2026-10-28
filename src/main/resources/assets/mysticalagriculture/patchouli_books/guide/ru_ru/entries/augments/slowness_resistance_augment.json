@@ -1,0 +1,12 @@
+{
+  "name": "Сопротивление замедлению (Расширение)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:slowness_resistance_augment",
+  "sortnum": 320,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сопротивление замедлению (Расширение) - это расширение для поножей, которое не позволяет владельцу получить эффект замедления, пока надета броня."
+    }
+  ]
+}

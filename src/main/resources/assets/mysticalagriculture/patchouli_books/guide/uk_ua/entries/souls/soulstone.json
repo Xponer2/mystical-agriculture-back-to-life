@@ -1,0 +1,18 @@
+{
+  "name": "Камінь душ",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulstone",
+  "sortnum": 100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Камінь душ - це особливий вид каменю, який спауниться у Незері. Він генерується великими жилами на будь-якій висоті Y. $(br2)Камінь душ - це декоративний блок із безліччю варіацій. Він також потрібний для створення $(l:souls/witherproof_blocks)Візеростійких блоків$()."
+    },
+    {
+      "type": "smelting",
+      "text": "Його також можна переплавити в пил душ, який також має безліч застосувань.",
+      "recipe": "mysticalagriculture:soulstone_cobble",
+      "recipe2": "mysticalagriculture:soulstone_smooth"
+    }
+  ]
+}

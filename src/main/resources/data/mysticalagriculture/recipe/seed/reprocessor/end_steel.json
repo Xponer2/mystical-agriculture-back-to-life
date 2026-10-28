@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:end_steel"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:end_steel_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:end_steel_essence"
+  }
+}

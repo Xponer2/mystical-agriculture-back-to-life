@@ -1,0 +1,12 @@
+{
+  "name": "Emilim Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:absorption_v_augment",
+  "sortnum": 300,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Emilim Güçlendirmesi, kullanıcıya zırhı takılı olduğu sürece her 8 dakikada bir 2-10 Emilim kalbi veren bir zırh güçlendirmesidir."
+    }
+  ]
+}

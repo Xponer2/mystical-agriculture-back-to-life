@@ -1,0 +1,12 @@
+{
+  "name": "Aprimoramento de Resistência ao Fogo",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:fire_resistance_augment",
+  "sortnum": 309,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Aprimoramento de Resistência ao Fogo é um aprimoramento de armadura que concede Resistência ao Fogo ao usuário enquanto ele estiver com a armadura equipada."
+    }
+  ]
+}

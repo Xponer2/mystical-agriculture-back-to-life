@@ -1,0 +1,18 @@
+{
+  "name": "Soulstone",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulstone",
+  "sortnum": 100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Soulstone is a special kind of stone that spawns in the Nether. It generates in large veins at all Y levels. $(br2)Soulstone is a decorative block with many variants. It is also required to create $(l:souls/witherproof_blocks)Witherproof Blocks$()."
+    },
+    {
+      "type": "smelting",
+      "text": "It can also be smelted into Soul Dust, which has many uses as well.",
+      "recipe": "mysticalagriculture:soulstone_cobble",
+      "recipe2": "mysticalagriculture:soulstone_smooth"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ulepszenie absorpcji",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:absorption_v_augment",
+  "sortnum": 300,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenie absorpcji to ulepszenie do zbroi, które daje użytkownikowi 2-10 serduszek absorpcji co 8 minut."
+    }
+  ]
+}

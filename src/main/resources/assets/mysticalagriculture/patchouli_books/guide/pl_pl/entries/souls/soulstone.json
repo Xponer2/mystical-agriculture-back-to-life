@@ -1,0 +1,18 @@
+{
+  "name": "Kamień dusz",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulstone",
+  "sortnum": 100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Kamień dusz to wyjątkowy rodzaj kamienia, który można znaleźć w Netherze. Występuje w dużych złożach na każdym poziomie Y. $(br2)Kamień dusz jest blokiem dekoracyjnym z wieloma odmianami. Jest również wymagany do wytworzenia $(l:souls/witherproof_blocks)Witheroodpornych bloków$()."
+    },
+    {
+      "type": "smelting",
+      "text": "Może być także przepalony na pył dusz, który również ma wiele zastosowań.",
+      "recipe": "mysticalagriculture:soulstone_cobble",
+      "recipe2": "mysticalagriculture:soulstone_smooth"
+    }
+  ]
+}

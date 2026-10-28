@@ -1,0 +1,12 @@
+{
+  "name": "Essência de Inferium",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_essence",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "A Essência de Inferium é um dos dois materiais básicos no Mystical Agriculture. É usada na Criação de praticamente tudo no mod. Você pode $(bold)geralmente$() obter Essência de Inferium matando criaturas hostis ou pacíficas, minerando-a do chão ou cultivando-a."
+    }
+  ]
+}

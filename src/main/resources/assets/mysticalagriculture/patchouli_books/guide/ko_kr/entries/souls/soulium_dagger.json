@@ -1,0 +1,27 @@
+{
+  "name": "소울륨 단검",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:soulium_dagger",
+  "sortnum": 103,
+  "pages": [
+    {
+      "type": "text",
+      "text": "소울륨 단검은 몹으로부터 영혼을 모으는 데 사용됩니다. 이 영혼들은 $(l:souls/soul_jars)영혼 항아리$()를 사용하여 수집됩니다. 영혼은 소울륨 단검으로 몹을 죽임으로써 수집됩니다. $(br2)영혼 단검은 평화로운 생명체로부터 50%% 이상의 영혼을 부여합니다."
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "recipe": "mysticalagriculture:soulium_dagger"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:passive_soulium_dagger",
+      "text": "The Passive Attuned Soulium Dagger provides an additional +50 percent souls gathered from passive mobs."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalagriculture:hostile_soulium_dagger",
+      "text": "The Hostile Attuned Soulium Dagger provides an additional +50 percent souls gathered from hostile mobs."
+    }
+  ]
+}

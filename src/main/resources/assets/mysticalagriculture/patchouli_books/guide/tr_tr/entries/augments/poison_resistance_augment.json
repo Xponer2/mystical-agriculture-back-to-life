@@ -1,0 +1,12 @@
+{
+  "name": "Zehir Direnci Güçlendirmesi",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:poison_resistance_augment",
+  "sortnum": 313,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Zehir Direnci Güçlendirmesi, giyen kişinin zırhı takılıyken zehirlenmesini önleyen bir zırh güçlendirmesidir."
+    }
+  ]
+}

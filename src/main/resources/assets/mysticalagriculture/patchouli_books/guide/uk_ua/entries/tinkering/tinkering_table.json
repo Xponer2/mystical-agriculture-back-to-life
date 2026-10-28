@@ -1,0 +1,17 @@
+{
+  "name": "Складальний стіл",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:tinkering_table",
+  "sortnum": 252,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Складальний стіл використовується для додавання $(l:tinkering/augments)Розширень$() в $(l:tinkering/essence_tools)Інструменти з есенції$() і $(l:tinkering/essence_armor)Броню з есенції$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:tinkering_table"
+    }
+  ]
+}

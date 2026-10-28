@@ -1,0 +1,18 @@
+{
+  "name": "Kaynak Mahsulleri",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_seed_base",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Kaynak Mahsulleri, Mystical Agriculture'ı bu kadar harika yapan şeyin kalbi ve ruhudur. Bununla birlikte, kaynak mahsullerin dikkat edilmesi gereken bazı özel nitelikleri vardır. $(br2)$(li)Kaynak Mahsulleri Kemik Tozu kullanılarak büyütülemez. $(li)Kaynak Mahsulleri, $(l:basics/essence_farmland)Öz Tarım Arazilerine$() ekilmediği sürece ikinci bir tohum bırakmaz."
+    },
+    {
+      "type": "crafting",
+      "title": "Üretim",
+      "text": "Kaynak Mahsulleri $(bold)genellikle$() bir $(l:basics/infusion_altar)İnfüzyon Sunağı$() kullanılarak oluşturulur.",
+      "recipe": "mysticalagriculture:prosperity_seed_base"
+    }
+  ]
+}

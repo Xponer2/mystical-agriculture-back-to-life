@@ -1,0 +1,17 @@
+{
+  "name": "Regador",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Regadores são usados para acelerar o crescimento das colheitas usando trabalho manual*. Para encher um, simplesmente clique com o botão direito em uma fonte de Água."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

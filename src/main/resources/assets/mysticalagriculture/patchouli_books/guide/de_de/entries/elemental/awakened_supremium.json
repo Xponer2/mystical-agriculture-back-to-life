@@ -1,0 +1,12 @@
+{
+  "name": "Erwecktes Supremium",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakened_supremium_essence",
+  "sortnum": 154,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Erwecktes Supremium ist ein hochstufiges Handwerksmaterial, das zur Erstellung verbesserter Versionen vieler Supremium-Gegenstände verwendet wird. $(br2)Erwecktes Supremium wird $(bold)normalerweise$() durch die Infusion von $(l:elemental/cognizant_dust)Erkenntnisstaub$() mit einem Supremiumblock unter Verwendung eines $(l:elemental/awakening_altar)Erweckungsaltars$() erstellt."
+    }
+  ]
+}

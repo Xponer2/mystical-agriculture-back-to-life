@@ -1,0 +1,17 @@
+{
+  "name": "经验胶囊",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:experience_capsule",
+  "sortnum": 106,
+  "pages": [
+    {
+      "type": "text",
+      "text": "经验胶囊可以收集经验以便合成经验种子。$(br2)为了收集经验，只需要在物品栏持有经验胶囊然后捡起一些经验球。"
+    },
+    {
+      "type": "crafting",
+      "title": "合成",
+      "recipe": "mysticalagriculture:experience_capsule"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de ADE de minería",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_aoe_iv_augment",
+  "sortnum": 307,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de ADE de minería es un aumento de herramienta que aumenta el área en la que la herramienta rompe bloques, hasta 9x9. Agacharse mientras se rompe un bloque anulará el área de efcto. $(br2)Este efecto se puede anular manteniendo presionada la tecla shift."
+    }
+  ]
+}

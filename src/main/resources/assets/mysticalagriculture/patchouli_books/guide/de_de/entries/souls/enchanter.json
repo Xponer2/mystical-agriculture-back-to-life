@@ -1,0 +1,17 @@
+{
+  "name": "Verzauberer",
+  "category": "mysticalagriculture:souls",
+  "icon": "mysticalagriculture:enchanter",
+  "sortnum": 110,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Der Verzauberer ist ein Block, der es ermöglicht, Werkzeuge und Rüstungen mit verschiedenen Handwerksmaterialien und Erfahrungsessenz zu verzaubern. $(br2)Der Verzauberer kann Verzauberungen sowohl auf Bücher als auch auf Werkzeuge/Rüstungen anwenden, ähnlich wie ein Amboss."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:enchanter"
+    }
+  ]
+}

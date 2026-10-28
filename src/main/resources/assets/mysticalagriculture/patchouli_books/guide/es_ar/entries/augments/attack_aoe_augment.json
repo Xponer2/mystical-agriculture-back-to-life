@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de ADE de ataque",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:attack_aoe_iii_augment",
+  "sortnum": 312,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de ADE de ataque es un aumento de espada que aumenta el radio de ataque de la espada hasta 6 bloques."
+    }
+  ]
+}

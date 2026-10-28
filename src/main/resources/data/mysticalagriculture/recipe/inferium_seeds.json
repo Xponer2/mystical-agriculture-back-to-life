@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "transfer_components": true,
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    "S": {
+      "item": "minecraft:wheat_seeds"
+    }
+  },
+  "result": {
+    "id": "mysticalagriculture:inferium_seeds"
+  }
+}

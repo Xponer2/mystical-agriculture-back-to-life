@@ -1,0 +1,12 @@
+{
+  "name": "Авто-підйом (Розширення)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:step_assist_augment",
+  "sortnum": 310,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Авто-підйом (Розширення) - це розширення для наголінників або чоботів, що дозволяє власнику підніматися на висоту 1 блока без стрибка, доки одягнена броня"
+    }
+  ]
+}

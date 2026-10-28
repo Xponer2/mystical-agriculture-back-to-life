@@ -1,0 +1,17 @@
+{
+  "name": "エッセンスの道具",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:inferium_pickaxe",
+  "sortnum": 250,
+  "pages": [
+    {
+      "type": "text",
+      "text": "ダイヤモンドの道具をエッセンスで強化すると、耐久値と採掘速度が上昇します。また、$(l:tinkering/augments)オーグメント$()を装着できるようになります。$(br2)エッセンスの道具は、対応するエッセンスのインゴットを使用して金床で修理することができます。また、これらの道具にはそれぞれ1つのオーグメントスロットがあります。"
+    },
+    {
+      "type": "crafting",
+      "title": "クラフト",
+      "recipe": "mysticalagriculture:gear/inferium_pickaxe"
+    }
+  ]
+}

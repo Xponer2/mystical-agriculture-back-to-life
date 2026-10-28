@@ -1,0 +1,17 @@
+{
+  "name": "Basteltisch",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:tinkering_table",
+  "sortnum": 252,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Der Basteltisch wird verwendet, um $(l:tinkering/augments)Augments$() zu $(l:tinkering/essence_tools)Essenzwerkzeugen$() und $(l:tinkering/essence_armor)Essenzrüstungen$() hinzuzufügen."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:tinkering_table"
+    }
+  ]
+}

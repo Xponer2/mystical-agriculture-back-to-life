@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de resistencia al hambre",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:hunger_resistance_augment",
+  "sortnum": 318,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de resistencia al hambre es un aumento de casco que evita que el usuario obtenga el efecto de hambre mientras tiene la armadura equipada."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Abbauermüdungsresistenz-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_fatigue_resistance_augment",
+  "sortnum": 314,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Abbauermüdungsresistenz-Augment ist ein Rüstungs-Augment, das verhindert, dass der Träger den Effekt der Abbauermüdung erhält, solange er die Rüstung trägt."
+    }
+  ]
+}

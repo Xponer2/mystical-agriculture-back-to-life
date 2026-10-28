@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "mysticalagriculture:crop_enabled",
+      "crop": "mysticalagriculture:mystical_flower"
+    }
+  ],
+  "type": "mysticalagriculture:reprocessor",
+  "input": {
+    "item": "mysticalagriculture:mystical_flower_seeds"
+  },
+  "result": {
+    "count": 2,
+    "id": "mysticalagriculture:mystical_flower_essence"
+  }
+}

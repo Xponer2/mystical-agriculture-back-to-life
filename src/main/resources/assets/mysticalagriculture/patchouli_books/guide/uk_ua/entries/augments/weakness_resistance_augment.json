@@ -1,0 +1,12 @@
+{
+  "name": "Weakness Resistance Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:weakness_resistance_augment",
+  "sortnum": 321,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Weakness Resistance Augment is a chestplate augment that prevents the wearer from getting the Weakness effect while they have the armor equipped."
+    }
+  ]
+}

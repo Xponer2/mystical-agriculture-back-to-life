@@ -1,0 +1,12 @@
+{
+  "name": "范围挖掘升级",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_aoe_iv_augment",
+  "sortnum": 307,
+  "pages": [
+    {
+      "type": "text",
+      "text": "范围挖掘升级是一种挖掘工具升级，会提升工具挖掘的范围，最大可达9x9. 潜行时破坏方块会无视这个范围效果."
+    }
+  ]
+}

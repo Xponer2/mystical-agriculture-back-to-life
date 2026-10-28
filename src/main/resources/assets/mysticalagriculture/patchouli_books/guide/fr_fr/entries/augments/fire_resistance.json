@@ -1,0 +1,12 @@
+{
+  "name": "Fire Resistance Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:fire_resistance_augment",
+  "sortnum": 309,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Fire Resistance Augment is an armor augment that grants the wearer Fire Resistance while they have the armor equipped."
+    }
+  ]
+}

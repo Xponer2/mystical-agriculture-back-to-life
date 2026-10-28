@@ -1,0 +1,18 @@
+{
+  "name": "Ulepszenia",
+  "category": "mysticalagriculture:tinkering",
+  "icon": "mysticalagriculture:unattuned_augment",
+  "sortnum": 253,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ulepszenia można nakładać na $(l:tinkering/essence_tools)narzędzia z esencji$() i $(l:tinkering/essence_armor)zbroje z esencji$() z pomocą $(l:tinkering/tinkering_table)stołu do majsterkowania$(). $(br2)Każde ulepszenie ma przypisany poziom, oznaczający minimalne poziom przedmiotu, na jaki może być nałożone."
+    },
+    {
+      "type": "crafting",
+      "title": "Konstruowanie",
+      "text": "Możesz zobaczyć co robi każde ulepszenie w sekcji \"Ulepszenia\" tej książki.",
+      "recipe": "mysticalagriculture:unattuned_augment"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Absorption Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:absorption_v_augment",
+  "sortnum": 300,
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Absorption Augment is an armor augment that grants the user 2-10 Absorption hearts every 8 minutes while they have the armor equipped."
+    }
+  ]
+}

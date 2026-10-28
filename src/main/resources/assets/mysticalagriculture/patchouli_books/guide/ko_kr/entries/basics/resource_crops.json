@@ -1,0 +1,18 @@
+{
+  "name": "자원 작물",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:prosperity_seed_base",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "자원 작물은 신비농업을 위대하게 만드는 것의 핵심입니다. 하지만, 주목해야 할 자원 작물에는 몇 가지 특별한 속성이 있습니다. $(br2)$(li)뼛가루를 사용하여 자원 작물을 재배할 수 없습니다. $(li)자원 작물은 $(l:basics/essence_farmland)에센스 경작지$()에 심지 않는 한 두 번째 씨앗을 떨어뜨리지 않습니다."
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "text": "자원 작물은 $(bold)일반적으로$() $(l:basics/infusion_altar)주입 제단$()을 사용하여 생성됩니다.",
+      "recipe": "mysticalagriculture:prosperity_seed_base"
+    }
+  ]
+}

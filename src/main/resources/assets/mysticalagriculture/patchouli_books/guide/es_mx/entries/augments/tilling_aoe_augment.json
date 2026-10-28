@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de ADE de labranza",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:tilling_aoe_iv_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de ADE de labranza es un aumento de azada que aumenta el área en la que la azada crea bloques de tierra de cultivo, hasta 9x9. El área de efecto se activa al agacharse mientras se usa la azada. $(br2)Este efecto se puede anular manteniendo presionada la tecla shift."
+    }
+  ]
+}

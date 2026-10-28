@@ -1,0 +1,24 @@
+{
+  "name": "Altar do Despertar",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakening_altar",
+  "sortnum": 153,
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Altar do Despertar é uma estrutura de criação que é $(bold)geralmente$() usada para criar $(l:elemental/awakened_supremium)Supremium Desperto$(). A estrutura consiste em 1 Altar de Infusão, 4 Pedestais de Infusão e 4 $(l:elemental/essence_vessel)Receptáculos de Essência$(). $(br2)Assim que você tiver uma receita no lugar, basta ativar o altar com um sinal de Redstone."
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:awakening_altar",
+      "recipe2": "mysticalagriculture:awakening_pedestal"
+    },
+    {
+      "type": "crafting",
+      "title": "Criação",
+      "recipe": "mysticalagriculture:essence_vessel",
+      "text": "Colocar o Altar do Despertar no mundo mostrará onde colocar seus pedestais e receptáculos."
+    }
+  ]
+}

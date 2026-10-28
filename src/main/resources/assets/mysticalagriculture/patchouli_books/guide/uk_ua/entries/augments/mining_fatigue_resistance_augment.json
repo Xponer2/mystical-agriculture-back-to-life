@@ -1,0 +1,12 @@
+{
+  "name": "Стійкісь від втоми (Розширення)",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:mining_fatigue_resistance_augment",
+  "sortnum": 314,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Стійкісь від втоми (Розширення) - це розширення для броні, яке не дозволяє власнику отримати ефект стомлення, доки одягнена броня."
+    }
+  ]
+}

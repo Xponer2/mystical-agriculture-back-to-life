@@ -1,0 +1,12 @@
+{
+  "name": "Feuerresistenz-Augment",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:fire_resistance_augment",
+  "sortnum": 309,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Das Feuerresistenz-Augment ist ein Rüstungs-Augment, das dem Träger Feuerresistenz gewährt, solange er die Rüstung trägt."
+    }
+  ]
+}

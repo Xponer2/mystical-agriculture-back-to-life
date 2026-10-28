@@ -1,0 +1,24 @@
+{
+  "name": "Вівтар пробудження",
+  "category": "mysticalagriculture:elemental",
+  "icon": "mysticalagriculture:awakening_altar",
+  "sortnum": 153,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Вівтар пробудження - це структура, яка $(bold)зазвичай$() використовується для створення $(l:elemental/awakened_supremium)Пробудженого Супремія$(). Структура складається з одного вівтаря пробудження, 4-ох п'ядесталів пробудження і 4-ох $(l:elemental/essence_vessel)посудин для есенції$(). $(br2)Як тільки Ви розкладете рецепт, потрібно буде просто активувати вівтар сигналом Редстоуна."
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:awakening_altar",
+      "recipe2": "mysticalagriculture:awakening_pedestal"
+    },
+    {
+      "type": "crafting",
+      "title": "Створіння",
+      "recipe": "mysticalagriculture:essence_vessel",
+      "text": "Поставивши Вівтар пробудження у світі, Вам буде вказано куди ставити п'єдестали та посудини."
+    }
+  ]
+}

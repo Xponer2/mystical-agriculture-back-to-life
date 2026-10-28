@@ -1,0 +1,12 @@
+{
+  "name": "暗視のオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:night_vision_augment",
+  "sortnum": 302,
+  "pages": [
+    {
+      "type": "text",
+      "text": "暗視のオーグメントは、着用者に暗視を付与するヘルメット用のオーグメントです。"
+    }
+  ]
+}

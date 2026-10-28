@@ -1,0 +1,12 @@
+{
+  "name": "Aumento de resistencia al veneno",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:poison_resistance_augment",
+  "sortnum": 313,
+  "pages": [
+    {
+      "type": "text",
+      "text": "El aumento de resistencia al veneno es un aumento de armadura que otorga al usuario resistencia al veneno mientras tiene la armadura equipada."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Извлекатель душ",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:soul_extractor",
+  "sortnum": 203,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Извлекатели душ используются для преобразования дропа мобов в души мобов. Они работают на твёрдом топливе и имеют внутренний буфер для хранения энергии. $(br2)Извлекатель душ позволяет использовать дополнительный дроп с мобов, который у вас может быть, но обычно не так эффективен, в сравнении с $(l:souls/soulium_dagger)Душиевым Кинжалом$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Создание",
+      "recipe": "mysticalagriculture:soul_extractor"
+    }
+  ]
+}

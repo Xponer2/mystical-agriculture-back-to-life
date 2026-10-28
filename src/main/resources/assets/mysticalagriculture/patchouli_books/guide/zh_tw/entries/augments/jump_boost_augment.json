@@ -1,0 +1,12 @@
+{
+  "name": "跳躍提升升級",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:jump_boost_iii_augment",
+  "sortnum": 305,
+  "pages": [
+    {
+      "type": "text",
+      "text": "跳躍提升升級是一種靴子升級，裝備有這種升級的靴子，會讓穿戴者跳得更高."
+    }
+  ]
+}

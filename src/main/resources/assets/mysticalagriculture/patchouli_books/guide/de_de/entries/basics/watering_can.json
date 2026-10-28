@@ -1,0 +1,17 @@
+{
+  "name": "Gießkanne",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:watering_can",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Gießkannen werden verwendet, um das Pflanzenwachstum durch manuelle* Arbeit zu beschleunigen. Um eine Gießkanne zu füllen, einfach mit Rechtsklick auf einen Wasserquellblock klicken."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:watering_can"
+    }
+  ]
+}

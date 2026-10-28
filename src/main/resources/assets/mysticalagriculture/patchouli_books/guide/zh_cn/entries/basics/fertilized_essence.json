@@ -1,0 +1,12 @@
+{
+  "name": "肥料精华",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:fertilized_essence",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "肥料精华$(bold)通常$()从所有$(l:basics/resource_crops)资源作物$()中掉落, 除了$(bold)下级精华$(). 它的工作原理与骨粉相同, 但也同样作用于 $(l:basics/resource_crops)资源作物$()! $(br2)肥料精华也可以用来更高效地合成$(l:advances/mystical_fertilizer)魔法肥料$()."
+    }
+  ]
+}

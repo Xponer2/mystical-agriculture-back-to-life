@@ -1,0 +1,18 @@
+{
+  "name": "성장 가속기",
+  "category": "mysticalagriculture:basics",
+  "icon": "mysticalagriculture:inferium_growth_accelerator",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "text",
+      "text": "성장 가속기는 식물 성장 속도를 높이는 데 사용됩니다. 그들은 지정된 범위 내에서 자신들 위에 배치된 첫 번째 식물에 무작위 성장 눈금을 적용합니다. 식물이 범위 내에 있는 한 모든 티어의 여러 성장 가속기를 스택으로 쌓을 수 있습니다."
+    },
+    {
+      "type": "crafting",
+      "title": "조합",
+      "recipe": "mysticalagriculture:inferium_growth_accelerator",
+      "text": "The range of the Growth Accelerator is based on it being placed underneath the farmland. $(br2)$(l:https://blakesmods.com/wiki/mysticalagriculture/guides/speeding-up-crop-growth)Click here for a detailed guide on using Growth Accelerators.$()"
+    }
+  ]
+}

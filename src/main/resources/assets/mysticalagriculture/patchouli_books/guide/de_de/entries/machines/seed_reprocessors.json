@@ -1,0 +1,17 @@
+{
+  "name": "Samenverarbeiter",
+  "category": "mysticalagriculture:machines",
+  "icon": "mysticalagriculture:seed_reprocessor",
+  "sortnum": 202,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Samenverarbeiter werden verwendet, um überschüssige Samen in ihre jeweiligen Essenzen umzuwandeln. Sie laufen mit festen Brennstoffen und haben einen internen Energiespeicher."
+    },
+    {
+      "type": "crafting",
+      "title": "Werkbank",
+      "recipe": "mysticalagriculture:seed_reprocessor"
+    }
+  ]
+}

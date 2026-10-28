@@ -1,0 +1,12 @@
+{
+  "name": "範囲耕うんのオーグメント",
+  "category": "mysticalagriculture:augments",
+  "icon": "mysticalagriculture:tilling_aoe_iv_augment",
+  "sortnum": 308,
+  "pages": [
+    {
+      "type": "text",
+      "text": "範囲耕うんのオーグメントは、クワが土を耕す範囲を最大9x9まで増加させるクワ用のオーグメントです。この効果はスニーク中にクワを使用したときのみ発動します。$(br2)効果範囲の中心はCtrl + 矢印キーを押すことで変更できます。"
+    }
+  ]
+}
