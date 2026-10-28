@@ -10,6 +10,7 @@ import net.minecraft.util.ActionResult;
 import net.minecraft.util.EnumActionResult;
 import net.minecraft.util.EnumHand;
 import net.minecraft.world.World;
+import io.github.xponer2.translator.util.Platform;
 
 public class ExperienceDropletItem extends BaseItem {
     public ExperienceDropletItem() {
@@ -30,14 +31,14 @@ public class ExperienceDropletItem extends BaseItem {
 
                 var orb = new EntityXPOrb(level, player.posX, player.posY, player.posZ, xp);
 
-                level.spawnEntity(orb);
+                Platform.addFreshEntity(level, orb);
 
                 used = stack.getCount();
             } else {
                 int xp = Utils.randInt(8, 12);
                 var orb = new EntityXPOrb(level, player.posX, player.posY, player.posZ, xp);
 
-                level.spawnEntity(orb);
+                Platform.addFreshEntity(level, orb);
 
                 used = 1;
             }

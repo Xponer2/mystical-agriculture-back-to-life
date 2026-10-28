@@ -24,6 +24,7 @@ import net.minecraft.world.World;
 import io.github.xponer2.translator.util.ItemInteractionResult;
 import io.github.xponer2.translator.shape.CollisionContext;
 import io.github.xponer2.translator.shape.VoxelShape;
+import io.github.xponer2.translator.util.Platform;
 
 public class InfusionPedestalBlock extends BaseTileEntityBlock {
     public static final VoxelShape PEDESTAL_SHAPE = VoxelShapeBuilder.builder()
@@ -60,7 +61,7 @@ public class InfusionPedestalBlock extends BaseTileEntityBlock {
                 var item = new EntityItem(level, player.posX, player.posY, player.posZ, input);
 
                 item.setNoPickupDelay();
-                level.spawnEntity(item);
+                Platform.addFreshEntity(level, item);
             }
         }
 
@@ -103,6 +104,24 @@ public class InfusionPedestalBlock extends BaseTileEntityBlock {
     public void addCollisionBoxToList(IBlockState state, net.minecraft.world.World world, BlockPos pos, net.minecraft.util.math.AxisAlignedBB entityBox,
             java.util.List<net.minecraft.util.math.AxisAlignedBB> list, @javax.annotation.Nullable net.minecraft.entity.Entity entity, boolean isActualState) {
         io.github.xponer2.translator.shape.Shapes.addCollisionBoxes(this.getShape(state, world, pos, io.github.xponer2.translator.shape.CollisionContext.of(entity)), pos, entityBox, list);
+    }
+
+    @Override
+    @SuppressWarnings("deprecation")
+    public boolean isOpaqueCube(IBlockState state) {
+        return io.github.xponer2.translator.shape.Shapes.isFullBlock(() -> this.getShape(state, null, null, io.github.xponer2.translator.shape.CollisionContext.empty()));
+    }
+
+    @Override
+    @SuppressWarnings("deprecation")
+    public boolean isFullCube(IBlockState state) {
+        return this.isOpaqueCube(state);
+    }
+
+    @Override
+    @SuppressWarnings("deprecation")
+    public net.minecraft.block.state.BlockFaceShape getBlockFaceShape(IBlockAccess world, IBlockState state, BlockPos pos, net.minecraft.util.EnumFacing face) {
+        return this.isOpaqueCube(state) ? net.minecraft.block.state.BlockFaceShape.SOLID : net.minecraft.block.state.BlockFaceShape.UNDEFINED;
     }
 
     @Override

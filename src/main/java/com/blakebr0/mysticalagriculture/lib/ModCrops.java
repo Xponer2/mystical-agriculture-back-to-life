@@ -51,7 +51,8 @@ public final class ModCrops {
     public static final Crop ARMADILLO = new Crop(MysticalAgriculture.resource("armadillo"), CropTier.TWO, CropType.MOB, LazyIngredient.item("mysticalagriculture:soul_jar", MobSoulUtils.makeComponentMap(ModMobSoulTypes.ARMADILLO)));
 
     public static final Crop IRON = new Crop(MysticalAgriculture.resource("iron"), CropTier.THREE, CropType.RESOURCE, LazyIngredient.tag("c:ingots/iron"));
-    public static final Crop COPPER = new Crop(MysticalAgriculture.resource("copper"), CropTier.THREE, CropType.RESOURCE, LazyIngredient.item("minecraft:copper_ingot"));
+    // 1.12.2: any copper ingot (the Translator's or another mod's), vanilla 1.12.2 has none
+    public static final Crop COPPER = new Crop(MysticalAgriculture.resource("copper"), CropTier.THREE, CropType.RESOURCE, LazyIngredient.tag("c:ingots/copper"));
     public static final Crop NETHER_QUARTZ = new Crop(MysticalAgriculture.resource("nether_quartz"), CropTier.THREE, CropType.RESOURCE, LazyIngredient.tag("c:gems/quartz"));
     public static final Crop GLOWSTONE = new Crop(MysticalAgriculture.resource("glowstone"), CropTier.THREE, CropType.RESOURCE, LazyIngredient.tag("c:dusts/glowstone"));
     public static final Crop REDSTONE = new Crop(MysticalAgriculture.resource("redstone"), CropTier.THREE, CropType.RESOURCE, LazyIngredient.tag("c:dusts/redstone"));
@@ -219,15 +220,15 @@ public final class ModCrops {
         registry.register(DIRT);
         registry.register(WOOD);
         registry.register(ICE);
-        registry.register(DEEPSLATE);
+        registry.register(notOn1122(DEEPSLATE));
 
         registry.register(NATURE);
         registry.register(DYE);
         registry.register(NETHER);
         registry.register(COAL);
         registry.register(CORAL);
-        registry.register(HONEY);
-        registry.register(AMETHYST);
+        registry.register(notOn1122(HONEY));
+        registry.register(notOn1122(AMETHYST));
         registry.register(PIG);
         registry.register(CHICKEN);
         registry.register(COW);
@@ -235,8 +236,8 @@ public final class ModCrops {
         registry.register(SQUID);
         registry.register(FISH);
         registry.register(SLIME);
-        registry.register(TURTLE);
-        registry.register(ARMADILLO);
+        registry.register(notOn1122(TURTLE));
+        registry.register(notOn1122(ARMADILLO));
 
         registry.register(IRON);
         registry.register(COPPER);
@@ -245,26 +246,26 @@ public final class ModCrops {
         registry.register(REDSTONE);
         registry.register(OBSIDIAN);
         registry.register(PRISMARINE);
-        registry.register(SCULK);
+        registry.register(notOn1122(SCULK));
         registry.register(ZOMBIE);
         registry.register(SKELETON);
         registry.register(CREEPER);
         registry.register(SPIDER);
-        registry.register(PHANTOM);
+        registry.register(notOn1122(PHANTOM));
         registry.register(RABBIT);
 
         registry.register(GOLD);
         registry.register(LAPIS_LAZULI);
         registry.register(END);
         registry.register(EXPERIENCE);
-        registry.register(BREEZE);
+        registry.register(notOn1122(BREEZE));
         registry.register(BLAZE);
         registry.register(GHAST);
         registry.register(ENDERMAN);
 
         registry.register(DIAMOND);
         registry.register(EMERALD);
-        registry.register(NETHERITE);
+        registry.register(notOn1122(NETHERITE));
         registry.register(WITHER_SKELETON);
 
         // COMMON
@@ -396,5 +397,11 @@ public final class ModCrops {
         
         boolean enabled = Arrays.stream(mods).anyMatch(ModList.get()::isLoaded);
         return crop.setEnabled(enabled);
+    }
+
+    // 1.12.2: crops whose seeds can't be made (the mob, the item or the material is missing in 1.12.2: netherite,
+    // sculk, honey, turtles, armadillos, phantoms, breezes; deepslate and amethyst seeds need deepslate and amethyst)
+    private static Crop notOn1122(Crop crop) {
+        return crop.setEnabled(false);
     }
 }

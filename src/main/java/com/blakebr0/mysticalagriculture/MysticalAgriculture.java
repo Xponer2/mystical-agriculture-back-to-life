@@ -83,6 +83,10 @@ public final class MysticalAgriculture {
 		MinecraftForge.EVENT_BUS.register(RecipeIngredientCache.INSTANCE);
 		// 1.21 TagsUpdatedEvent (SERVER_DATA_LOAD): recipes and tags are loaded in Cucumber's post init
 		RecipeLoader.onLoaded(manager -> RecipeIngredientCache.INSTANCE.onRecipesLoaded());
+
+		if (event.getSide().isClient()) {
+			com.blakebr0.mysticalagriculture.client.ModClient.preInit();
+		}
 	}
 
 	@Mod.EventHandler
@@ -93,6 +97,9 @@ public final class MysticalAgriculture {
 		MobSoulTypeRegistry.getInstance().onCommonSetup();
 
 		ModWorldGenerator.register();
+		if (event.getSide().isClient()) {
+			com.blakebr0.mysticalagriculture.client.ModClient.init(event);
+		}
 
 		// 1.21 reload listeners: the data colors from the mod jars, the resource pack colors on the client
 		EssenceVesselColorManager.INSTANCE.load();

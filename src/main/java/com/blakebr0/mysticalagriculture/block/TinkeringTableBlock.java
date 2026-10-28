@@ -124,6 +124,24 @@ public class TinkeringTableBlock extends BaseTileEntityBlock {
     }
 
     @Override
+    @SuppressWarnings("deprecation")
+    public boolean isOpaqueCube(IBlockState state) {
+        return io.github.xponer2.translator.shape.Shapes.isFullBlock(() -> this.getShape(state, null, null, io.github.xponer2.translator.shape.CollisionContext.empty()));
+    }
+
+    @Override
+    @SuppressWarnings("deprecation")
+    public boolean isFullCube(IBlockState state) {
+        return this.isOpaqueCube(state);
+    }
+
+    @Override
+    @SuppressWarnings("deprecation")
+    public net.minecraft.block.state.BlockFaceShape getBlockFaceShape(IBlockAccess world, IBlockState state, BlockPos pos, net.minecraft.util.EnumFacing face) {
+        return this.isOpaqueCube(state) ? net.minecraft.block.state.BlockFaceShape.SOLID : net.minecraft.block.state.BlockFaceShape.UNDEFINED;
+    }
+
+    @Override
     public boolean onBlockActivated(net.minecraft.world.World world, BlockPos pos, IBlockState state, net.minecraft.entity.player.EntityPlayer player,
             net.minecraft.util.EnumHand hand, net.minecraft.util.EnumFacing facing, float hitX, float hitY, float hitZ) {
         var hit = io.github.xponer2.translator.util.Interactions.blockHit(pos, facing, hitX, hitY, hitZ);

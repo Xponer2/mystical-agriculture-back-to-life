@@ -374,7 +374,7 @@ public class SouliumSpawnerTileEntity extends BaseInventoryTileEntity implements
         if (attempts <= 0)
             return false;
 
-        this.world.spawnEntity(entity);
+        Platform.addFreshEntity(this.world, entity);
 
         return true;
     }

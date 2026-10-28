@@ -1,10 +1,10 @@
 package com.blakebr0.mysticalagriculture.api.machine;
 
+import io.github.xponer2.translator.items.ItemStackHandler;
 import org.jetbrains.annotations.Nullable;
 
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.NonNullList;
-import net.minecraftforge.items.ItemStackHandler;
 
 /**
  * An implementation of {@link ItemStackHandler} for {@link IMachineUpgrade}s.

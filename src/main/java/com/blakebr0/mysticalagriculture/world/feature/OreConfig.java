@@ -34,7 +34,7 @@ public final class OreConfig {
         for (var element : config.getAsJsonArray("targets")) {
             var target = element.getAsJsonObject();
             var stateName = target.getAsJsonObject("state").get("Name").getAsString();
-            var block = ForgeRegistries.BLOCKS.getValue(new ResourceLocation(stateName));
+            var block = ForgeRegistries.BLOCKS.getValue(io.github.xponer2.translator.util.ResourceLocations.parse(stateName));
             if (block == null || block == Blocks.AIR) {
                 MysticalAgriculture.LOGGER.warn("World generation {}: unknown block {}", name, stateName);
                 continue;
@@ -68,7 +68,7 @@ public final class OreConfig {
                 return null;
             }
             case "minecraft:block_match": {
-                Block block = ForgeRegistries.BLOCKS.getValue(new ResourceLocation(json.get("block").getAsString()));
+                Block block = ForgeRegistries.BLOCKS.getValue(io.github.xponer2.translator.util.ResourceLocations.parse(json.get("block").getAsString()));
                 return block == null || block == Blocks.AIR ? null : BlockMatcher.forBlock(block);
             }
             default:

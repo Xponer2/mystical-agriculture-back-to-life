@@ -51,6 +51,13 @@ public class InfusedFarmlandBlock extends BlockFarmland implements IColored, IEs
         entity.fall(fallDistance, 1.0F);
     }
 
+    // 1.12.2: Block#canSustainPlant lets crops stand on vanilla farmland only (1.21: on any farm block)
+    @Override
+    public boolean canSustainPlant(IBlockState state, IBlockAccess world, BlockPos pos, net.minecraft.util.EnumFacing direction, net.minecraftforge.common.IPlantable plantable) {
+        var type = plantable.getPlantType(world, pos.offset(direction));
+        return type == net.minecraftforge.common.EnumPlantType.Crop || type == net.minecraftforge.common.EnumPlantType.Plains;
+    }
+
     @Override
     public boolean isFertile(World levelWorld, BlockPos pos) {
         IBlockAccess level = levelWorld;

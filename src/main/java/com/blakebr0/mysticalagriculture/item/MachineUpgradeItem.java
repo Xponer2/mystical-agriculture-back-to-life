@@ -18,6 +18,7 @@ import net.minecraft.util.EnumActionResult;
 import net.minecraft.util.text.ITextComponent;
 
 import io.github.xponer2.translator.util.UseOnContext;
+import io.github.xponer2.translator.util.Platform;
 import io.github.xponer2.translator.item.TooltipContext;
 
 public class MachineUpgradeItem extends BaseItem implements IMachineUpgrade, io.github.xponer2.translator.item.TooltipContext.HoverText {
@@ -42,7 +43,7 @@ public class MachineUpgradeItem extends BaseItem implements IMachineUpgrade, io.
             if (!remaining.isEmpty()) {
                 var item = new EntityItem(level, pos.getX(), pos.getY() + 1, pos.getZ(), remaining.copy());
 
-                level.spawnEntity(item);
+                Platform.addFreshEntity(level, item);
             }
 
             return EnumActionResult.SUCCESS;

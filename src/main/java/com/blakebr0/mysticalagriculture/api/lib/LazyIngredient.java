@@ -12,6 +12,7 @@ import net.minecraft.util.ResourceLocation;
 import io.github.xponer2.translator.tags.ItemTags;
 import io.github.xponer2.translator.util.BuiltInRegistries;
 import io.github.xponer2.translator.component.StackComponents;
+import io.github.xponer2.translator.util.ResourceLocations;
 
 public class LazyIngredient {
     public static final LazyIngredient EMPTY = new LazyIngredient(null, null, null) {
@@ -59,10 +60,10 @@ public class LazyIngredient {
     public Ingredient getIngredient() {
         if (this.ingredient == null) {
             if (this.isTag()) {
-                var tag = ItemTags.create(new ResourceLocation(this.id));
+                var tag = ItemTags.create(ResourceLocations.parse(this.id));
                 this.ingredient = Ingredients.of(tag);
             } else if (this.isItem()) {
-                var item = BuiltInRegistries.ITEM.get(new ResourceLocation(this.id));
+                var item = BuiltInRegistries.ITEM.get(ResourceLocations.parse(this.id));
                 if (item != Items.AIR) {
                     if (this.components == null || this.components.isEmpty()) {
                         this.ingredient = Ingredients.of(item);

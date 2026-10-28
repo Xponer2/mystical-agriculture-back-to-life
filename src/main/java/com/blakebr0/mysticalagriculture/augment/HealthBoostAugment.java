@@ -15,6 +15,7 @@ import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.world.World;
 import io.github.xponer2.translator.entity.AttributeInstance;
+import io.github.xponer2.translator.util.ResourceLocations;
 
 public class HealthBoostAugment extends Augment {
     private static final ResourceLocation ATTRIBUTE_ID = MysticalAgriculture.resource("health_boost_augment");
@@ -42,7 +43,7 @@ public class HealthBoostAugment extends Augment {
                 health.removeModifier(modifier);
 
                 cache.getCachedAbilities(player).forEach(c -> {
-                    var augment = AugmentRegistry.getInstance().getAugmentById(new ResourceLocation(c));
+                    var augment = AugmentRegistry.getInstance().getAugmentById(ResourceLocations.parse(c));
 
                     if (augment instanceof HealthBoostAugment && cache.isCached(augment, player)) {
                         cache.removeQuietly(c, player);

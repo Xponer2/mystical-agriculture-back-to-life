@@ -32,6 +32,12 @@ public class MysticalCropBlock extends BlockCrops implements ICropProvider {
         this.disableStats();
     }
 
+    // 1.12.2: BlockBush#getPlantType calls every BlockCrops but the vanilla ones Plains (1.21: a crop)
+    @Override
+    public net.minecraftforge.common.EnumPlantType getPlantType(IBlockAccess world, BlockPos pos) {
+        return net.minecraftforge.common.EnumPlantType.Crop;
+    }
+
     @Override
     public boolean canUseBonemeal(World level, Random random, BlockPos pos, IBlockState state) {
         return false;
